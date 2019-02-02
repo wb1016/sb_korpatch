@@ -1,0 +1,5 @@
+아이템 번역 	: WHITEBRICK,푸른여우,Killere
+인터페이스 번역 	:
+인터페이스 제작	:
+검수		:
+폰트 제작		: SunghyunKim, Kibmer
