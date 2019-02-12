@@ -1,5 +1,5 @@
-아이템 번역 	: WHITEBRICK,푸른여우,Killere
-인터페이스 번역 	:
+아이템 번역 	: WHITEBRICK, 푸른여우, Killere, Kamakk, 돼지빌런, Null0Null0 
+인터페이스 번역 : 
 인터페이스 제작	:
-검수		:
+검수			: Null0Null0
 폰트 제작		: SunghyunKim, Kibmer
