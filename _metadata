@@ -1,8 +1,10 @@
 {
   "author" : "KorPatchTeam",
-  "description" : "스타바운드 한국어 패치 입니다.\n 초기 개발 버전이며, 언제든지 업데이트가 중단될 수 있습니다.",
-  "friendlyName" : "스타바운드 한국어 패치-Continued",
-  "link" : "https://drive.google.com/drive/folders/174pnPJJcGmmH3zvGL0uIei9GM5ZIPsVu?usp=sharing",
-  "name" : "SB Kor Patch nightly",
-  "version" : "build 003-190212"
+  "description" : "스타바운드 한국어 패치 입니다.\n초기 개발 버전이며, 언제든지 업데이트가 중단될 수 있습니다.",
+  "friendlyName" : "스타바운드 한국어 패치 - Continued",
+  "link" : "steam://url/CommunityFilePage/1653383122",
+  "name" : "SB Kor Patch Project",
+  "steamContentId" : "1653383122",
+  "tags" : "User Interface",
+  "version" : "rolling-004-190216"
 }
