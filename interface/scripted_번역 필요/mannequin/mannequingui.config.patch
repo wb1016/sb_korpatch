@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/gui/equipCosmetic/caption", "value": "\ucc29\uc6a9 (\uc7a5\uc2dd\uce78)"}, {"op": "replace", "path": "/gui/equipFunctional/caption", "value": "\ucc29\uc6a9 (\uae30\ub2a5\uce78)"}, {"op": "replace", "path": "/gui/swapGender/caption", "value": "\uc131\ubcc4 \uc804\ud658"}]

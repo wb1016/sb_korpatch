@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/gui/btnShip/caption", "value": "\uc218\uc1a1\ud558\uae30"}, {"op": "replace", "path": "/gui/count/value", "value": "40 \uce78"}, {"op": "replace", "path": "/gui/lblMoneyLabel/value", "value": "\ucd1d \uac00\uaca9"}]
