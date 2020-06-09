@@ -1,0 +1,20 @@
+[
+{"op": "replace", "path": "/gui/windowtitle/title", "value": "\uD56D\uBC95 \uCF58\uC194"},
+{"op": "replace", "path": "/gui/windowtitle/subtitle", "value": "\uBAA9\uC801\uC9C0\uB97C \uC120\uD0DD\uD558\uC138\uC694"},
+
+{"op": "replace", "path": "/gui/bookmarksFrame/children/bookmarkList/children/bookmarkItemList/schema/listTemplate/name/value", "value": "\uBD81\uB9C8\uD06C \uC774\uB984"},
+{"op": "replace", "path": "/gui/bookmarksFrame/children/bookmarkList/children/bookmarkItemList/schema/listTemplate/planetName/value", "value": "\uD589\uC131 \uC774\uB984"},
+
+{"op": "replace", "path": "/gui/editBookmarkFrame/children/ok/caption", "value": "\uD655\uC778"},
+{"op": "replace", "path": "/gui/editBookmarkFrame/children/remove/caption", "value": "\uC0AD\uC81C"},
+{"op": "replace", "path": "/gui/editBookmarkFrame/children/close/caption", "value": "\uCDE8\uC18C"},
+{"op": "replace", "path": "/gui/editBookmarkFrame/children/title/value", "value": "\uC0C8 \uBD81\uB9C8\uD06C"},
+
+{"op": "replace", "path": "/gui/jumpDialog/children/jump/caption", "value": "\uC810\uD504"},
+{"op": "replace", "path": "/gui/jumpDialog/children/cancel/caption", "value": "\uCDE8\uC18C"},
+{"op": "replace", "path": "/gui/jumpDialog/children/title/value", "value": "FTL \uD56D\uD574 \uD655\uC778"},
+{"op": "replace", "path": "/gui/jumpDialog/children/text/value", "value": "FTL \uD56D\uD574\uB294 ^green;%s \uC5F0\uB8CC\uB97C \uC0AC\uC6A9\uD560 \uAC83\uC785\uB2C8\uB2E4.^reset;. \n\uACC4\uC18D\uD560 \uAC83\uC778\uC9C0 \uD655\uC778\uD574\uC8FC\uC138\uC694."}
+
+{"op": "replace", "path": "/gui/clusterinfo/children/inner/children/view/caption", "value": "\uBBF8\uD0D0\uD5D8\uB41C"}
+
+]
