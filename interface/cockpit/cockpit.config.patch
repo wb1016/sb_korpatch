@@ -13,8 +13,34 @@
 {"op": "replace", "path": "/gui/jumpDialog/children/jump/caption", "value": "\uC810\uD504"},
 {"op": "replace", "path": "/gui/jumpDialog/children/cancel/caption", "value": "\uCDE8\uC18C"},
 {"op": "replace", "path": "/gui/jumpDialog/children/title/value", "value": "FTL \uD56D\uD574 \uD655\uC778"},
-{"op": "replace", "path": "/gui/jumpDialog/children/text/value", "value": "FTL \uD56D\uD574\uB294 ^green;%s \uC5F0\uB8CC\uB97C \uC0AC\uC6A9\uD560 \uAC83\uC785\uB2C8\uB2E4.^reset;. \n\uACC4\uC18D\uD560 \uAC83\uC778\uC9C0 \uD655\uC778\uD574\uC8FC\uC138\uC694."}
+{"op": "replace", "path": "/gui/jumpDialog/children/text/value", "value": "FTL \uD56D\uD574\uB294 ^green;%s \uC5F0\uB8CC\uB97C \uC0AC\uC6A9\uD560 \uAC83\uC785\uB2C8\uB2E4.^reset;. \n\uACC4\uC18D\uD560 \uAC83\uC778\uC9C0 \uD655\uC778\uD574\uC8FC\uC138\uC694."},
 
-{"op": "replace", "path": "/gui/clusterinfo/children/inner/children/view/caption", "value": "\uBBF8\uD0D0\uD5D8\uB41C"}
+{"op": "replace", "path": "/gui/clusterinfo/children/inner/children/view/caption", "value": "\uC544\uC9C1 \uD0D0\uD5D8\uB418\uC9C0 \uC54A\uC74C"},
+{"op": "replace", "path": "/gui/objectinfo/children/inner/children/threat/value", "value": "\uBA54\uD06C \uD544\uC694"},
+{"op": "replace", "path": "/gui/systeminfo/children/inner/children/view/caption", "value": "\uC544\uC9C1 \uD0D0\uD5D8\uB418\uC9C0 \uC54A\uC74C"},
+{"op": "replace", "path": "/gui/planetinfo/children/inner/children/ores/value", "value": "\uC9C0\uC9C8\uD559\uC801 \uBD84\uC11D"},
+{"op": "replace", "path": "/gui/planetinfo/children/inner/children/weather/value", "value": "\uAE30\uD6C4"},
+{"op": "replace", "path": "/gui/planetinfo/children/inner/children/bookmark/caption", "value": "\uBD81\uB9C8\uD06C \uC774\uB984"},
 
+{"op": "replace", "path": "/gui/disabledLabel/value", "value": "\uB0B4\uBE44\uAC8C\uC774\uC158 \uC0AC\uC6A9 \uBD88\uAC00"},
+{"op": "replace", "path": "/gui/transitLabel/value", "value": "\uD568\uC120 \uC774\uB3D9\uC911"},
+{"op": "replace", "path": "/gui/remoteTitle/value", "value": "\uC6D0\uACA9 \uD56D\uC131\uACC4 \uBCF4\uAE30"},
+{"op": "replace", "path": "/gui/remoteDescription/value", "value": "\uBD84\uC11D\uB418\uC9C0 \uC54A\uC740 \uCC9C\uCCB4 \uC0AC\uC6A9 \uBD88\uAC00"},
+
+{"op": "replace", "path": "/planetInfoBox/bookmarkButtonCaption/add", "value": "\uBD81\uB9C8\uD06C \uCD94\uAC00"},
+{"op": "replace", "path": "/planetInfoBox/bookmarkButtonCaption/edit", "value": "\uBD81\uB9C8\uD06C \uD3B8\uC9D1"},
+{"op": "replace", "path": "/planetInfoBox/bookmarkButtonCaption/disabled", "value": "\uBD81\uB9C8\uD06C \uC0AC\uC6A9 \uBD88\uAC00"},
+
+{"op": "replace", "path": "/clusterInfoBox/viewButtonCaption/enabled", "value": "\uBCF4\uAE30"},
+{"op": "replace", "path": "/clusterInfoBox/viewButtonCaption/disabled", "value": "\uBBF8\uD0D0\uD5D8"},
+
+{"op": "replace", "path": "/visitableTypeDescription/garden", "value": [
+"\uCC29\uB959\uC9C0\uC810\uC5D0 ^#76fe68;\uC6B8\uCC3D\uD55C \uC218\uD480^white;\uACFC \uC5B8\uB355\uC774 \uAC10\uC9C0\uB429\uB2C8\uB2E4. \uC774\uACF3\uC5D0\uC11C \uC2DD\uBB3C\uACFC \uB3D9\uBB3C \uBAA8\uB450 \uD48D\uBD80\uD558\uAC8C \uC11C\uC2DD\uD558\uACE0 \uC788\uC2B5\uB2C8\uB2E4. \uC804\uC1A1 \uC9C0\uC810\uC740 \uB9E4\uC6B0 \uC548\uC804\uD569\uB2C8\uB2E4.",
+"\uC804\uC1A1 \uC9C0\uC810\uC740 \uC0DD\uBB3C \uB2E4\uC591\uC131\uC774 \uB192\uC740 \uD3C9\uC628\uD55C \uACF3\uC785\uB2C8\uB2E4. \uB2F9\uC2E0\uC774 \uC0AC\uC6A9\uD560 \uC218 \uC788\uB294 \uC790\uC6D0\uC774 \uC788\uC2B5\uB2C8\uB2E4.",
+"\uCC29\uB959 \uC9C0\uC810\uC758 \uCE21\uC815 \uACB0\uACFC\uB294 \uAE0D\uC815\uC801\uC785\uB2C8\uB2E4. \uC774 \uC9C0\uC5ED\uC740 \uC548\uC804\uD558\uBA70 \uB3D9\uC2DD\uBB3C\uAD70\uC774 \uD48D\uBD80\uD558\uAC8C \uC11C\uC2DD\uD558\uACE0 \uC788\uC2B5\uB2C8\uB2E4. \uC548\uC804\uD55C ^#76fe68;\uC218\uD480^white; \uC9C0\uB300\uC785\uB2C8\uB2E4."
+]},
+{"op": "replace", "path": "/visitableTypeDescription/forest", "value": [
+"\uB098\uBB34\uC640 \uB2E4\uB978 \uB3D9\uC2DD\uBB3C\uC774 \uBC00\uC9D1\uB418\uC5B4 \uC788\uB294 \uCC29\uB959 \uC9C0\uC810\uC740 \uB2F9\uC2E0\uC744 \uD3EC\uD568\uD55C \uB9CE\uC740 \uC0DD\uBA85\uC744 \uB3D5\uB294 ^#15ce02;\uC0BC\uB9BC^white; \uC9C0\uB300\uC785\uB2C8\uB2E4.",
+"\uC774 ^#15ce02;\uC232^white;\uC5D0\uB294 \uC78E\uC774 \uBB34\uC131\uD55C \uB098\uBB34\uB4E4\uC774 \uB9CE\uC2B5\uB2C8\uB2E4. \uC774 \uC9C0\uC5ED\uC740 \uC0DD\uBA85\uCCB4\uAC00 \uC0B4\uAE30\uC5D0 \uCF8C\uC801\uD569\uB2C8\uB2E4. \uC81C \uB370\uC774\uD130\uBCA0\uC774\uC2A4\uC5D0 \uB530\uB974\uBA74 \uB2F9\uC2E0\uC774 \uC0BC\uB9BC\uC9C0\uB300\uC758 \uC0DD\uBB3C\uB4E4\uC744 \uB9CC\uB0A0 \uC218 \uC788\uC2B5\uB2C8\uB2E4.",
+"\uC774 \uD589\uC131\uC758 \uC804\uC1A1 \uC9C0\uC810\uC740 ^#15ce02;\uC232^white;\uC5D0 \uC788\uC2B5\uB2C8\uB2E4. \uCE21\uC815 \uACB0\uACFC\uC5D0 \uB530\uB974\uBA74 \uC774 \uC0BC\uB9BC \uC9C0\uC5ED\uC740 \uBE44\uAD50\uC801 \uD3C9\uC628\uD569\uB2C8\uB2E4."]}
 ]
