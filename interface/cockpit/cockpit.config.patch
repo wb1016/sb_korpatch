@@ -163,109 +163,148 @@
 ]},
 
 {"op": "replace", "path": "/displayOres/copper/displayName", "value": [
-\uAD6C\uB9AC (Copper)
+	"\uAD6C\uB9AC (Copper)"
 ]},
 {"op": "replace", "path": "/displayOres/silver/displayName", "value": [
-\uC740 (Silver)
+	"\uC740 (Silver)"
 ]},
 {"op": "replace", "path": "/displayOres/gold/displayName", "value": [
-\uAE08 (Gold)
+	"\uAE08 (Gold)"
 ]},
 {"op": "replace", "path": "/displayOres/iron/displayName", "value": [
-\uCCA0 (Iron)
+	"\uCCA0 (Iron)"
 ]},
 {"op": "replace", "path": "/displayOres/tungsten/displayName", "value": [
-\uD145\uC2A4\uD150 (Tungsten)
+	"\uD145\uC2A4\uD150 (Tungsten)"
 ]},
 {"op": "replace", "path": "/displayOres/titanium/displayName", "value": [
-\uD0C0\uC774\uD0C0\uB284 (Titanium)
+	"\uD0C0\uC774\uD0C0\uB284 (Titanium)"
 ]},
 {"op": "replace", "path": "/displayOres/durasteel/displayName", "value": [
-\uACE0\uAC15\uB3C4\uAC15 (Durasteel)
+	"\uACE0\uAC15\uB3C4\uAC15 (Durasteel)"
 ]},
 {"op": "replace", "path": "/displayOres/ferozium/displayName", "value": [
-\uD398\uB85C\uC9C0\uC6C0 (Ferozium)
+	"\uD398\uB85C\uC9C0\uC6C0 (Ferozium)"
 ]},
 {"op": "replace", "path": "/displayOres/aegisalt/displayName", "value": [
-\uC5D0\uC9C0\uC194\uD2B8 (Aegisalt)
+	"\uC5D0\uC9C0\uC194\uD2B8 (Aegisalt)"
 ]},
 {"op": "replace", "path": "/displayOres/violium/displayName", "value": [
-\uBC14\uC774\uC62C\uB968 (Violium)
+	"\uBC14\uC774\uC62C\uB968 (Violium)"
 ]},
 {"op": "replace", "path": "/displayOres/solarium/displayName", "value": [
-\uC194\uB77C\uB9AC\uC6C0 (Solarium)
+	"\uC194\uB77C\uB9AC\uC6C0 (Solarium)"
 ]},
 {"op": "replace", "path": "/displayOres/erchius/displayName", "value": [
-\uC5D0\uB974\uD0A4\uC6B0\uC2A4 \uACB0\uC815 \uC5F0\uB8CC (Crystal Erchius Fuel)
+	"\uC5D0\uB974\uD0A4\uC6B0\uC2A4 \uACB0\uC815 \uC5F0\uB8CC (Crystal Erchius Fuel)"
 ]},
 
 {"op": "replace", "path": "/displayWeathers/rain/displayName", "value": [
-\uBE44 (Rain)
+	"\uBE44 (Rain)"
 ]},
 {"op": "replace", "path": "/displayWeathers/drizzle/displayName", "value": [
-\uC774\uC2AC\uBE44 (Drizzle)
+	"\uC774\uC2AC\uBE44 (Drizzle)"
 ]},
 {"op": "replace", "path": "/displayWeathers/storm/displayName", "value": [
-\uD3ED\uD48D (Storms)
+	"\uD3ED\uD48D (Storms)"
 ]},
 {"op": "replace", "path": "/displayWeathers/ember/displayName", "value": [
-\uC794\uBD88 \uC18C\uB098\uAE30 (Cinder Showers)
+	"\uC794\uBD88 \uC18C\uB098\uAE30 (Cinder Showers)"
 ]},
 {"op": "replace", "path": "/displayWeathers/snow/displayName", "value": [
-\uB208 (Snow)
+	"\uB208 (Snow)"
 ]},
 {"op": "replace", "path": "/displayWeathers/fog/displayName", "value": [
-\uC548\uAC1C (Fog)
+	"\uC548\uAC1C (Fog)"
 ]},
 {"op": "replace", "path": "/displayWeathers/ash/displayName", "value": [
-\uD654\uC0B0\uC7AC (Ashfall)
+	"\uD654\uC0B0\uC7AC (Ashfall)"
 ]},
 {"op": "replace", "path": "/displayWeathers/lightash/displayName", "value": [
-\uAC00\uBCBC\uC6B4 \uD654\uC0B0\uC7AC (Light Ashfall)
+	"\uAC00\uBCBC\uC6B4 \uD654\uC0B0\uC7AC (Light Ashfall)"
 ]},
 {"op": "replace", "path": "/displayWeathers/meteorshower/displayName", "value": [
-\uC791\uC740 \uC6B4\uC11D (Small Meteorites)
+	"\uC791\uC740 \uC6B4\uC11D (Small Meteorites)"
 ]},
 {"op": "replace", "path": "/displayWeathers/largemeteor/displayName", "value": [
-\uD070 \uC6B4\uC11D (Large Meteorites)
+	"\uD070 \uC6B4\uC11D (Large Meteorites)"
 ]},
 {"op": "replace", "path": "/displayWeathers/glowingrain/displayName", "value": [
-\uBC1C\uAD11\uC131 \uBE44 (Luminous Rain)
+	"\uBC1C\uAD11\uC131 \uBE44 (Luminous Rain)"
 ]},
 {"op": "replace", "path": "/displayWeathers/crystalrain/displayName", "value": [
-\uACB0\uC815 \uBE44 (Crystal Rain)
+	"\uACB0\uC815 \uBE44 (Crystal Rain)"
 ]},
 {"op": "replace", "path": "/displayWeathers/hailstones/displayName", "value": [
-\uC6B0\uBC15 (Hail)
+	"\uC6B0\uBC15 (Hail)"
 ]},
 {"op": "replace", "path": "/displayWeathers/groundmist/displayName", "value": [
-\uC548\uAC1C (Mist)
+	"\uC548\uAC1C (Mist)"
 ]},
 {"op": "replace", "path": "/displayWeathers/windstorm/displayName", "value": [
-\uD3ED\uD48D (Windstorms)
+	"\uD3ED\uD48D (Windstorms)"
 ]},
 {"op": "replace", "path": "/displayWeathers/spacejunk/displayName", "value": [
-\uADA4\uB3C4 \uC794\uD574 (Orbital Debris)
+	"\uADA4\uB3C4 \uC794\uD574 (Orbital Debris)"
 ]},
 {"op": "replace", "path": "/displayWeathers/spacedustshower/displayName", "value": [
-\uC6B0\uC8FC \uBA3C\uC9C0 (Stardust)
+	"\uC6B0\uC8FC \uBA3C\uC9C0 (Stardust)"
 ]},
 {"op": "replace", "path": "/displayWeathers/snowstorm/displayName", "value": [
-\uB208\uBCF4\uB77C (Blizzards)
+	"\uB208\uBCF4\uB77C (Blizzards)"
 ]},
 {"op": "replace", "path": "/displayWeathers/sandstorm/displayName", "value": [
-\uBAA8\uB798 \uD3ED\uD48D (Sandstorms)
+	"\uBAA8\uB798 \uD3ED\uD48D (Sandstorms)"
 ]},
 {"op": "replace", "path": "/displayWeathers/duststorm/displayName", "value": [
-\uBA3C\uC9C0 \uD3ED\uD48D (Dust Storms)
+	"\uBA3C\uC9C0 \uD3ED\uD48D (Dust Storms)"
 ]},
 {"op": "replace", "path": "/displayWeathers/icestorm/displayName", "value": [
-\uC5BC\uC74C \uD3ED\uD48D (Ice Storms)
+	"\uC5BC\uC74C \uD3ED\uD48D (Ice Storms)"
 ]},
 {"op": "replace", "path": "/displayWeathers/acidrain/displayName", "value": [
-\uC0B0\uC131\uBE44 (Acid Rain)
+	"\uC0B0\uC131\uBE44 (Acid Rain)"
 ]},
 
-{"op": "replace", "path": "/jumpDialog/valid", "value": "FTL \uD56D\uD574\uB294 ^green;%s \uC5F0\uB8CC^reset;\uB97C \uC0AC\uC6A9\uD560 \uAC83\uC785\uB2C8\uB2E4. \n\uACC4\uC18D\uD560 \uAC83\uC778\uC9C0 \uD655\uC778\uD574\uC8FC\uC138\uC694."},
-{"op": "replace", "path": "/jumpDialog/invalid", "value": "FTL \uD56D\uD574\uB294 ^red;%i \uC5F0\uB8CC^reset;\uB97C \uD544\uC694\uB85C \uD569\uB2C8\uB2E4.\n\uC5F0\uB8CC\uAC00 \uBD80\uC871\uD569\uB2C8\uB2E4."}
-]
+{"op": "replace", "path": "/bookmarks/newTitle", "value": [
+	"\uC0C8 \uBD81\uB9C8\uD06C"
+]},
+{"op": "replace", "path": "/bookmarks/editTitle", "value": [
+	"\uBD81\uB9C8\uD06C \uD3B8\uC9D1"
+]},
+
+{"op": "replace", "path": "/jumpDialog/valid", "value": 
+	"FTL \uD56D\uD574\uB294 ^green;%s \uC5F0\uB8CC^reset;\uB97C \uC0AC\uC6A9\uD560 \uAC83\uC785\uB2C8\uB2E4. \n\uACC4\uC18D\uD560 \uAC83\uC778\uC9C0 \uD655\uC778\uD574\uC8FC\uC138\uC694."},
+{"op": "replace", "path": "/jumpDialog/invalid", "value": 
+	"FTL \uD56D\uD574\uB294 ^red;%i \uC5F0\uB8CC^reset;\uB97C \uD544\uC694\uB85C \uD569\uB2C8\uB2E4.\n\uC5F0\uB8CC\uAC00 \uBD80\uC871\uD569\uB2C8\uB2E4."}
+]},
+
+{"op": "replace", "path": "/topLeftButtonTooltips/showBookmarkList", "value": [
+	"\uBD81\uB9C8\uD06C"
+]},
+{"op": "replace", "path": "/topLeftButtonTooltips/goToShip", "value": [
+	"\uD568\uC120 \uBCF4\uAE30"
+]},
+{"op": "replace", "path": "/topLeftButtonTooltips/goToQuest", "value": [
+	"\uD018\uC2A4\uD2B8 \uC704\uCE58 \uBCF4\uAE30"
+]},
+{"op": "replace", "path": "/topLeftButtonTooltips/showCoordinates", "value": [
+	"\uC88C\uD45C"
+]},
+
+{"op": "replace", "path": "/objectThreatText/threatTextPrefix", "value": [
+	"^white;\uC704\uD611: ^reset;"
+]},
+{"op": "replace", "path": "/objectThreatText/unavailable", "value": [
+	"\uBA54\uD06C \uD544\uC694"
+]},
+{"op": "replace", "path": "/objectThreatText/available", "value": [
+	"\uC5C6\uC74C",
+	"\uB0AE\uC74C",
+	"\uBCF4\uD1B5",
+	"\uC704\uD5D8\uD568",
+	"\uADF9\uB2E8\uC801"
+]},
+{"op": "replace", "path": "/objectThreatText/friendly", "value": [
+	"\uC5C6\uC74C"
+]}
