@@ -18,6 +18,8 @@
 {"op": "replace", "path": "/gui/clusterinfo/children/inner/children/view/caption", "value": "\uC544\uC9C1 \uD0D0\uD5D8\uB418\uC9C0 \uC54A\uC74C"},
 {"op": "replace", "path": "/gui/objectinfo/children/inner/children/threat/value", "value": "\uBA54\uD06C \uD544\uC694"},
 {"op": "replace", "path": "/gui/systeminfo/children/inner/children/view/caption", "value": "\uC544\uC9C1 \uD0D0\uD5D8\uB418\uC9C0 \uC54A\uC74C"},
+{"op": "replace", "path": "/gui/planetinfo/children/inner/children/threatLabel/value", "value": "\uC704\uD611 : "},
+{"op": "replace", "path": "/gui/planetinfo/children/inner/children/threatValue/value", "value": "\uC704\uD5D8\uD568"},
 {"op": "replace", "path": "/gui/planetinfo/children/inner/children/ores/value", "value": "\uC9C0\uC9C8\uD559\uC801 \uBD84\uC11D"},
 {"op": "replace", "path": "/gui/planetinfo/children/inner/children/weather/value", "value": "\uAE30\uD6C4"},
 {"op": "replace", "path": "/gui/planetinfo/children/inner/children/bookmark/caption", "value": "\uBD81\uB9C8\uD06C \uC774\uB984"},
@@ -111,7 +113,7 @@
 {"op": "replace", "path": "/visitableTypeDescription/magma", "value": [
 	"^red;\uC704\uD5D8\uD560 \uC815\uB3C4\uB85C \uB728\uAC70\uC6B4^white; \uC774 \uD589\uC131\uC740 \uC8FC\uB85C ^#ff1818;\uB9C8\uADF8\uB9C8^white;\uB85C \uC774\uB8E8\uC5B4\uC838 \uC788\uC2B5\uB2C8\uB2E4. \uAE30\uC5B5\uD558\uC138\uC694, \uB2F9\uC2E0\uC740 \uC815\uC2E0\uB825\uC774 \uAC15\uD55C \uAC83\uC774\uC9C0 \uB0B4\uD654\uC131\uC774 \uAC15\uD55C \uAC83\uC774 \uC544\uB2D9\uB2C8\uB2E4.",
 	"\uD589\uC131 \uD45C\uBA74\uC740 ^red;\uC704\uD5D8\uD560 \uC815\uB3C4\uB85C \uB728\uAC81\uC2B5\uB2C8\uB2E4^white;. \uC774 \uD589\uC131\uC758 \uAD11\uD65C\uD55C ^#ff1818;\uB9C8\uADF8\uB9C8^white; \uBC14\uB2E4 \uC0AC\uC774\uC5D0 \uC874\uC7AC\uD558\uB294 \uC0DD\uBA85\uCCB4\uB294 \uAC70\uC758 \uC5C6\uC2B5\uB2C8\uB2E4.",
-	"\uC804\uC1A1 \uC9C0\uC810\uC740 ^#ff1818;\uB9C8\uADF8\uB9C8^white; \uBC14\uB2E4 \uD55C\uAC00\uC6B4\uB370\uC5D0 \uACE0\uB9BD\uB41C \uC791\uC740 \uC12C\uC785\uB2C8\uB2E4. \uC774 ^red;\uC9C0\uB3C5\uD558\uAC8C \uB728\uAC70\uC6B4^white; \uD589\uC131\uC744 \uBC29\uBB38\uD558\uB294 \uAC83\uC744 \uACE0\uB824\uD55C\uB2E4\uB294 \uAC83\uC740 \uB2F9\uC2E0\uC758 \uAC15\uC778\uD568\uC744 \uB9D0\uD574\uC90D\uB2C8\uB2E4.
+	"\uC804\uC1A1 \uC9C0\uC810\uC740 ^#ff1818;\uB9C8\uADF8\uB9C8^white; \uBC14\uB2E4 \uD55C\uAC00\uC6B4\uB370\uC5D0 \uACE0\uB9BD\uB41C \uC791\uC740 \uC12C\uC785\uB2C8\uB2E4. \uC774 ^red;\uC9C0\uB3C5\uD558\uAC8C \uB728\uAC70\uC6B4^white; \uD589\uC131\uC744 \uBC29\uBB38\uD558\uB294 \uAC83\uC744 \uACE0\uB824\uD55C\uB2E4\uB294 \uAC83\uC740 \uB2F9\uC2E0\uC758 \uAC15\uC778\uD568\uC744 \uB9D0\uD574\uC90D\uB2C8\uB2E4."
 ]},
 
 {"op": "replace", "path": "/visitableTypeDescription/moon", "value": [
@@ -119,14 +121,14 @@
 	"\uC774 ^#949493;\uB2EC\uC740^white; \uC0DD\uBA85\uCCB4\uAC00 \uC0B4 \uC218 \uC5C6\uC73C\uBA70 ^red;\uB300\uAE30\uB3C4 \uC5C6\uC2B5\uB2C8\uB2E4^white;. \uADF8\uB7EC\uB098, \uC5F0\uB8CC\uB294 \uD48D\uBD80\uD569\uB2C8\uB2E4. \uC2A4\uCE94 \uACB0\uACFC, \uC5F0\uB8CC\uAC00 \uC9C0\uD45C\uBA74 \uC544\uB798\uC5D0 \uB9E4\uC7A5\uB418\uC5B4 \uC788\uB2E4\uB294 \uAC83\uC744 \uC54C \uC218 \uC788\uC2B5\uB2C8\uB2E4.",
 	"\uC774 \uACF5\uD5C8\uD55C ^#949493;\uB2EC\uC740^white; \uC228\uC274 \uC218 \uC788\uB294 ^red;\uB300\uAE30\uAC00 \uC5C6\uC9C0\uB9CC^white; \uC9C0\uD558\uC5D0\uB294 \uAC70\uB300\uD55C \uC5F0\uB8CC \uB9E4\uC7A5\uCE35\uC744 \uD3EC\uD568\uD558\uB294 \uB3D9\uAD74\uC774 \uC788\uC2B5\uB2C8\uB2E4. \uC694\uC57D\uD558\uC790\uBA74, \uC720\uC6A9\uD558\uC9C0\uB9CC \uC720\uD639\uC801\uC774\uC9C0\uB294 \uC54A\uC2B5\uB2C8\uB2E4."
 ]},
-{"op": "replace", "path": "/visitableTypeDescription/moon", "value": [
+{"op": "replace", "path": "/visitableTypeDescription/asteroids", "value": [
 	"\uC18C\uD589\uC131 \uBB34\uB9AC\uC785\uB2C8\uB2E4. \uD310\uB3C5 \uACB0\uACFC \uC5EC\uAE30\uC5D0\uB294 \uB300\uAE30\uB098 \uC0DD\uBA85\uCCB4\uAC00 \uC5C6\uC2B5\uB2C8\uB2E4. \uAC74\uCD95\uD560 \uC218 \uC788\uB294 \uB05D\uC5C6\uB294 \uACF5\uD5C8\uC758 \uACF5\uAC04\uC774 \uCDA9\uBD84\uD569\uB2C8\uB2E4.",
 	"\uB300\uAE30\uC640 \uC0DD\uBA85\uCCB4\uAC00 \uC5C6\uB294 \uC18C\uD589\uC131 \uB760\uC785\uB2C8\uB2E4. \uC6B0\uC8FC\uB97C \uB5A0\uB2E4\uB2C8\uBA70 \uBA38\uB098\uBA3C \uBCC4\uC5D0 \uBB36\uC5EC \uC788\uB294... \uC9D1\uC744 \uC9D3\uAE30\uC5D0 \uC88B\uC740 \uC7A5\uC18C\uC785\uB2C8\uB2E4.",
 	"\uD0C0\uC6D0 \uADA4\uB3C4\uB97C \uB530\uB77C \uD45C\uB958\uD558\uB294 \uC18C\uD589\uC131\uB4E4\uC758 \uBB34\uB9AC\uC785\uB2C8\uB2E4. \uD310\uB3C5 \uACB0\uACFC \uC5EC\uAE30\uC5D0\uB294 \uB300\uAE30\uAC00 \uC5C6\uC2B5\uB2C8\uB2E4."
 ]},
 {"op": "replace", "path": "/visitableTypeDescription/barren", "value": [
 	"\uC774\uACF3\uC740 \uC0DD\uBA85\uCCB4\uAC00 \uC0B4\uC9C0 \uC54A\uB294 \uBD88\uBAA8\uC9C0\uC785\uB2C8\uB2E4. \uD310\uB3C5 \uACB0\uACFC \uC5EC\uAE30\uC5D0\uB294 \uC544\uBB34\uAC83\uB3C4 \uC5C6\uC2B5\uB2C8\uB2E4.",
-	"\uC774 \uD589\uC131\uC740 \uC5B4\uB5A4 \uC885\uB958\uC758 \uC0DD\uBA85\uB3C4 \uC0B4\uC9C0 \uBABB\uD558\uB294 \uBD88\uBAA8\uC9C0\uC785\uB2C8\uB2E4. \uC5EC\uAE30\uC5D4 \uC544\uBB34\uAC83\uB3C4 \uC5C6\uC2B5\uB2C8\uB2E4..."
+	"\uC774 \uD589\uC131\uC740 \uC5B4\uB5A4 \uC885\uB958\uC758 \uC0DD\uBA85\uB3C4 \uC0B4\uC9C0 \uBABB\uD558\uB294 \uBD88\uBAA8\uC9C0\uC785\uB2C8\uB2E4. \uC5EC\uAE30\uC5D4 \uC544\uBB34\uAC83\uB3C4 \uC5C6\uC2B5\uB2C8\uB2E4...",
 	"\uCE21\uC815 \uACB0\uACFC \uCC29\uB959\uC9C0\uC810\uC774 \uD754\uCE58 \uC54A\uC740 \uC0C9\uC73C\uB85C \uB418\uC5B4 \uC788\uB2E4\uB294 \uAC83\uC744 \uC54C\uC544\uB0C8\uB2C8\uB2E4.. \uB610\uD55C, \uADF8\uACF3\uC740 \uBD88\uBAA8\uC9C0\uC774\uACE0 \uAC74\uC124\uC5D0 \uC801\uD569\uD560 \uAC83\uC774\uB77C\uB294 \uAC83\uB3C4\uC694."
 ]},
 
@@ -136,7 +138,7 @@
 
 {"op": "replace", "path": "/terraformedPlanetDescription", "value": [
 	"\uC774 \uD589\uC131\uC740 \uAD11\uBC94\uC704\uD55C \uD14C\uB77C\uD3EC\uBC0D\uC5D0 \uC758\uD574 \uC54C\uC544\uBCFC \uC218 \uC5C6\uC744 \uC815\uB3C4\uB85C \uBCC0\uD615\uB418\uC5C8\uC2B5\uB2C8\uB2E4.",
-	"\uD14C\uB77C\uD3EC\uBC0D\uC740 \uC678\uAD00\uC0C1 \uBD80\uC790\uC5F0\uC2A4\uB7FD\uAE30\uB294 \uD558\uC9C0\uB9CC \uC774 \uD589\uC131\uC744 \uAC70\uC8FC\uD558\uAE30\uC5D0 \uC548\uC804\uD55C \uACF3\uC73C\uB85C \uB9CC\uB4E4\uC5C8\uC2B5\uB2C8\uB2E4."
+	"\uD14C\uB77C\uD3EC\uBC0D\uC740 \uC678\uAD00\uC0C1 \uBD80\uC790\uC5F0\uC2A4\uB7FD\uAE30\uB294 \uD558\uC9C0\uB9CC \uC774 \uD589\uC131\uC744 \uAC70\uC8FC\uD558\uAE30\uC5D0 \uC548\uC804\uD55C \uACF3\uC73C\uB85C \uB9CC\uB4E4\uC5C8\uC2B5\uB2C8\uB2E4.",
 	"\uC774 \uD589\uC131\uC758 \uAE30\uD6C4\uC640 \uC0DD\uD0DC\uACC4\uB294 \uD14C\uB77C\uD3EC\uBC0D\uC5D0 \uC758\uD574 \uADF9\uC801\uC73C\uB85C \uBCC0\uD654\uB418\uC5C8\uC2B5\uB2C8\uB2E4."
 ]},
 
@@ -158,146 +160,147 @@
 	"***",
 	"***"
 ]},
-{"op": "replace", "path": "/threatLevelText/default", "value": [
+{"op": "replace", "path": "/threatLevelText/moon", "value": 
 	"\uC54C \uC218 \uC5C6\uC74C (Unknown)"
-]},
+},
 
-{"op": "replace", "path": "/displayOres/copper/displayName", "value": [
+{"op": "replace", "path": "/displayOres/copper/displayName", "value": 
 	"\uAD6C\uB9AC (Copper)"
-]},
-{"op": "replace", "path": "/displayOres/silver/displayName", "value": [
+},
+{"op": "replace", "path": "/displayOres/silver/displayName", "value": 
 	"\uC740 (Silver)"
-]},
-{"op": "replace", "path": "/displayOres/gold/displayName", "value": [
+},
+{"op": "replace", "path": "/displayOres/gold/displayName", "value": 
 	"\uAE08 (Gold)"
-]},
-{"op": "replace", "path": "/displayOres/iron/displayName", "value": [
+},
+{"op": "replace", "path": "/displayOres/iron/displayName", "value": 
 	"\uCCA0 (Iron)"
-]},
-{"op": "replace", "path": "/displayOres/tungsten/displayName", "value": [
+},
+{"op": "replace", "path": "/displayOres/tungsten/displayName", "value": 
 	"\uD145\uC2A4\uD150 (Tungsten)"
-]},
-{"op": "replace", "path": "/displayOres/titanium/displayName", "value": [
+},
+{"op": "replace", "path": "/displayOres/titanium/displayName", "value": 
 	"\uD0C0\uC774\uD0C0\uB284 (Titanium)"
-]},
-{"op": "replace", "path": "/displayOres/durasteel/displayName", "value": [
+},
+{"op": "replace", "path": "/displayOres/durasteel/displayName", "value": 
 	"\uACE0\uAC15\uB3C4\uAC15 (Durasteel)"
-]},
-{"op": "replace", "path": "/displayOres/ferozium/displayName", "value": [
+},
+{"op": "replace", "path": "/displayOres/ferozium/displayName", "value": 
 	"\uD398\uB85C\uC9C0\uC6C0 (Ferozium)"
-]},
-{"op": "replace", "path": "/displayOres/aegisalt/displayName", "value": [
+},
+{"op": "replace", "path": "/displayOres/aegisalt/displayName", "value": 
 	"\uC5D0\uC9C0\uC194\uD2B8 (Aegisalt)"
-]},
-{"op": "replace", "path": "/displayOres/violium/displayName", "value": [
+},
+{"op": "replace", "path": "/displayOres/violium/displayName", "value": 
 	"\uBC14\uC774\uC62C\uB968 (Violium)"
-]},
-{"op": "replace", "path": "/displayOres/solarium/displayName", "value": [
+},
+{"op": "replace", "path": "/displayOres/solarium/displayName", "value": 
 	"\uC194\uB77C\uB9AC\uC6C0 (Solarium)"
-]},
-{"op": "replace", "path": "/displayOres/erchius/displayName", "value": [
+},
+{"op": "replace", "path": "/displayOres/erchius/displayName", "value": 
 	"\uC5D0\uB974\uD0A4\uC6B0\uC2A4 \uACB0\uC815 \uC5F0\uB8CC (Crystal Erchius Fuel)"
-]},
+},
 
-{"op": "replace", "path": "/displayWeathers/rain/displayName", "value": [
+{"op": "replace", "path": "/displayWeathers/rain/displayName", "value": 
 	"\uBE44 (Rain)"
-]},
-{"op": "replace", "path": "/displayWeathers/drizzle/displayName", "value": [
+},
+{"op": "replace", "path": "/displayWeathers/drizzle/displayName", "value": 
 	"\uC774\uC2AC\uBE44 (Drizzle)"
-]},
-{"op": "replace", "path": "/displayWeathers/storm/displayName", "value": [
+},
+{"op": "replace", "path": "/displayWeathers/storm/displayName", "value": 
 	"\uD3ED\uD48D (Storms)"
-]},
-{"op": "replace", "path": "/displayWeathers/ember/displayName", "value": [
+},
+{"op": "replace", "path": "/displayWeathers/ember/displayName", "value": 
 	"\uC794\uBD88 \uC18C\uB098\uAE30 (Cinder Showers)"
-]},
-{"op": "replace", "path": "/displayWeathers/snow/displayName", "value": [
+},
+{"op": "replace", "path": "/displayWeathers/snow/displayName", "value": 
 	"\uB208 (Snow)"
-]},
-{"op": "replace", "path": "/displayWeathers/fog/displayName", "value": [
+},
+{"op": "replace", "path": "/displayWeathers/fog/displayName", "value": 
 	"\uC548\uAC1C (Fog)"
-]},
-{"op": "replace", "path": "/displayWeathers/ash/displayName", "value": [
+},
+{"op": "replace", "path": "/displayWeathers/ash/displayName", "value": 
 	"\uD654\uC0B0\uC7AC (Ashfall)"
-]},
-{"op": "replace", "path": "/displayWeathers/lightash/displayName", "value": [
+},
+{"op": "replace", "path": "/displayWeathers/lightash/displayName", "value": 
 	"\uAC00\uBCBC\uC6B4 \uD654\uC0B0\uC7AC (Light Ashfall)"
-]},
-{"op": "replace", "path": "/displayWeathers/meteorshower/displayName", "value": [
+},
+{"op": "replace", "path": "/displayWeathers/meteorshower/displayName", "value": 
 	"\uC791\uC740 \uC6B4\uC11D (Small Meteorites)"
-]},
-{"op": "replace", "path": "/displayWeathers/largemeteor/displayName", "value": [
+},
+{"op": "replace", "path": "/displayWeathers/largemeteor/displayName", "value": 
 	"\uD070 \uC6B4\uC11D (Large Meteorites)"
-]},
-{"op": "replace", "path": "/displayWeathers/glowingrain/displayName", "value": [
+},
+{"op": "replace", "path": "/displayWeathers/glowingrain/displayName", "value": 
 	"\uBC1C\uAD11\uC131 \uBE44 (Luminous Rain)"
-]},
-{"op": "replace", "path": "/displayWeathers/crystalrain/displayName", "value": [
+},
+{"op": "replace", "path": "/displayWeathers/crystalrain/displayName", "value": 
 	"\uACB0\uC815 \uBE44 (Crystal Rain)"
-]},
-{"op": "replace", "path": "/displayWeathers/hailstones/displayName", "value": [
+},
+{"op": "replace", "path": "/displayWeathers/hailstones/displayName", "value": 
 	"\uC6B0\uBC15 (Hail)"
-]},
-{"op": "replace", "path": "/displayWeathers/groundmist/displayName", "value": [
+},
+{"op": "replace", "path": "/displayWeathers/groundmist/displayName", "value": 
 	"\uC548\uAC1C (Mist)"
-]},
-{"op": "replace", "path": "/displayWeathers/windstorm/displayName", "value": [
+},
+{"op": "replace", "path": "/displayWeathers/windstorm/displayName", "value": 
 	"\uD3ED\uD48D (Windstorms)"
-]},
-{"op": "replace", "path": "/displayWeathers/spacejunk/displayName", "value": [
+},
+{"op": "replace", "path": "/displayWeathers/spacejunk/displayName", "value": 
 	"\uADA4\uB3C4 \uC794\uD574 (Orbital Debris)"
-]},
-{"op": "replace", "path": "/displayWeathers/spacedustshower/displayName", "value": [
+},
+{"op": "replace", "path": "/displayWeathers/spacedustshower/displayName", "value": 
 	"\uC6B0\uC8FC \uBA3C\uC9C0 (Stardust)"
-]},
-{"op": "replace", "path": "/displayWeathers/snowstorm/displayName", "value": [
+},
+{"op": "replace", "path": "/displayWeathers/snowstorm/displayName", "value": 
 	"\uB208\uBCF4\uB77C (Blizzards)"
-]},
-{"op": "replace", "path": "/displayWeathers/sandstorm/displayName", "value": [
+},
+{"op": "replace", "path": "/displayWeathers/sandstorm/displayName", "value": 
 	"\uBAA8\uB798 \uD3ED\uD48D (Sandstorms)"
-]},
-{"op": "replace", "path": "/displayWeathers/duststorm/displayName", "value": [
+},
+{"op": "replace", "path": "/displayWeathers/duststorm/displayName", "value": 
 	"\uBA3C\uC9C0 \uD3ED\uD48D (Dust Storms)"
-]},
-{"op": "replace", "path": "/displayWeathers/icestorm/displayName", "value": [
+},
+{"op": "replace", "path": "/displayWeathers/icestorm/displayName", "value": 
 	"\uC5BC\uC74C \uD3ED\uD48D (Ice Storms)"
-]},
-{"op": "replace", "path": "/displayWeathers/acidrain/displayName", "value": [
+},
+{"op": "replace", "path": "/displayWeathers/acidrain/displayName", "value": 
 	"\uC0B0\uC131\uBE44 (Acid Rain)"
-]},
+},
 
-{"op": "replace", "path": "/bookmarks/newTitle", "value": [
+{"op": "replace", "path": "/bookmarks/newTitle", "value": 
 	"\uC0C8 \uBD81\uB9C8\uD06C"
-]},
-{"op": "replace", "path": "/bookmarks/editTitle", "value": [
+},
+{"op": "replace", "path": "/bookmarks/editTitle", "value": 
 	"\uBD81\uB9C8\uD06C \uD3B8\uC9D1"
-]},
+},
 
 {"op": "replace", "path": "/jumpDialog/valid", "value": 
-	"FTL \uD56D\uD574\uB294 ^green;%s \uC5F0\uB8CC^reset;\uB97C \uC0AC\uC6A9\uD560 \uAC83\uC785\uB2C8\uB2E4. \n\uACC4\uC18D\uD560 \uAC83\uC778\uC9C0 \uD655\uC778\uD574\uC8FC\uC138\uC694."},
+	"FTL \uD56D\uD574\uB294 ^green;%s \uC5F0\uB8CC^reset;\uB97C \uC0AC\uC6A9\uD560 \uAC83\uC785\uB2C8\uB2E4. \n\uACC4\uC18D\uD560 \uAC83\uC778\uC9C0 \uD655\uC778\uD574\uC8FC\uC138\uC694."
+},
 {"op": "replace", "path": "/jumpDialog/invalid", "value": 
-	"FTL \uD56D\uD574\uB294 ^red;%i \uC5F0\uB8CC^reset;\uB97C \uD544\uC694\uB85C \uD569\uB2C8\uB2E4.\n\uC5F0\uB8CC\uAC00 \uBD80\uC871\uD569\uB2C8\uB2E4."}
-]},
+	"FTL \uD56D\uD574\uB294 ^red;%i \uC5F0\uB8CC^reset;\uB97C \uD544\uC694\uB85C \uD569\uB2C8\uB2E4.\n\uC5F0\uB8CC\uAC00 \uBD80\uC871\uD569\uB2C8\uB2E4."
+},
 
-{"op": "replace", "path": "/topLeftButtonTooltips/showBookmarkList", "value": [
+{"op": "replace", "path": "/topLeftButtonTooltips/showBookmarkList", "value": 
 	"\uBD81\uB9C8\uD06C"
-]},
-{"op": "replace", "path": "/topLeftButtonTooltips/goToShip", "value": [
+},
+{"op": "replace", "path": "/topLeftButtonTooltips/goToShip", "value": 
 	"\uD568\uC120 \uBCF4\uAE30"
-]},
-{"op": "replace", "path": "/topLeftButtonTooltips/goToQuest", "value": [
+},
+{"op": "replace", "path": "/topLeftButtonTooltips/goToQuest", "value": 
 	"\uD018\uC2A4\uD2B8 \uC704\uCE58 \uBCF4\uAE30"
-]},
-{"op": "replace", "path": "/topLeftButtonTooltips/showCoordinates", "value": [
+},
+{"op": "replace", "path": "/topLeftButtonTooltips/showCoordinates", "value": 
 	"\uC88C\uD45C"
-]},
+},
 
-{"op": "replace", "path": "/objectThreatText/threatTextPrefix", "value": [
-	"^white;\uC704\uD611: ^reset;"
-]},
-{"op": "replace", "path": "/objectThreatText/unavailable", "value": [
+{"op": "replace", "path": "/threatTextPrefix", "value": 
+	"^white;\uC704\uD611 :^reset;"
+},
+{"op": "replace", "path": "/objectThreatText/unavailable", "value": 
 	"\uBA54\uD06C \uD544\uC694"
-]},
+},
 {"op": "replace", "path": "/objectThreatText/available", "value": [
 	"\uC5C6\uC74C",
 	"\uB0AE\uC74C",
@@ -305,6 +308,7 @@
 	"\uC704\uD5D8\uD568",
 	"\uADF9\uB2E8\uC801"
 ]},
-{"op": "replace", "path": "/objectThreatText/friendly", "value": [
+{"op": "replace", "path": "/objectThreatText/friendly", "value": 
 	"\uC5C6\uC74C"
-]}
+}
+]
