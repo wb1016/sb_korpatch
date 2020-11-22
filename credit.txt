@@ -1,0 +1,4 @@
+아이템 번역 	: Blue_ON, 푸른여우, Killere, Kamakk, 돼지빌런, Null0Null0 
+인터페이스 번역 : Blue_ON
+코덱스 번역	: OABHs
+폰트 제작		: SunghyunKim, Kibmer
