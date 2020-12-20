@@ -160,9 +160,9 @@
 	"***",
 	"***"
 ]},
-{"op": "replace", "path": "/threatLevelText/moon", "value": 
+{"op": "replace", "path": "/threatLevelText/moon", "value": [
 	"\uC54C \uC218 \uC5C6\uC74C (Unknown)"
-},
+]},
 
 {"op": "replace", "path": "/displayOres/copper/displayName", "value": 
 	"\uAD6C\uB9AC (Copper)"
@@ -268,6 +268,16 @@
 	"\uC0B0\uC131\uBE44 (Acid Rain)"
 },
 
+{"op": "replace", "path": "/clusterMoons/none", "value": 
+	"\uACF5\uC804 \uC911\uC778 \uCC9C\uC81C \uC5C6\uC74C"
+},
+{"op": "replace", "path": "/clusterMoons/singular", "value": 
+	"\uACF5\uC804 \uC911\uC778 \uCC9C\uCCB4 \uD55C \uAC1C"
+},
+{"op": "replace", "path": "/clusterMoons/plural", "value": 
+	"\uACF5\uC804 \uC911\uC778 \uCC9C\uCCB4 %s \uAC1C"
+},
+
 {"op": "replace", "path": "/bookmarks/newTitle", "value": 
 	"\uC0C8 \uBD81\uB9C8\uD06C"
 },
@@ -302,13 +312,20 @@
 	"\uBA54\uD06C \uD544\uC694"
 },
 {"op": "replace", "path": "/objectThreatText/available", "value": [
-	"\uC5C6\uC74C",
-	"\uB0AE\uC74C",
-	"\uBCF4\uD1B5",
-	"\uC704\uD5D8\uD568",
-	"\uADF9\uB2E8\uC801"
+	"\uC5C6\uC74C (None)",
+	"\uB0AE\uC74C (Low)",
+	"\uBCF4\uD1B5 (Moderate)",
+	"\uC704\uD5D8\uD568 (Dangerous)",
+	"\uADF9\uB2E8\uC801 (Extreme)"
 ]},
 {"op": "replace", "path": "/objectThreatText/friendly", "value": 
-	"\uC5C6\uC74C"
+	"\uC5C6\uC74C (None)"
+},
+
+{"op": "replace", "path": "/systemTooltip/exploredLabel/explored", "value": 
+	"\uBC29\uBB38\uD568"
+},
+{"op": "replace", "path": "/systemTooltip/exploredLabel/unexplored", "value": 
+	"\uBC29\uBB38\uD558\uC9C0 \uC54A\uC74C"
 }
 ]
