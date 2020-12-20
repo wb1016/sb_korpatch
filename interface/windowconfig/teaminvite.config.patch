@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/paneLayout/name/hint", "value": "\ud50c\ub808\uc774\uc5b4 \uc774\ub984"}, {"op": "replace", "path": "/paneLayout/ok/caption", "value": "\ucd08\ub300"}, {"op": "replace", "path": "/paneLayout/close/caption", "value": "\ucde8\uc18c"}, {"op": "replace", "path": "/paneLayout/titleLabel/value", "value": "\uadf8\ub8f9\uc5d0 \ucd08\ub300\ud558\uae30"}]

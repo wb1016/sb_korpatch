@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/blueprintAlreadyKnown", "value": "\uc774\ubbf8 <ItemName> \uc758 \uc81c\uc791\ubc95\uc744 \uc54c\uace0 \uc788\uc2b5\ub2c8\ub2e4. "}, {"op": "replace", "path": "/blueprintUnlock", "value": "^green;<ItemName> \uc758 \uc81c\uc791\ubc95\uc744 \ubc30\uc6e0\uc2b5\ub2c8\ub2e4."}]

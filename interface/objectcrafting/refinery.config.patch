@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/gui/toggleCrafting/caption", "value": "\uc815\uc81c\ud558\uae30"}, {"op": "replace", "path": "/gui/lblText/value", "value": "^#b9b5b2;\uc67c\ucabd \uce78\uc5d0 \ud53d\uc140\ub85c \uc815\uc81c\uc2dc\ud0ac \uad11\ubb3c\uc744 \ub193\uc73c\uc138\uc694."}]

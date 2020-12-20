@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/gui/windowtitle/subtitle", "value": "^#b9b5b2;\uc6b0\uc544\ud55c \uc790\ub3d9 \uc778\uc1c4 \uc124\uacc4 \uc2dc\uc2a4\ud15c"}, {"op": "replace", "path": "/gui/windowtitle/title", "value": "E.A.S.E.L"}]
