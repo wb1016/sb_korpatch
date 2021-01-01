@@ -1,1 +1,5 @@
-[{"op": "replace", "path": "/shortdescription", "value": "\ud2f0\ud0c0\ub284 \uad11\uc11d (Titanium Ore)"}, {"op": "replace", "path": "/description", "value": "\uD2F0\uD0C0\uB284 \uAD11\uC11D\uC774\uB2E4. \uC81C\uB828\uD574\uC11C \uC0AC\uC6A9\uD560 \uC218 \uC788\uB2E4."}]
+[
+{"op": "replace", "path": "/shortdescription", "value": "\ud2f0\ud0c0\ub284 \uad11\uc11d (Titanium Ore)"}, 
+{"op": "replace", "path": "/description", "value": 
+"\uD2F0\uD0C0\uB284 \uAD11\uC11D\uC774\uB2E4. \uC81C\uB828\uD574\uC11C \uC0AC\uC6A9\uD560 \uC218 \uC788\uB2E4."}
+]
