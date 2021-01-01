@@ -180,7 +180,7 @@
 	"\uD145\uC2A4\uD150 (Tungsten)"
 },
 {"op": "replace", "path": "/displayOres/titanium/displayName", "value": 
-	"\uD0C0\uC774\uD0C0\uB284 (Titanium)"
+	"\uD2F0\uD0C0\uB284 (Titanium)"
 },
 {"op": "replace", "path": "/displayOres/durasteel/displayName", "value": 
 	"\uACE0\uAC15\uB3C4\uAC15 (Durasteel)"
