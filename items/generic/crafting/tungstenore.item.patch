@@ -1,1 +1,5 @@
-[{"op": "replace", "path": "/shortdescription", "value": "\ud145\uc2a4\ud150 \uad11\uc11d (Tungsten Ore)"}, {"op": "replace", "path": "/description", "value": "\uD145\uC2A4\uD150 \uAD11\uC11D\uC774\uB2E4. \uC81C\uB828\uD574\uC11C \uC0AC\uC6A9\uD560 \uC218 \uC788\uB2E4."}]
+[
+{"op": "replace", "path": "/shortdescription", "value": "\ud145\uc2a4\ud150 \uad11\uc11d (Tungsten Ore)"}, 
+{"op": "replace", "path": "/description", "value": 
+"\uD145\uC2A4\uD150 \uAD11\uC11D\uC774\uB2E4. \uC81C\uB828\uD574\uC11C \uC0AC\uC6A9\uD560 \uC218 \uC788\uB2E4."}
+]
