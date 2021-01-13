@@ -8,8 +8,8 @@
 
 ## 설치
 ### 지원 폰트 목록
-[기본 폰트](https://drive.google.com/file/d/1t9hj5K9quPGtsxyx_ePmFO-0N7Wpwtxa/view?usp=sharing)  by SunghyunKim, Kibmer, Blue-ON\
-[둥근모꼴+fixedsys](https://drive.google.com/file/d/16pA8Z4xRRDCzmfSK1JO_CsRFF0kkAQ9D/view?usp=sharing) by 김중태 IT문화원 원장, Darien Gavin Valentine, [CACTUS](https://cactus.tistory.com/193), Blue-ON
+- [기본 폰트](https://drive.google.com/file/d/1t9hj5K9quPGtsxyx_ePmFO-0N7Wpwtxa/view?usp=sharing)  by SunghyunKim, Kibmer, Blue-ON\
+- [둥근모꼴+fixedsys](https://drive.google.com/file/d/16pA8Z4xRRDCzmfSK1JO_CsRFF0kkAQ9D/view?usp=sharing) by 김중태 IT문화원 원장, Darien Gavin Valentine, [CACTUS](https://cactus.tistory.com/193), Blue-ON
 
 1. git clone 또는 이 페이지의 [Download ZIP]을 활용해 번역 패치를 받습니다.
 2. 게임 폴더 내의 'mods'폴더 내에 압축해제합니다.
