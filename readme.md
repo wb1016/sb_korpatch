@@ -4,7 +4,7 @@
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1653383122)
 
 스타바운드 한국어 번역 모드입니다. [이전에 개발되던 한국어 패치 모드(삭제됨)](https://steamcommunity.com/sharedfiles/filedetails/?id=752677565)의 설정과 규칙에 기반하여 처음부터 개발되는 모드입니다.\
-정기적으로 참여하지 않더라도 누구나 기여하실 수 있으며 디스코드 서버에 들어오실 수 있습니다.\
+정기적으로 참여하지 않더라도 누구나 기여하실 수 있으며 디스코드 서버에 들어오실 수 있습니다.
 
 ## 설치
 ### 지원 폰트 목록
