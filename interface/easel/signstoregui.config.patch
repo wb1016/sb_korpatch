@@ -1,1 +1,4 @@
-[{"op": "replace", "path": "/gui/windowtitle/subtitle", "value": "^#b9b5b2;\uc6b0\uc544\ud55c \uc790\ub3d9 \uc778\uc1c4 \uc124\uacc4 \uc2dc\uc2a4\ud15c"}, {"op": "replace", "path": "/gui/windowtitle/title", "value": "E.A.S.E.L"}]
+[
+{"op": "replace", "path": "/gui/windowtitle/subtitle", "value": 
+	"^#b9b5b2;\uC6B0\uC544\uD55C \uC790\uB3D9 \uD45C\uC9C0\uD310 \uC778\uC1C4 \uC124\uACC4 \uC7A5\uCE58"
+}]
