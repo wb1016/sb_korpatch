@@ -27,7 +27,7 @@ Blue-ON, 푸른여우, Null0Null0, 돼지빌런, Kamakk
 Blue-ON
 
 ### 코덱스 번역
-Blue-ON
+OABHs
 
 ### 이전 모드 기여자
 겨울란향, hhwy467, 알게뭐야, 셈평, tagd12, megadeus, 공갈백, call5040, fox4753, 오크, Zephynis, kjh09800, 초록괴물, Niko, Kibmer, savernova, Margaretaid, 김현영, zephyr, nyoloo, ehswns, srpark4, snoo999, GWKim, LDFifty, STHuman, og, 1luminate, SiF, 테더, SunghyunKim, ecosh5, moqu, neix, GogongZID, BFFox, Kylekun, 최욱태, LeaderKay, Pcube, 청월광BMlight, 히낫타, Kagerow, Aqianix, 갱맨, bbotsu, 박루온, 선진입후판단, Greythorn032, 팬더, meju, rapampam, ohmurasio, yoonjb0929, JOHN-KIM, coffee1st, cjsal95, sohb0403, leolimjr, 고음, kkakkamerri205, Almond123, paramour, Tiyen, ceoooofm, 스코티아, davil974, lovinix, Stauge, bij0602, lucani, 시스, Hayoung_Yang, 훼더아님, Marisa, NAZZ, killme5, 허소미, ORU, CoolingSoul, DidmoarRatios, shim3194, toru7415, 프란치스코_하비에르, 꼬추참치, arkis, 진_아, aog1912, 설치류, McNydia, TricksterGM, 강기준, 팀 별튀 구글 스프레드시트 번역 참여자분들
