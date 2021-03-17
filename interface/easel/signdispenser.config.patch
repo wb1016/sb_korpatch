@@ -1,1 +1,4 @@
-[{"op": "replace", "path": "/gui/dragDrop/value", "value": "\ucd9c\ub825\ubb3c"}, {"op": "replace", "path": "/gui/count/value", "value": "\uc785\ub825\ubb3c"}]
+[
+{"op": "replace", "path": "/gui/dragDrop/value", "value": "\uC785\uB825"},
+{"op": "replace", "path": "/gui/dragDrop/value", "value": "\uCD9C\uB825"}
+]
