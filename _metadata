@@ -1,10 +1,10 @@
 {
   "author" : "KorPatchTeam",
-  "description" : "스타바운드 한국어 패치 입니다.",
-  "friendlyName" : "스타바운드 한국어 패치 - Continued",
-  "link" : "steam://url/CommunityFilePage/1653383122",
-  "name" : "SB Kor Patch Project",
-  "steamContentId" : "1653383122",
+  "description" : "스타바운드 Union 한국어 패치 입니다.\n실사용을 가능하게 하기 위해 기존의 패치와 Continued 패치를 합쳤습니다.",
+  "friendlyName" : "스타바운드 한국어 패치-Union",
+  "link" : "steam://url/CommunityFilePage/1815801455",
+  "name" : "sb-kor-patch-project-union",
+  "steamContentId" : "1815801455",
   "tags" : "User Interface",
-  "version" : "rolling-022-210102"
+  "version" : "rolling-020-210322"
 }
