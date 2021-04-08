@@ -1,10 +1,9 @@
 {
   "author" : "KorPatchTeam",
-  "description" : "스타바운드 한국어 패치 입니다.",
   "friendlyName" : "스타바운드 한국어 패치 - Continued",
   "link" : "steam://url/CommunityFilePage/1653383122",
   "name" : "SB Kor Patch Project",
   "steamContentId" : "1653383122",
   "tags" : "User Interface",
-  "version" : "rolling-024-210318"
+  "version" : "rolling-025-210409"
 }
