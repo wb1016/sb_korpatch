@@ -7,20 +7,23 @@
 정기적으로 참여하지 않더라도 누구나 기여하실 수 있으며 디스코드 서버에 들어오실 수 있습니다.
 
 ## 설치
-### 지원 폰트 목록
-- [기본 폰트](https://drive.google.com/file/d/1t9hj5K9quPGtsxyx_ePmFO-0N7Wpwtxa/view?usp=sharing)  by SunghyunKim, Kibmer, Blue-ON
-- [둥근모꼴+fixedsys](https://drive.google.com/file/d/16pA8Z4xRRDCzmfSK1JO_CsRFF0kkAQ9D/view?usp=sharing) by 김중태 IT문화원 원장, Darien Gavin Valentine, [CACTUS](https://cactus.tistory.com/193), Blue-ON
+- 지원 폰트 목록
+  - [기본 폰트](https://github.com/wb1016/sb-font-default-kr/releases)  by SunghyunKim, Kibmer, Blue-ON
+  - [둥근모꼴+fixedsys](https://github.com/wb1016/sb-font-dunggeunmo/releases) by 김중태 IT문화원 원장, Darien Gavin Valentine, [CACTUS](https://cactus.tistory.com/193), Blue-ON
 
-1. git clone 또는 이 페이지의 [Download ZIP]을 활용해 번역 패치를 받습니다.
-2. 게임 폴더 내의 'mods'폴더 내에 압축해제합니다.
-> 번역 모드에는 기본 폰트가 이미 내장되어 있지만, 스팀 창작마당 구독을 통해 설치하신다면 폰트가 적용되지 않습니다. 위 폰트 목록에서 하나를 선택해 번역 모드와 같은 방법으로 설치해주세요.
+
+
+1. 원하는 폰트를 위 목록에서 받습니다.
+2. [Download ZIP] 을 활용해 번역 패치를 받습니다. 스팀 창작마당에서 구독을 하는 것과 동일한 역할을 합니다.
+3. 둘 다 [일반적인 스타바운드 모드를 설치하는 방법](https://gist.github.com/wb1016/2946ae00b8d1f244a3745e2ec3d597eb)대로 설치합니다.
+
 
 ## 번역 참여방법
 누구나 저희 [Discord](https://discordapp.com/invite/3drEkrJ) 서버에 들어오셔서 번역에 참여하거나, 도움을 받거나, 피드백을 주실 수 있습니다.\
 번역에 참여하신다면 [위키](https://github.com/wb1016/sb_korpatch/wiki)를 읽어보시는것을 권장합니다.
 
 ## 기여자
-### 아이템 번역 
+### 아이템 번역
 Blue-ON, 푸른여우, Null0Null0, 돼지빌런, Kamakk
 
 ### 인터페이스 번역
