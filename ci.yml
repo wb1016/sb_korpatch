@@ -1,0 +1,15 @@
+name: CI
+
+# Controls when the action will run. 
+on: [push, pull_request, workflow_dispatch]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  json-check:
+    runs-on: ubuntu-latest
+		steps:
+			- uses: actions/checkout@v1
+			- name: validate
+				uses: OrRosenblatt/validate-json-action@master
+					with:
+						json: *.json, *.patch
