@@ -7,8 +7,8 @@ on: [push, pull_request, workflow_dispatch]
 jobs:
   json-check:
     runs-on: ubuntu-latest
-      steps:
-      - uses: actions/checkout@v1
-      - uses: OrRosenblatt/validate-json-action@master
-	  with:
-	    json: *.json, *.patch
+    steps:
+    - uses: actions/checkout@v1
+  
+    - name: json-lint
+      uses: ocular-d/json-linter@master
