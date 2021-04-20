@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/armorLabelTitle/value", "value": "\uac11\uc637"}]
+[
+	{
+		"op":"replace",
+		"path":"/armorLabelTitle/value",
+		"value":"\uac11\uc637"
+	}
+]
