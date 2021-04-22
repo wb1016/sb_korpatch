@@ -4,7 +4,7 @@
 		"path":"/maxDamageTitleLabel/value",
 		"value":"\uae30\ubcf8 \ucd5c\ub300 \ud53c\ud574\ub7c9:"
 	},
-  {
+	{
 		"op":"replace",
 		"path":"/energyPerShotTitleLabel/value",
 		"value":"\ud55c \ubc1c\ub2f9 \uc5d0\ub108\uc9c0:"
