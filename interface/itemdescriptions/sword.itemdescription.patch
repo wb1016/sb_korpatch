@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/speedTitleLabel/value", "value": "\uc5f0\uc0ac \uc18d\ub3c4:"}, {"op": "replace", "path": "/damagePerShotTitleLabel/value", "value": "\uac00\uaca9\uc2dc \ud53c\ud574\ub7c9:"}]
+[
+	{
+		"op":"replace",
+		"path":"/damagePerShotTitleLabel/value",
+		"value":"\ud0c0\uaca9 \ub2f9 \ud53c\ud574:"
+	},
+	{
+		"op":"replace",
+		"path":"/speedTitleLabel/value",
+		"value":"\uc5f0\uc0ac \uc18d\ub3c4:"
+	}
+]

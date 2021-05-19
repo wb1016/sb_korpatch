@@ -1,0 +1,12 @@
+[
+	{
+		"op":"replace",
+		"path":"/powerStatLabel/value",
+		"value":"\uc704\ub825"
+	},
+	{
+		"op":"replace",
+		"path":"/energyDrainLabelLabel/value",
+		"value":"\uc5d0\ub108\uc9c0 \uc0ac\uc6a9\ub7c9"
+	}
+]
