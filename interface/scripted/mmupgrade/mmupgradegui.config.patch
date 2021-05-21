@@ -1,9 +1,9 @@
 [
-  {
-  "op":"replace",
-  "path":"/gui/windowtitle/title",
-  "value":"\ubb3c\uc9c8 \uc870\uc791\uae30 \uc5c5\uadf8\ub808\uc774\ub4dc"
-  },
+	{
+		"op":"replace",
+		"path":"/gui/windowtitle/title",
+		"value":"\ubb3c\uc9c8 \uc870\uc791\uae30 \uc5c5\uadf8\ub808\uc774\ub4dc"
+	},
 	{
 		"op":"replace",
 		"path":"/gui/windowtitle/subtitle",
