@@ -1,5 +1,4 @@
 [
-
 	{
 		"op":"replace",
 		"path":"/paneLayout/volumeLabel/value",
