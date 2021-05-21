@@ -37,11 +37,6 @@
 	},
 	{
 		"op":"replace",
-		"path":"/paneLayout/interactiveHighlightLabel/value",
-		"value":"\ucee4\uc11c \ub304 \ubb3c\uccb4\ub97c \ubc18\uc9dd\uc774\uae30"
-	},
-	{
-		"op":"replace",
 		"path":"/paneLayout/showKeybindings/caption",
 		"value":"\uc870\uc791"
 	},
