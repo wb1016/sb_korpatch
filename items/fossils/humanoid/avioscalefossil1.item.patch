@@ -1,0 +1,22 @@
+[
+  {
+		"op":"replace",
+		"path":"/shortdescription",
+		"value":"\uc544\ube44\uc624\uc2a4\ucf00\uc77c \uba38\ub9ac\ubf08 \ud654\uc11d (Avioscale Skull)"
+	},
+	{
+		"op":"replace",
+		"path":"/description",
+		"value":"\ud654\uc11d\uc774 \ub41c \uc544\ube44\uc624\uc2a4\ucf00\uc77c\uc758 \uba38\ub9ac\ubf08\uc774\ub2e4."
+	},
+  {
+    "op":"replace",
+    "path":"/completeSetDescriptions/shortdescription",
+    "value":"\uc544\ube44\uc624\uc2a4\ucf00\uc77c \ud654\uc11d"
+  },
+	{
+		"op":"replace",
+		"path":"/completeSetDescriptions/description",
+		"value":"\uc544\ube44\uc624\uc2a4\ucf00\uc77c\uc740 \uac70\ub300\ud55c \ub208\uad6c\uba4d\uacfc \ub3cc\ucd9c\ub41c \ubd80\ub9ac\ub97c \uc790\ub791\ud55c\ub2e4."
+	}
+]

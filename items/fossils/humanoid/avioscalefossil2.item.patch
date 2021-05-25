@@ -1,0 +1,12 @@
+[
+	{
+		"op":"replace",
+		"path":"/shortdescription",
+		"value":"\uc544\ube44\uc624\uc2a4\ucf00\uc77c \uc0c1\ubc18\uc2e0 \ud654\uc11d (Avioscale Torso)"
+	},
+	{
+		"op":"replace",
+		"path":"/description",
+		"value":"\ud654\uc11d\uc774 \ub41c \uc544\ube44\uc624\uc2a4\ucf00\uc77c \uc0c1\ubc18\uc2e0\uc774\ub2e4."
+	}
+]

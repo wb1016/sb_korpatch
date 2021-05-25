@@ -1,0 +1,22 @@
+[
+	{
+		"op":"replace",
+		"path":"/shortdescription",
+		"value":"\ud504\ub85c\uadf8 \uba38\ub9ac\ubf08"
+	},
+	{
+		"op":"replace",
+		"path":"/description",
+		"value":"\ud654\uc11d\uc774 \ub41c \ud504\ub85c\uadf8\uc758 \uba38\ub9ac\ubf08\ub2e4."
+	},
+  {
+		"op":"replace",
+		"path":"/completeSetDescriptions/shortdescription",
+		"value":"\ud504\ub85c\uadf8 \ud654\uc11d"
+	},
+  {
+  	"op":"replace",
+  	"path":"/completeSetDescriptions/description",
+  	"value":"\ud654\uc11d\uc774 \ub41c \ud504\ub85c\uadf8\uc758 \ud6cc\ub96d\ud55c \uc608\uc2dc\ub2e4."
+  }
+]
