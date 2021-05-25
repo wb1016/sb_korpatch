@@ -1,0 +1,12 @@
+[
+	{
+		"op":"replace",
+		"path":"/shortdescription",
+		"value":"\uc544\ube44\uc624\uc2a4\ucf00\uc77c \ub2e4\ub9ac \ud654\uc11d (Avioscale Legs)"
+	},
+	{
+		"op":"replace",
+		"path":"/description",
+		"value":"\ud654\uc11d\uc774 \ub41c \uc544\ube44\uc624\uc2a4\ucf00\uc77c\uc758 \ub2e4\ub9ac\ub2e4."
+	}
+]

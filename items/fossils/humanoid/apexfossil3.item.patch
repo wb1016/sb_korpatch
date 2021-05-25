@@ -1,0 +1,12 @@
+[
+	{
+		"op":"replace",
+		"path":"/shortdescription",
+		"value":"\uc5d0\uc774\ud399\uc2a4 \ub2e4\ub9ac \ud654\uc11d (Apex Legs)"
+	},
+	{
+		"op":"replace",
+		"path":"/description",
+		"value":"\ud654\uc11d\uc774 \ub41c \uc5d0\uc774\ud399\uc2a4 \ub2e4\ub9ac \ud55c \uc30d\uc774\ub2e4."
+	}
+]

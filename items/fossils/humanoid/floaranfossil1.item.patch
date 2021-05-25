@@ -1,0 +1,22 @@
+[
+	{
+		"op":"replace",
+		"path":"/shortdescription",
+		"value":"\ud50c\ub85c\ub780 \uba38\ub9ac\ubf08 \ud654\uc11d (Floran Skull)"
+	},
+	{
+		"op":"replace",
+		"path":"/description",
+		"value":"\ud654\uc11d\uc774 \ub41c \ud50c\ub85c\ub780\uc758 \uba38\ub9ac\ubf08\ub2e4."
+	},
+  {
+  	"op":"replace",
+  	"path":"/completeSetDescriptions/description",
+  	"value":"\uc2dd\ubb3c\ub85c \uc774\ub8e8\uc5b4\uc9c4 \ud50c\ub85c\ub780\uc740 \ubf08\uc5d0 \ub9ac\uadf8\ub2cc\uc774 \uc2a4\uba70\ub4e4\uc5b4\uc11c, \ub098\ubb34\uc640\ub3c4 \uac19\uc740 \uc678\uad00\uc744 \uac00\uc9c4\ub2e4."
+  },
+  {
+  	"op":"replace",
+  	"path":"/completeSetDescriptions/shortdescription",
+  	"value":"\ud50c\ub85c\ub780 \ud654\uc11d"
+  }
+]

@@ -1,0 +1,22 @@
+[
+	{
+		"op":"replace",
+		"path":"/shortdescription",
+		"value":"\uc544\ube44\uc548 \uba38\ub9ac\ubf08 \ud654\uc11d (Avian Skull)"
+	},
+	{
+		"op":"replace",
+		"path":"/description",
+		"value":"\ud654\uc11d\uc774 \ub41c \uc544\ube44\uc548\uc758 \uba38\ub9ac\ubf08\ub2e4."
+	},
+	{
+		"op":"replace",
+		"path":"/completeSetDescriptions/shortdescription",
+		"value":"\uc544\ube44\uc548 \ud654\uc11d"
+	},
+  {
+    "op":"replace",
+    "path":"/completeSetDescriptions/description",
+    "value":"\ud654\uc11d\uc774 \ub41c \uc544\ube44\uc548\uc758 \uac00\uc7a5 \ud765\ubbf8\ub85c\uc6b4 \ud2b9\uc9d5\uc740 \uc18d\uc774 \ube48 \ubf08\uc640 \uc9e7\uace0 \uc720\uc5f0\ud55c \ubd80\ub9ac\ub2e4."
+  }
+]
