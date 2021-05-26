@@ -1,0 +1,12 @@
+[
+	{
+		"op":"replace",
+		"path":"/shortdescription",
+		"value":"\uc54c\ud30c\uce74 \uc0c1\ubc18\uc2e0 \ud654\uc11d (Alpaca Torso)"
+	},
+	{
+		"op":"replace",
+		"path":"/description",
+		"value":"\ud654\uc11d\uc774 \ub41c \uc54c\ud30c\uce74\uc758 \uc0c1\ubc18\uc2e0\uc774\ub2e4."
+	}
+]

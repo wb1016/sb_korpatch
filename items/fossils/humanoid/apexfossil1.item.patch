@@ -1,0 +1,22 @@
+[
+	{
+		"op":"replace",
+		"path":"/shortdescription",
+		"value":"\uc5d0\uc774\ud399\uc2a4 \uba38\ub9ac\ubf08 \ud654\uc11d (Apex Skull)"
+	},
+	{
+		"op":"replace",
+		"path":"/description",
+		"value":"\ud654\uc11d\uc774 \ub41c \uc5d0\uc774\ud399\uc2a4\uc758 \uba38\ub9ac\ubf08\ub2e4."
+	},
+  {
+		"op":"replace",
+		"path":"/completeSetDescriptions/description",
+		"value":"\ud654\uc11d\uc774 \ub41c \uc5d0\uc774\ud399\uc2a4\uc758 \uc720\uace8. \uac15\ub825\ud55c \uc774\ube68\uacfc \ub450\ub4dc\ub7ec\uc9c4 \uc774\ub9c8 \uad74\uace1\uc774 \ub208\uc5d0 \ub748\ub2e4."
+	},
+	{
+		"op":"replace",
+		"path":"/completeSetDescriptions/shortdescription",
+		"value":"\uc5d0\uc774\ud399\uc2a4 \ud654\uc11d"
+	}
+]

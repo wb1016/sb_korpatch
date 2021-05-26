@@ -1,0 +1,12 @@
+[
+	{
+		"op":"replace",
+		"path":"/shortdescription",
+		"value":"\uc544\ube44\uc548 \uc0c1\ubc18\uc2e0 \ud654\uc11d (Avian Torso)"
+	},
+	{
+		"op":"replace",
+		"path":"/description",
+		"value":"\ud654\uc11d\uc774 \ub41c \uc544\ube44\uc548\uc758 \uc0c1\ubc18\uc2e0\uc774\ub2e4."
+	}
+]
