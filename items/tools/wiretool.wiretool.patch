@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "\uC804\uC120 \uBAA8\uB4DC"}, {"op": "replace", "path": "/description", "value": "\uC785\uB825 \uC9C0\uC810 \uC0AC\uC774\uC5D0 \uAD11\uD559 \uC804\uC120\uC744 \uC124\uCE58\uD560 \uC218 \uC788\uB2E4. ^green;[T] \uD0A4\uB85C \uBE60\uB974\uAC8C \uC120\uD0DD \uD560 \uC218 \uC788\uB2E4."}]
+[
+	{
+		"op":"replace",
+		"path":"/shortdescription",
+		"value":"\uC804\uC120 \uBAA8\uB4DC"
+	},
+	{
+		"op":"replace",
+		"path":"/description",
+		"value":"\uC785\uB825 \uC9C0\uC810 \uC0AC\uC774\uC5D0 \uAD11\uD559 \uC804\uC120\uC744 \uC124\uCE58\uD560 \uC218 \uC788\uB2E4. ^green;[T] \uD0A4\uB85C \uBE60\uB974\uAC8C \uC120\uD0DD \uD560 \uC218 \uC788\uB2E4."
+	}
+]
