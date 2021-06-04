@@ -13,5 +13,5 @@
 		"op":"replace",
 		"path":"/gui/count/value",
 		"value":"40 \uce78"
-	},
+	}
 ]
