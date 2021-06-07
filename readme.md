@@ -24,7 +24,7 @@
 
 ## 기여자
 ### 아이템 번역
-Blue-ON, 푸른여우, Null0Null0, 돼지빌런, Kamakk
+Blue-ON, 푸른여우, Null0Null0, 돼지빌런, Kamakk, 최욱태
 
 ### 인터페이스 번역
 Blue-ON
