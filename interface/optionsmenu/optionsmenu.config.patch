@@ -49,5 +49,10 @@
 		"op":"replace",
 		"path":"/paneLayout/acceptButton/caption",
 		"value":"\ud655\uc778"
+	},
+	{
+		"op":"replace",
+		"path":"/paneLayout/showGraphics/caption",
+		"value":"\uadf8\ub798\ud53d"
 	}
 ]
