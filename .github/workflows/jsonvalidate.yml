@@ -36,4 +36,4 @@ jobs:
       - name: jsonlint
         run: |
           npm install jsonlint -g
-          jsonlint *patch
+          jsonlint -q *patch
