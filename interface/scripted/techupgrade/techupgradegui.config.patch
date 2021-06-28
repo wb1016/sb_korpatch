@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/gui/windowtitle/subtitle", "value": "\ub2f9\uc2e0\uc758 \uae30\uc220\uc744 \uace0\ub974\uc138\uc694"}, {"op": "replace", "path": "/gui/lblTechSlotBody/value", "value": "\ubab8 \uae30\uc220"}, {"op": "replace", "path": "/gui/lblChipsLabel/value", "value": "\ud544\uc694\ud55c \uae30\uc220 \uce74\ub4dc"}, {"op": "replace", "path": "/gui/lblSlot/value", "value": "\uba38\ub9ac"}, {"op": "replace", "path": "/gui/lblDescription/value", "value": "\uc218\uc815\ud560 \uce78\uc744 \uace0\ub974\uc138\uc694"}, {"op": "replace", "path": "/gui/lblTechSlotHead/value", "value": "\uba38\ub9ac \uae30\uc220"}, {"op": "replace", "path": "/gui/lblTechSlotLeg/value", "value": "\ub2e4\ub9ac \uae30\uc220"}, {"op": "replace", "path": "/gui/lblChipsCount/value", "value": "0 / --"}, {"op": "replace", "path": "/gui/windowtitle/title", "value": "\uae30\uc220 \uc5c5\uadf8\ub808\uc774\ub4dc \ucf58\uc194"}]
+[
+  {
+		"op":"replace",
+		"path":"/gui/windowtitle/subtitle",
+		"value":"\ud14c\ud06c \uc5c5\uadf8\ub808\uc774\ub4dc \ucf58\uc194"
+	},
+  {
+		"op":"replace",
+		"path":"/gui/windowtitle/subtitle",
+		"value":"\ub2f9\uc2e0\uc758 \ud14c\ud06c\ub97c \uc120\ud0dd\ud558\uc138\uc694"
+	},
+	{
+		"op":"replace",
+		"path":"/gui/lblDescription/value",
+		"value":"\uc218\uc815\ud560 \uc2ac\ub86f\uc744 \uc120\ud0dd\ud558\uc138\uc694"
+	},
+	{
+		"op":"replace",
+		"path":"/gui/lblSlot/value",
+		"value":"\uba38\ub9ac"
+	},
+	{
+		"op":"replace",
+		"path":"/gui/lblTechSlotHead/value",
+		"value":"\uba38\ub9ac \ud14c\ud06c"
+	},
+	{
+		"op":"replace",
+		"path":"/gui/lblTechSlotBody/value",
+		"value":"\ubab8\ud1b5 \ud14c\ud06c"
+	},
+	{
+		"op":"replace",
+		"path":"/gui/lblTechSlotLeg/value",
+		"value":"\ub2e4\ub9ac \ud14c\ud06c"
+	},
+	{
+		"op":"replace",
+		"path":"/gui/lblChipsLabel/value",
+		"value":"\ud544\uc694\ud55c \ud14c\ud06c \uce74\ub4dc"
+	},
+	{
+		"op":"replace",
+		"path":"/selectTechDescription",
+		"value":"\uc7a5\ucc29\ud558\uac70\ub098 \uc5c5\uadf8\ub808\uc774\ub4dc\ud560 \ud14c\ud06c\ub97c \uc120\ud0dd\ud558\uc138\uc694"
+	}
+]
