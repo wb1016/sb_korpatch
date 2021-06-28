@@ -1,0 +1,32 @@
+[
+  {
+    "op":"replace",
+    "path":"/gui/windowtitle/title",
+    "value":"\ubb34\uae30 \uac15\ud654 \ubaa8\ub8e8"
+  },
+  {
+    "op":"replace",
+    "path":"/gui/windowtitle/subtitle",
+    "value":"\ub2f9\uc2e0\uc758 \ubb34\uae30\ub4e4\uc744 \uc5c5\uadf8\ub808\uc774\ub4dc\ud558\uc138\uc694!"
+  },
+  {
+    "op":"replace",
+    "path":"/gui/essenceCostDescription/value",
+    "value":"\ud544\uc694 \uc5d0\uc13c\uc2a4"
+  },
+  {
+    "op":"replace",
+    "path":"/gui/btnUpgrade/caption",
+    "value":"\uc5c5\uadf8\ub808\uc774\ub4dc"
+  },
+  {
+    "op":"replace",
+    "path":"/gui/cancel/caption",
+    "value":"\ucde8\uc18c"
+  },
+  {
+    "op":"replace",
+    "path":"/gui/emptyLabel/value",
+    "value":"\uc5c5\uadf8\ub808\uc774\ub4dc \ud560 \uc218 \uc788\ub294 \ubb34\uae30\ub97c \uac00\uc9c0\uace0 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4!"
+  }
+]

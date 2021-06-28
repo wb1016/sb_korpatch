@@ -1,0 +1,72 @@
+[
+  {
+    "op":"replace",
+    "path":"/gui/windowtitle/title",
+    "value":"\ud589\uc0c1 \ud14c\ub77c\ud3ec\uba38"
+  },
+  {
+    "op":"replace",
+    "path":"/gui/windowtitle/subtitle",
+    "value":"^#b9b5b2;\uc5d0\uc13c\uc2a4\ub97c \uc0ac\uc6a9\ud574 \ud589\uc131 \uc804\uccb4\ub97c \ubcc0\ud658\uc2dc\ud0a4\uc138\uc694!"
+  },
+  {
+    "op":"replace",
+    "path":"/gui/lblCurrentStatus/value",
+    "value":"\uc0c1\ud0dc\ub97c \uae30\ub2e4\ub9ac\ub294 \uc911..."
+  },
+  {
+    "op":"replace",
+    "path":"/gui/lblEssenceLabel/value",
+    "value":"^green;\uc5d0\uc13c\uc2a4^white;"
+  },
+  {
+    "op":"replace",
+    "path":"/statusMessages/worldComplete",
+    "value":"^gray;\ud589\uc131 \ud14c\ub77c\ud3ec\ubc0d \uc644\ub8cc."
+  },
+  {
+    "op":"replace",
+    "path":"/statusMessages/connecting",
+    "value":"^yellow;\ud14c\ub77c\ud3ec\uba38\uc5d0 \uc5f0\uacb0\ud558\ub294\uc911..."
+  },
+  {
+    "op":"replace",
+    "path":"/statusMessages/active",
+    "value":"^yellow;\ud14c\ub77c\ud3ec\ubc0d \uc9c4\ud589\uc911..."
+  },
+  {
+    "op":"replace",
+    "path":"/statusMessages/insufficientEssence",
+    "value":"^red;\uc5d0\uc13c\uc2a4 \ubd80\uc871!"
+  },
+  {
+    "op":"replace",
+    "path":"/statusMessages/maxStepSize",
+    "value":"^gray;\ud14c\ub77c\ud3ec\ubc0d \ubc94\uc704\ub294 %s \uc139\ud130\ub85c \uc81c\ud55c\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4."
+  },
+  {
+    "op":"replace",
+    "path":"/errorMessages/needSurface",
+    "value":"\ud589\uc131 \ud45c\uba74\uc5d0 \uc124\uce58\ub418\uc5b4 \uc788\uc5b4\uc57c \ud569\ub2c8\ub2e4!"
+  },
+  {
+    "op":"replace",
+    "path":"/errorMessages/tooClose",
+    "value":"\ub2e4\ub978 \ud14c\ub77c\ud3ec\uba38\uc640 \ub108\ubb34 \uac00\uae5d\uc2b5\ub2c8\ub2e4!"
+  },
+  {
+    "op":"replace",
+    "path":"/errorMessages/alreadyActive",
+    "value":"\ud14c\ub77c\ud3ec\ubc0d\uc774 \uc774\ubbf8 \uc9c4\ud589\uc911\uc785\ub2c8\ub2e4!"
+  },
+  {
+    "op":"replace",
+    "path":"/errorMessages/worldComplete",
+    "value":"\ud589\uc131\uc774 \uc774\ubbf8 \uc644\uc804\ud788 \ud14c\ub77c\ud3ec\ubc0d\ub418\uc5c8\uc2b5\ub2c8\ub2e4!"
+  },
+  {
+    "op":"replace",
+    "path":"/errorMessages/noExpansion",
+    "value":"\ubaa9\ud45c \ubc94\uc704\ub294 \ud604\uc7ac \ubc94\uc704\ubcf4\ub2e4 \ub113\uc744 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4!"
+  }
+]
