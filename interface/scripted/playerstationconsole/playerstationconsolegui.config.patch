@@ -1,0 +1,22 @@
+[
+  {
+    "op":"replace",
+    "path":"/gui/windowtitle/title",
+    "value":"\uc6b0\uc8fc \uc815\uac70\uc7a5 \ucf58\uc194"
+  },
+  {
+    "op":"replace",
+    "path":"/gui/windowtitle/subtitle",
+    "value":"\uc6b0\uc8fc \uc815\uac70\uc7a5 \uc2dc\uc2a4\ud15c \uc870\uc791"
+  },
+  {
+    "op":"replace",
+    "path":"/gui/lblGravity/value",
+    "value":"\uc911\ub825"
+  },
+  {
+    "op":"replace",
+    "path":"/gui/lblHideExpansionSlots/value",
+    "value":"\ud655\uc7a5 \uc2ac\ub86f \uc228\uae30\uae30"
+  }
+]

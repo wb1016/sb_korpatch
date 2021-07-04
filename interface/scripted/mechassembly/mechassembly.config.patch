@@ -1,0 +1,81 @@
+[
+  {
+    "op":"replace",
+    "path":"/gui/windowtitle/title",
+    "value":"\uba54\ud06c \uc870\ub9bd \uc7a5\uce58"
+  },
+	{
+		"op":"replace",
+		"path":"/gui/windowtitle/subtitle",
+		"value":"^#b9b5b2;\ub2f9\uc2e0\uc758 \uba54\ud06c\ub97c \uc870\ub9bd\ud558\uace0 \ub9de\ucda4 \uc124\uc815\ud558\uc138\uc694!"
+	},
+
+	{
+		"op":"replace",
+		"path":"/gui/lblSlot_body/value",
+		"value":"\ubab8\ud1b5"
+	},
+	{
+		"op":"replace",
+		"path":"/gui/lblSlot_leftArm/value",
+		"value":"\uc67c\ucabd \ud314"
+	},
+	{
+		"op":"replace",
+		"path":"/gui/lblSlot_rightArm/value",
+		"value":"\uc624\ub978\ucabd \ud314"
+	},
+	{
+		"op":"replace",
+		"path":"/gui/lblSlot_legs/value",
+		"value":"\ub2e4\ub9ac"
+	},
+	{
+		"op":"replace",
+		"path":"/gui/lblSlot_booster/value",
+		"value":"\ucd94\uc9c4\uae30"
+	},
+	{
+		"op":"replace",
+		"path":"/gui/lblPrimaryColor/value",
+		"value":"\uacbd\uc801"
+	},
+
+	{
+		"op":"replace",
+		"path":"/gui/lblPrimaryColor/value",
+		"value":"1\ucc28 \uc0c9\uc0c1"
+	},
+	{
+		"op":"replace",
+		"path":"/gui/lblSecondaryColor/value",
+		"value":"2\ucc28 \uc0c9\uc0c1"
+	},
+
+	{
+		"op":"replace",
+		"path":"/gui/disabledText/value",
+		"value":"^red;\ud5c8\uac00\ub418\uc9c0 \uc54a\uc740 \uc0ac\uc6a9\uc790"
+	},
+	{
+		"op":"replace",
+		"path":"/gui/incompleteText/value",
+		"value":"^red;\uc644\uc804\ud558\uc9c0 \uc54a\uc740 \uc124\uc815"
+	},
+	{
+		"op":"replace",
+		"path":"/gui/completeText/value",
+		"value":"^cyan;\ubc30\uce58 \uc900\ube44 \uc644\ub8cc"
+	},
+
+	{
+		"op":"replace",
+		"path":"/gui/energyFormat/value",
+		"value":"\uc5d0\ub108\uc9c0: %d MJ"
+	},
+	{
+		"op":"replace",
+		"path":"/gui/drainFormat/value",
+		"value":"\uc0ac\uc6a9\ub7c9: %.02f MJ/s"
+	}
+]
