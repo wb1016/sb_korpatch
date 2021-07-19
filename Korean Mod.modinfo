@@ -1,0 +1,11 @@
+{
+    "dependencies": [],
+    "metadata": {
+        "authors": "87명의 번역 기여자 + '팀 별튀' 구글 스프레드시트 번역 기여자 분들",
+        "description": "스타바운드 한국어 패치",
+        "version": "1.3"
+    },
+    "name": "Korean Mod",
+    "path": ".",
+    "version": "1.2"
+}
