@@ -1,0 +1,12 @@
+[
+  {
+    "op":"replace",
+    "path":"/shortdescription",
+    "value":"\uad6c\uc6b4 \ubca0\uc774\ucee8"
+  },
+	{
+		"op":"replace",
+		"path":"/description",
+		"value":"\uc9ed\uc798\ud558\uace0 \ubc14\uc0ad\ubc14\uc0ad\ud55c \uc678\uacc4 \ubca0\uc774\ucee8\uc774\ub2e4."
+	}
+]
