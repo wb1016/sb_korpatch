@@ -1,0 +1,7 @@
+[
+	{
+		"op":"replace",
+		"path":"/destinations/0/name",
+		"value":"\ud568\uc120\uc73c\ub85c \ub3cc\uc544\uac00\uae30"
+	}
+]

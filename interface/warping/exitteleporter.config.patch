@@ -1,0 +1,12 @@
+[
+	{
+		"op":"replace",
+		"path":"/destinations/0/name",
+		"value":"함선으로 돌아가기"
+	},
+  {
+		"op":"replace",
+		"path":"/destinations/0/planetName",
+		"value":"이곳을 떠나기"
+	}
+]

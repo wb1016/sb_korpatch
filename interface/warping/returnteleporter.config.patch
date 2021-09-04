@@ -1,0 +1,12 @@
+[
+	{
+		"op":"replace",
+		"path":"/destinations/0/name",
+		"value":"\uadc0\ud658 \ud154\ub808\ud3ec\ud130"
+	},
+	{
+		"op":"replace",
+		"path":"/destinations/0/planetName",
+		"value":"\uadc0\ud658"
+	}
+]

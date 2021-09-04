@@ -1,0 +1,12 @@
+[
+  {
+		"op":"replace",
+		"path":"/destinations/0/name",
+		"value":"\uc804\ucd08\uae30\uc9c0\ub85c \ub3cc\uc544\uac00\uae30"
+	},
+	{
+		"op":"replace",
+		"path":"/destinations/0/planetName",
+		"value":"2 Stop Teleshop\uc73c\ub85c \ub3cc\uc544\uac00\uae30"
+	}
+]
