@@ -2,11 +2,11 @@
 	{
 		"op":"replace",
 		"path":"/destinations/0/name",
-		"value":"함선으로 돌아가기"
+		"value":"\ud568\uc120\uc73c\ub85c \ub3cc\uc544\uac00\uae30"
 	},
   {
 		"op":"replace",
 		"path":"/destinations/0/planetName",
-		"value":"이곳을 떠나기"
+		"value":"\uc774\uacf3\uc744 \ub5a0\ub098\uae30"
 	}
 ]
