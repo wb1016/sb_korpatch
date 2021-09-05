@@ -1,0 +1,22 @@
+[
+  {
+		"op":"replace",
+		"path":"/gui/windowtitle/title",
+		"value":"\ubcf4\ub0b4\uae30"
+	},
+  {
+		"op":"replace",
+		"path":"/gui/windowtitle/subtitle",
+		"value":"\uac00\uaca9 \ud569\uacc4"
+	},
+	{
+		"op":"replace",
+		"path":"/gui/btnBuy/caption",
+		"value":"\uad6c\ub9e4"
+	},
+	{
+		"op":"replace",
+		"path":"/gui/btnSell/caption",
+		"value":"\ud310\ub9e4"
+	}
+]

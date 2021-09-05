@@ -1,0 +1,77 @@
+[
+	{
+		"op":"replace",
+		"path":"/gui/windowtitle/title",
+		"value":"\uc6b0\uc8fc \uc815\uac70\uc7a5 \ud1b5\uc2e0\uae30 \uc124\uc815"
+	},
+	{
+		"op":"replace",
+		"path":"/gui/windowtitle/subtitle",
+		"value":"^#b9b5b2;\ub2f9\uc2e0\uc758 \uc6b0\uc8fc \uc815\uac70\uc7a5 \uc804\uac1c \ud504\ub85c\ube0c\ub97c \uc124\uc815\ud558\uace0 \ubc1c\uc0ac\ud558\uc138\uc694"
+	},
+	{
+		"op":"replace",
+		"path":"/gui/connectingLabel/value",
+		"value":"S.A.I.L.\uc5d0 \uc5f0\uacb0\ud558\ub294 \uc911..."
+	},
+	{
+		"op":"replace",
+		"path":"/gui/configure/children/configureLabel/value",
+		"value":"\uc124\uc815"
+	},
+	{
+		"op":"replace",
+		"path":"/gui/configure/children/name/hint",
+		"value":"\uc6b0\uc8fc \uc815\uac70\uc7a5\uc758 \uc774\ub984\uc744 \uc785\ub825\ud558\uc138\uc694"
+	},
+	{
+		"op":"replace",
+		"path":"/gui/configure/children/description/hint",
+		"value":"\uc6b0\uc8fc \uc815\uac70\uc7a5\uc758 \uc124\uba85\uc744 \uc785\ub825\ud558\uc138\uc694"
+	},
+	{
+		"op":"replace",
+		"path":"/connect/connectText",
+		"value":"^green;S.A.I.L.\uc5d0 \uc5f0\uacb0\ud558\ub294 \uc911"
+	},
+	{
+		"op":"replace",
+		"path":"/connect/failText",
+		"value":"^red;S.A.I.L. \uace0\ub300\uc5ed\ud3ed \uc5f0\uacb0 \uc2e4\ud328\n\ub2f9\uc2e0\uc758 \ud568\uc120\uc5d0\uc11c \ub2e4\uc2dc \uc2dc\ub3c4\ud558\uc138\uc694"
+	},
+	{
+		"op":"replace",
+		"path":"/gui/connect/successText",
+		"value":"^green;\uace0\ub300\uc5ed\ud3ed \uc5f0\uacb0 \uc131\uacf5\n\uc2dc\uc2a4\ud15c \ub370\uc774\ud130 \uc804\uc1a1 \uc911"
+	},
+	{
+		"op":"replace",
+		"path":"/connectedText",
+		"value":"^green;\uc5f0\uacb0\ub428"
+	},
+	{
+		"op":"replace",
+		"path":"/deployingText/dispatching",
+		"value":"^green;\ud504\ub85c\ube0c \ubc1c\uc1a1 \uc694\uccad\uc911"
+	},
+	{
+		"op":"replace",
+		"path":"/deployingText/traveling",
+		"value":"^green;\ud504\ub85c\ube0c \ubc1c\uc1a1\ub428.\n\ubaa9\ud45c \uada4\ub3c4\ub85c \ud504\ub85c\ube0c \uc811\uadfc \uc911"
+	},
+	{
+		"op":"replace",
+		"path":"/deployingText/deploying",
+		"value":"^green;\ud504\ub85c\ube0c \ubaa9\ud45c \uada4\ub3c4 \ub3c4\ub2ec.\n\uc6b0\uc8fc \uc815\uac70\uc7a5 \uc804\uac1c\uc911"
+	},
+	{
+		"op":"replace",
+		"path":"/deployingText/deployed",
+		"value":"^green;\uc6b0\uc8fc \uc815\uac70\uc7a5 \uc804\uac1c \uc644\ub8cc"
+	},
+	{
+		"op":"replace",
+		"path":"/deployingText/error",
+		"value":"\ud504\ub85c\ube0c \uc804\uac1c \uc2e4\ud328.\n\uc5f0\uacb0 \ub04a\uae40"
+	}
+]
