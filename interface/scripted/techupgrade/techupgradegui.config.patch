@@ -1,7 +1,7 @@
 [
   {
 		"op":"replace",
-		"path":"/gui/windowtitle/subtitle",
+		"path":"/gui/windowtitle/title",
 		"value":"\ud14c\ud06c \uc5c5\uadf8\ub808\uc774\ub4dc \ucf58\uc194"
 	},
   {
