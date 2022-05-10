@@ -541,6 +541,131 @@
   },
   {
     "op":"replace",
+    "path":"/planetTypeNames/garden",
+    "value":"\ucd08\uc6d0"
+  },
+  {
+    "op":"replace",
+    "path":"/planetTypeNames/forest",
+    "value":"\uc232"
+  },
+  {
+    "op":"replace",
+    "path":"/planetTypeNames/desert",
+    "value":"\uc0ac\ub9c9"
+  },
+  {
+    "op":"replace",
+    "path":"/planetTypeNames/snow",
+    "value":"\uc124\uc6d0"
+  },
+  {
+    "op":"replace",
+    "path":"/planetTypeNames/savannah",
+    "value":"\uc0ac\ubc14\ub098"
+  },
+  {
+    "op":"replace",
+    "path":"/planetTypeNames/ocean",
+    "value":"\ubc14\ub2e4"
+  },
+  {
+    "op":"replace",
+    "path":"/planetTypeNames/toxic",
+    "value":"\ub3c5\uc131"
+  },
+  {
+    "op":"replace",
+    "path":"/planetTypeNames/jungle",
+    "value":"\uc815\uae00"
+  },
+  {
+    "op":"replace",
+    "path":"/planetTypeNames/alien",
+    "value":"\ubcc0\uc774\ub428"
+  },
+  {
+    "op":"replace",
+    "path":"/planetTypeNames/arctic",
+    "value":"\uc5bc\uc5b4\ubd99\uc740 \ubc14\ub2e4"
+  },
+  {
+    "op":"replace",
+    "path":"/planetTypeNames/tundra",
+    "value":"\ud230\ub4dc\ub77c"
+  },
+  {
+    "op":"replace",
+    "path":"/planetTypeNames/volcanic",
+    "value":"\ud654\uc0b0"
+  },
+  {
+    "op":"replace",
+    "path":"/planetTypeNames/midnight",
+    "value":"\uc554\ud751"
+  },
+  {
+    "op":"replace",
+    "path":"/planetTypeNames/scorchedcity",
+    "value":"\uadf8\uc744\ub9bc"
+  },
+  {
+    "op":"replace",
+    "path":"/planetTypeNames/magma",
+    "value":"\uc6a9\uc554"
+  },
+  {
+    "op":"replace",
+    "path":"/planetTypeNames/moon",
+    "value":"\ub2ec"
+  },
+  {
+    "op":"replace",
+    "path":"/planetTypeNames/asteroids",
+    "value":"\uc18c\ud589\uc131 \uc9c0\ub300"
+  },
+  {
+    "op":"replace",
+    "path":"/planetTypeNames/barren",
+    "value":"\ud669\ubb34\uc9c0"
+  },
+  {
+    "op":"replace",
+    "path":"/planetTypeNames/ancientgateway",
+    "value":"\uace0\ub300 \uad00\ubb38"
+  },
+  {
+    "op":"replace",
+    "path":"/starTypeNames/default",
+    "value":"\uc54c \uc218 \uc5c6\ub294 \ubcc4"
+  },
+  {
+    "op":"replace",
+    "path":"/starTypeNames/whitestar",
+    "value":"\uc628\ud654\ud55c \ubcc4"
+  },
+  {
+    "op":"replace",
+    "path":"/starTypeNames/orangestar",
+    "value":"\ub728\uac70\uc6b4 \ubcc4"
+  },
+  {
+    "op":"replace",
+    "path":"/starTypeNames/yellowstar",
+    "value":"\ubc29\uc0ac\uc131 \ubcc4"
+  },
+  {
+    "op":"replace",
+    "path":"/starTypeNames/bluestar",
+    "value":"\uc5bc\uc5b4\ubd99\uc740 \ubcc4"
+  },
+  {
+    "op":"replace",
+    "path":"/starTypeNames/redstar",
+    "value":"\ubd88\ud0c0\ub294 \ubcc4"
+  },
+  {
+    "op":"replace",
     "path":"/bookmarks/newTitle",
     "value":"\uC0C8 \uBD81\uB9C8\uD06C"
   },

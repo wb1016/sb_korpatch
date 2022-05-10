@@ -1,0 +1,27 @@
+[
+  {
+    "op":"replace",
+    "path":"/title",
+    "value":"임무에서 나가기"
+  },
+  {
+    "op":"replace",
+    "path":"/subtitle",
+    "value":"함선으로 텔레포트"
+  },
+  {
+    "op":"replace",
+    "path":"/message",
+    "value":"이 임무에서 떠나면 이 지역의 모든 진행 상황이 초기화됩니다. 정말로 텔레포트하시겠습니까?"
+  },
+  {
+    "op":"replace",
+    "path":"/okCaption",
+    "value":"확인"
+  },
+  {
+    "op":"replace",
+    "path":"/subtitle",
+    "value":"취소"
+  }
+]
