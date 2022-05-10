@@ -1,0 +1,12 @@
+[
+  {
+    "op":"replace",
+    "path":"/energyStatLabel/value",
+    "value":"\ucd5c\ub300 \uc5d0\ub108\uc9c0"
+  },
+  {
+    "op":"replace",
+    "path":"/protectionStatLabel/value",
+    "value":"\ubc29\uc5b4\ub825"
+  }
+]

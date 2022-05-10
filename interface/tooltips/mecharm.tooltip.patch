@@ -1,0 +1,12 @@
+[
+  {
+    "op":"replace",
+    "path":"/powerStatLabel/value",
+    "value":"힘"
+  },
+  {
+    "op":"replace",
+    "path":"/energyDrainLabelLabel/value",
+    "value":"에너지 소모"
+  }
+]

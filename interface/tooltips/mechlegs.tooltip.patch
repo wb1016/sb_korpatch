@@ -1,0 +1,10 @@
+[
+  {
+    "op": "replace", "path": "/speedStatLabel/value",
+    "value": "\uc9c0\uc0c1 \uc18d\ub3c4"
+  },
+  {
+    "op": "replace", "path": "/jumpStatLabel/value",
+    "value": "\uc810\ud504\ub825"
+  }
+]
