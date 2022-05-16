@@ -1,0 +1,42 @@
+[
+  {
+    "op":"replace",
+    "path":"/paneLayout/windowtitle/title",
+    "value":"\ud53d\uc140 \ud504\ub9b0\uac70"
+  },
+  {
+    "op":"replace",
+    "path":"/paneLayout/windowtitle/subtitle",
+    "value":"^#b9b5b2;\ub2f9\uc2e0\uc774 \uc2a4\uce94\ud55c \ubb3c\uac74\uc744 \uc778\uc1c4\ud569\ub2c8\ub2e4"
+  },
+  {
+    "op":"replace",
+    "path":"/paneLayout/lblSchematics/value",
+    "value":"^#b9b5b2;\uc124\uacc4\ub3c4"
+  },
+  {
+    "op":"replace",
+    "path":"/paneLayout/lblProducttitle/value",
+    "value":"^#b9b5b2;\uacb0\uacfc\ubb3c"
+  },
+  {
+    "op":"replace",
+    "path":"/paneLayout/btnCraft/caption",
+    "value":"\uc81c\uc791"
+  },
+  {
+    "op":"replace",
+    "path":"/paneLayout/btnStopCraft/caption",
+    "value":"\uba48\ucda4"
+  },
+  {
+    "op":"replace",
+    "path":"/paneLayout/lblProduct/value",
+    "value":"\uc778\uc1c4 \uac00\ub2a5\ud55c \uac83\ub9cc \ubcf4\uc774\uae30"
+  },
+  {
+    "op":"replace",
+    "path":"/paneLayout/filter/hint",
+    "value":"\uac80\uc0c9"
+  }
+]
