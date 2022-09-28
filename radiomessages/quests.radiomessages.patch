@@ -1,32 +1,32 @@
 [
  {
-  "op": "replace", 
-  "path": "/gaterepair-findGate/text", 
-  "value": "\uC2A4\uCE94 \uACB0\uACFC \uC774 \uD589\uC131\uC5D0 \uC77C\uC885\uC758 ^orange;\uACE0\uB300\uC758 \uC5D0\uB108\uC9C0\uC6D0^reset;\uC774 \uC788\uC2B5\uB2C8\uB2E4. ^green;\uC870\uC0AC\uD560 \uAC00\uCE58\uAC00 \uC788\uC744 \uAC00\uB2A5\uC131\uC774 32%^reset;, \uADF8 \uC678\uC5D4 \uB2EC\uB9AC \uD560 \uC77C\uC774 \uC5C6\uC73C\uC2E4 \uAC00\uB2A5\uC131\uC774 98% \uC785\uB2C8\uB2E4."
+  "op": "replace",
+  "path": "/gaterepair-findGate/text",
+  "value": "스캔 결과 이 행성에 일종의 ^orange;고대의 에너지원^reset;이 있습니다. ^green;조사할 가치가 있을 가능성이 32%^reset;, 그 외엔 달리 할 일이 없으실 가능성이 98% 입니다."
  },
  {
-  "op": "replace", 
-  "path": "/gaterepair-gateFound1/text", 
-  "value": "\uC2A4\uCE94 \uACB0\uACFC \uC774 ^orange;\uACE0\uB300\uC758 \uC5D0\uB108\uC9C0\uC6D0^reset; \uC8FC\uC704\uC5D0\uC11C \uBBF8\uD655\uC778 \uBB34\uC120 \uC2E0\uD638\uB97C \uBC1B\uC558\uC2B5\uB2C8\uB2E4. \uC9C0\uAE08 \uC5F0\uACB0\uD574\uB4DC\uB9AC\uACA0\uC2B5\uB2C8\uB2E4."
+  "op": "replace",
+  "path": "/gaterepair-gateFound1/text",
+  "value": "스캔 결과 이 ^orange;고대의 에너지원^reset; 주위에서 미확인 무선 신호를 받았습니다. 지금 연결해드리겠습니다."
  },
  {
-  "op": "replace", 
-  "path": "/gaterepair-gateFound1b/text", 
-  "value": "\uC774 \uBA54\uC138\uC9C0\uB97C \uBC1B\uC73C\uC168\uB2E4\uBA74, \uBD84\uBA85 ^orange;\uACE0\uB300 \uAD00\uBB38^reset;\uC744 \uBC1C\uACAC\uD588\uC744 \uAC81\uB2C8\uB2E4. \uADF8 \uAD00\uBB38\uC744 \uC774\uC6A9\uD574\uC11C \uC800\uB97C \uCC3E\uC544\uC640\uC8FC\uC138\uC694. ^orange;\uD589\uC131 \uD575 \uD30C\uD3B8^green;\uC73C\uB85C \uAD00\uBB38\uC5D0 \uB3D9\uB825\uC744 \uACF5\uAE09\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4^reset;."
+  "op": "replace",
+  "path": "/gaterepair-gateFound1b/text",
+  "value": "이 메세지를 받으셨다면, 분명 ^orange;고대 관문^reset;을 발견했을 겁니다. 그 관문을 이용해서 저를 찾아와주세요. ^orange;행성 핵 파편^green;으로 관문에 동력을 공급할 수 있습니다^reset;."
  },
  {
-  "op": "replace", 
-  "path": "/gaterepair-gateFound2/text", 
-  "value": "\uAC00\uAE4C\uC774\uC5D0 \uC788\uB294 ^orange;\uD589\uC131 \uD575 \uD30C\uD3B8^reset;\uC744 \uC0B4\uD3B4\uBD24\uC2B5\uB2C8\uB2E4. \uD30C\uD3B8\uB4E4\uC740 \uC774 \uD589\uC131\uC758 \uC9C0\uC9C8\uC5D0 \uC790\uC5F0\uC801\uC73C\uB85C \uBC1C\uC0DD\uD569\uB2C8\uB2E4; \uCE21\uC815 \uACB0\uACFC \uC774 \uD589\uC131\uC758 \uC911\uC2EC \uAC00\uAE4C\uC774, \uC9C0\uBC18 \uC544\uB798 \uAE4A\uC740 \uACF3\uC5D0 \uB9CE\uC740 \uAD11\uBB3C \uAD70\uC9D1\uC774 \uC788\uC2B5\uB2C8\uB2E4."
+  "op": "replace",
+  "path": "/gaterepair-gateFound2/text",
+  "value": "가까이에 있는 ^orange;행성 핵 파편^reset;을 살펴봤습니다. 파편들은 이 행성의 지질에 자연적으로 발생합니다; 측정 결과 이 행성의 중심 가까이, 지반 아래 깊은 곳에 많은 광물 군집이 있습니다."
  },
  {
-  "op": "replace", 
-  "path": "/gaterepair-gateOpened1/text", 
-  "value": "\uC131\uACF5\uC801\uC73C\uB85C \uAD00\uBB38\uC744 \uC791\uB3D9\uC2DC\uD0A4\uC168\uB098 \uBCF4\uAD70\uC694. \uADF8\uB9AC\uACE0 \uB610\uB2E4\uB978 ^orange;\uBA54\uC2DC\uC9C0^reset;\uAC00 \uB4E4\uC5B4\uC624\uACE0 \uC788\uB294 \uAC83 \uAC19\uC2B5\uB2C8\uB2E4."
+  "op": "replace",
+  "path": "/gaterepair-gateOpened1/text",
+  "value": "성공적으로 관문을 작동시키셨나 보군요. 그리고 또다른 ^orange;메시지^reset;가 들어오고 있는 것 같습니다."
  },
  {
-  "op": "replace", 
-  "path": "/gaterepair-gateOpened2/text", 
-  "value": "^green;\uBD80\uB514 \uCC3E\uC544\uC640\uC8FC\uC138\uC694^reset;. \uB3C4\uC6C0\uC774 \uAE09\uD569\uB2C8\uB2E4. \uC6B0\uC8FC\uC758 \uC6B4\uBA85\uC774 \uB2EC\uB824\uC788\uC2B5\uB2C8\uB2E4. ^orange;\uACE0\uB300 \uAD00\uBB38\uC744 \uC774\uC6A9\uD574\uC11C \uBC29\uC8FC \uC720\uC801\uC5D0 \uC788\uB294 \uC800\uB97C \uB9CC\uB098\uC8FC\uC138\uC694. \uC544\uC6C3\uD3EC\uC2A4\uD2B8 \uBC14\uB85C \uC606\uC5D0 \uC788\uC2B5\uB2C8\uB2E4^reset;."
+  "op": "replace",
+  "path": "/gaterepair-gateOpened2/text",
+  "value": "^green;부디 찾아와주세요^reset;. 도움이 급합니다. 우주의 운명이 달려있습니다. ^orange;고대 관문을 이용해서 방주 유적에 있는 저를 만나주세요. 아웃포스트 바로 옆에 있습니다^reset;."
  }
 ]

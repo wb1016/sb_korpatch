@@ -1,12 +1,12 @@
 [
  {
-  "op": "replace", 
-  "path": "/panels/3/text", 
-  "value": "\uC77C\uC5B4\uB098\uC138\uC694..."
+  "op": "replace",
+  "path": "/panels/3/text",
+  "value": "일어나세요..."
  },
  {
-  "op": "replace", 
-  "path": "/panels/4/text", 
-  "value": "\uC77C\uC5B4\uB098\uC138\uC694. \uB2A6\uC7A0 \uC8FC\uBB34\uC168\uC2B5\uB2C8\uB2E4."
+  "op": "replace",
+  "path": "/panels/4/text",
+  "value": "일어나세요. 늦잠 주무셨습니다."
  }
 ]

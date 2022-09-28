@@ -1,17 +1,17 @@
 [
  {
-  "op": "replace", 
-  "path": "/activeCrewLimit/text", 
-  "value": "\uB3D9\uD589 \uAC00\uB2A5\uD55C \uC2B9\uBB34\uC6D0 \uC22B\uC790\uC758 \uD55C\uACC4\uCE58\uC5D0 \uB2EC\uD588\uC2B5\uB2C8\uB2E4. \uC2B9\uBB34\uC6D0 \uC22B\uC790\uB97C \uB354 \uB298\uB9AC\uB824\uBA74 \uBA87 \uBA85\uC744 \uD568\uC120\uC5D0 \uBCF4\uB0B4\uC138\uC694."
+  "op": "replace",
+  "path": "/activeCrewLimit/text",
+  "value": "동행 가능한 승무원 숫자의 한계치에 달했습니다. 승무원 숫자를 더 늘리려면 몇 명을 함선에 보내세요."
  },
  {
-  "op": "replace", 
-  "path": "/crewLimit/text", 
-  "value": "\uD568\uC120\uC774 \uB354 \uC774\uC0C1\uC758 \uC2B9\uBB34\uC6D0\uC744 \uC218\uC6A9\uD560 \uC218 \uC5C6\uC2B5\uB2C8\uB2E4. \uD568\uC120\uC758 \uD06C\uAE30\uB97C \uB298\uB9B4 \uBC29\uBC95\uC744 \uCC3E\uC73C\uC2DC\uAC70\uB098, \uD568\uC120\uC5D0 \uC788\uB294 \uD130\uBBF8\uB110\uC744 \uD1B5\uD574 \uC2B9\uBB34\uC6D0 \uBA87 \uBA85\uC744 \uD574\uACE0\uD558\uC138\uC694."
+  "op": "replace",
+  "path": "/crewLimit/text",
+  "value": "함선이 더 이상의 승무원을 수용할 수 없습니다. 함선의 크기를 늘릴 방법을 찾으시거나, 함선에 있는 터미널을 통해 승무원 몇 명을 해고하세요."
  },
  {
-  "op": "replace", 
-  "path": "/gainedCrewMember/text", 
-  "value": "\uCCAB\uBC88\uC9F8 \uC2B9\uBB34\uC6D0\uC744 \uBC1C\uACAC\uD558\uC168\uC2B5\uB2C8\uB2E4! \uC2B9\uBB34\uC6D0\uB4E4\uC744 \uAD00\uB9AC\uD558\uACE0 \uC0C1\uD0DC\uB97C \uAD00\uCC30\uD558\uB824\uBA74 \uD568\uC120\uC5D0\uC11C \uC81C\uAC8C \uB9D0\uC500\uD558\uC138\uC694."
+  "op": "replace",
+  "path": "/gainedCrewMember/text",
+  "value": "첫번째 승무원을 발견하셨습니다! 승무원들을 관리하고 상태를 관찰하려면 함선에서 제게 말씀하세요."
  }
 ]
