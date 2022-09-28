@@ -1,4 +1,4 @@
 [
-{"op": "replace", "path": "/shortdescription", "value": "\ubc14\uc774\uc62c\ub968 \uad11\uc11d (Violium Ore)"}, 
-{"op": "replace", "path": "/description", "value": 
-"\uBC14\uC774\uC62C\uB968 \uAD11\uC11D\uC774\uB2E4. \uC81C\uB828\uD574\uC11C \uC0AC\uC6A9\uD560 \uC218 \uC788\uB2E4."}]
+{"op": "replace", "path": "/shortdescription", "value": "바이올륨 광석 (Violium Ore)"},
+{"op": "replace", "path": "/description", "value":
+"바이올륨 광석이다. 제련해서 사용할 수 있다."}]

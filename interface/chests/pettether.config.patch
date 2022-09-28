@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/gui/insertPod/value", "value": "\ud3ec\ub4dc \uc0bd\uc785\ud558\uae30"}]
+[
+  {
+    "op":"replace",
+    "path":"/gui/insertPod/value",
+    "value":"포드 삽입하기"
+  }
+]

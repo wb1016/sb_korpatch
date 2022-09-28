@@ -1,5 +1,5 @@
 [
-{"op": "replace", "path": "/shortdescription", "value": "\uace0\uac15\ub3c4\uac15 \uad11\uc11d (Durasteel Ore)"}, 
-{"op": "replace", "path": "/description", "value": 
-"\uACE0\uAC15\uB3C4\uAC15 \uAD11\uC11D\uC774\uB2E4. \uC81C\uB828\uC5D0 \uC4F0\uC77C \uC218 \uC788\uB2E4."}
+{"op": "replace", "path": "/shortdescription", "value": "고강도강 광석 (Durasteel Ore)"},
+{"op": "replace", "path": "/description", "value":
+"고강도강 광석이다. 제련에 쓰일 수 있다."}
 ]

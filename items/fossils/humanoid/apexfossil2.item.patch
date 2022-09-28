@@ -2,11 +2,11 @@
 	{
 		"op":"replace",
 		"path":"/shortdescription",
-		"value":"\uc5d0\uc774\ud399\uc2a4 \uc0c1\ubc18\uc2e0 \ud654\uc11d (Apex Torso)"
+		"value":"에이펙스 상반신 화석 (Apex Torso)"
 	},
 	{
 		"op":"replace",
 		"path":"/description",
-		"value":"\ud654\uc11d\uc774 \ub41c \uc5d0\uc774\ud399\uc2a4 \uc0c1\ubc18\uc2e0\uc774\ub2e4."
+		"value":"화석이 된 에이펙스 상반신이다."
 	}
 ]

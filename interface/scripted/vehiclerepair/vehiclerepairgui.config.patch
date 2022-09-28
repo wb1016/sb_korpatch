@@ -7,26 +7,26 @@
 	{
 		"op":"replace",
 		"path":"/gui/windowtitle/subtitle",
-		"value":"\uc5ec\uae30\uc11c \ub2f9\uc2e0\uc758 \uc774\ub3d9 \uc218\ub2e8\uc744 \uc218\ub9ac\ud558\uc138\uc694!"
+		"value":"여기서 당신의 이동 수단을 수리하세요!"
 	},
 	{
 		"op":"replace",
 		"path":"/gui/chipCostDescription/value",
-		"value":"\ud544\uc694\ud55c \uce69"
+		"value":"필요한 칩"
 	},
 	{
 		"op":"replace",
 		"path":"/gui/cancel/caption",
-		"value":"\ucde8\uc18c"
+		"value":"취소"
 	},
 	{
 		"op":"replace",
 		"path":"/gui/repairButton/caption",
-		"value":"\uc218\ub9ac"
+		"value":"수리"
 	},
 	{
 		"op":"replace",
 		"path":"/gui/emptyLabel/value",
-		"value":"\uc218\ub9ac\uac00 \ud544\uc694\ud55c \uc774\ub3d9 \uc218\ub2e8\uc774 \uc5c6\uc2b5\ub2c8\ub2e4!"
+		"value":"수리가 필요한 이동 수단이 없습니다!"
 	}
 ]

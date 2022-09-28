@@ -1,24 +1,24 @@
 [
  {
-  "op": "replace", 
-  "path": "/title", 
-  "value": "\uC790\uCE6D \uC655 3\uBD80"
- }, 
- {
-  "op": "replace", 
-  "path": "/description", 
-  "value": "\uAE00\uB9AC\uCE58\uC758 \uBBFC\uB2F4\uC774\uB2E4."
- }, 
- {
-  "op": "replace", 
-  "path": "/contentPages/0", 
-  "value": "\uB0A0\uC774 \uAC08\uC218\uB85D \uACF5\uD3EC\uB0A0\uAC1C\uB294 \uB354\uC6B1 \uD06C\uAC8C \uACA9\uBD84\uD588\uC2B5\uB2C8\uB2E4. \uC0AC\uC2E4, \uADF8\uC758 \uBD84\uB178\uB294 \uADF8\uAC00 \uC790\uC2E0\uC758 \uBC31\uC131\uB4E4\uC744 \uC131\uC758 \uD0D1\uC5D0\uC11C \uB358\uC838 \uBC84\uB9AC\uB294 \uADF8\uB7F0 \uAC83\uC774\uC5B4\uC11C, \uC778\uAD6C\uB97C \uC904\uC774\uACE0 \uBB38\uC81C\uB97C \uB354 \uC2EC\uAC01\uD558\uAC8C \uB9CC\uB4E4\uC5C8\uC2B5\uB2C8\uB2E4.
-
-\uC5B4\uB290 \uB0A0, \uD55C \uAE00\uB9AC\uCE58 \uB300\uC7A5\uC7A5\uC774 \uC9D1\uB2E8\uC774 \uD55C \uBC29\uC548\uC744 \uB5A0\uC62C\uB838\uC2B5\uB2C8\uB2E4. \uADF8\uB4E4 \uC911 \uB204\uAD6C\uB3C4 \uB2E8\uC21C\uD788 \uD6A1\uD3EC\uD55C \uC655\uC744 \uAE30\uC058\uAC8C \uD558\uB824\uACE0 \uC544\uC774 \uC5F4 \uBA85\uC744 \uAC00\uC9C0\uACE0 \uC2F6\uC5B4 \uD558\uC9C0\uB294 \uC54A\uC558\uC9C0\uB9CC, \uADF8\uB4E4\uC740 \uC624\uD788\uB824 \uBA4B\uC9C4 \uAC11\uC637 \uC5EC\uB7EC \uBC8C\uC744 \uB9CC\uB4DC\uB294 \uAC78 \uC990\uACBC\uC2B5\uB2C8\uB2E4."
+  "op": "replace",
+  "path": "/title",
+  "value": "자칭 왕 3부"
  },
  {
-  "op": "replace", 
-  "path": "/contentPages/1", 
-  "value": "\uADF8\uB4E4\uC740 \uC774 \uC77C\uC5D0 \uB9E4\uC6B0 \uB2A5\uC219\uD588\uACE0, \uADF8 \uAC11\uC637\uC774 \uAE00\uB9AC\uCE58 \uC790\uC2E0\uB4E4\uACFC \uB9E4\uC6B0 \uBE44\uC2B7\uD558\uAC8C \uBCF4\uC600\uB2E4\uACE0 \uC790\uC8FC \uC5B8\uAE09\uB418\uC5C8\uC2B5\uB2C8\uB2E4... \uADF8\uB798\uC11C \uADF8\uB4E4\uC740 \uAC00\uB2A5\uD55C \uB9CC\uD07C \uB9CE\uC740 \uAC11\uC637\uC744 \uB9CC\uB4DC\uB294 \uC77C\uC744 \uC2DC\uC791\uD588\uC2B5\uB2C8\uB2E4."
+  "op": "replace",
+  "path": "/description",
+  "value": "글리치의 민담이다."
+ },
+ {
+  "op": "replace",
+  "path": "/contentPages/0",
+  "value": "날이 갈수록 공포날개는 더욱 크게 격분했습니다. 사실, 그의 분노는 그가 자신의 백성들을 성의 탑에서 던져 버리는 그런 것이어서, 인구를 줄이고 문제를 더 심각하게 만들었습니다.
+
+어느 날, 한 글리치 대장장이 집단이 한 방안을 떠올렸습니다. 그들 중 누구도 단순히 횡포한 왕을 기쁘게 하려고 아이 열 명을 가지고 싶어 하지는 않았지만, 그들은 오히려 멋진 갑옷 여러 벌을 만드는 걸 즐겼습니다."
+ },
+ {
+  "op": "replace",
+  "path": "/contentPages/1",
+  "value": "그들은 이 일에 매우 능숙했고, 그 갑옷이 글리치 자신들과 매우 비슷하게 보였다고 자주 언급되었습니다... 그래서 그들은 가능한 만큼 많은 갑옷을 만드는 일을 시작했습니다."
  }
 ]

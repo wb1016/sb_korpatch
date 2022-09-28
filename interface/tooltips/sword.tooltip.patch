@@ -2,11 +2,11 @@
   {
     "op":"replace",
     "path":"/speedTitleLabel/value",
-    "value":"\uacf5\uaca9 \uc18d\ub3c4:"
+    "value":"공격 속도:"
   },
   {
     "op":"replace",
     "path":"/damagePerShotTitleLabel/value",
-    "value":"\uacf5\uaca9\ub2f9 \ud53c\ud574\ub7c9:"
+    "value":"공격당 피해량:"
   }
 ]

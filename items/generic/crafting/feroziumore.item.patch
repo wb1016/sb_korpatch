@@ -1,5 +1,5 @@
 [
-{"op": "replace", "path": "/shortdescription", "value": "\ud398\ub85c\uc9c0\uc6c0 \uad11\uc11d (Ferozium Ore)"}, {
-"op": "replace", "path": "/description", "value": 
-"\uD398\uB85C\uC9C0\uC6C0 \uAD11\uC11D\uC774\uB2E4. \uC81C\uB828\uD574\uC11C \uC0AC\uC6A9\uD560 \uC218 \uC788\uB2E4."}
+{"op": "replace", "path": "/shortdescription", "value": "페로지움 광석 (Ferozium Ore)"}, {
+"op": "replace", "path": "/description", "value":
+"페로지움 광석이다. 제련해서 사용할 수 있다."}
 ]

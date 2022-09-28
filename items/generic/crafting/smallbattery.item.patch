@@ -1,1 +1,1 @@
-[{"op": "replace", "path": "/shortdescription", "value": "AA \uac74\uc804\uc9c0 (AA Battery)"}, {"op": "replace", "path": "/description", "value": "\uC774 \uBC30\uD130\uB9AC\uB294 \uC791\uC740 \uC804\uC790 \uAE30\uAE30\uC5D0 \uC804\uB825\uC744 \uACF5\uAE09\uD558\uB294 \uB370 \uC0AC\uC6A9\uB420 \uC218 \uC788\uB2E4!"}]
+[{"op": "replace", "path": "/shortdescription", "value": "AA 건전지 (AA Battery)"}, {"op": "replace", "path": "/description", "value": "이 배터리는 작은 전자 기기에 전력을 공급하는 데 사용될 수 있다!"}]

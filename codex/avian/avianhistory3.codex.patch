@@ -1,19 +1,19 @@
 [
  {
-  "op": "replace", 
-  "path": "/title", 
-  "value": "\uD074\uB8E8\uC5D1\uC2A4\uC758 \uB208"
- }, 
+  "op": "replace",
+  "path": "/title",
+  "value": "클루엑스의 눈"
+ },
  {
-  "op": "replace", 
-  "path": "/description", 
-  "value": "\uAE30\uC220\uC5D0 \uAD00\uD55C \uC544\uBE44\uC548 \uD559\uC790\uC758 \uC800\uC220\uC774\uB2E4."
- }, 
+  "op": "replace",
+  "path": "/description",
+  "value": "기술에 관한 아비안 학자의 저술이다."
+ },
  {
-  "op": "replace", 
-  "path": "/contentPages/0", 
-  "value": "\uAE30\uACC4\uB97C \uC774\uD574\uD558\uB294 \uAC83\uC740 \uC544\uBE44\uC548 \uC885\uC871\uC5D0\uAC8C \uC27D\uAC8C \uC640\uB2FF\uC9C0 \uC54A\uC558\uB2E4. \uC6B0\uB9AC\uB294 \uACF5\uD559\uC790\uC758 \uC885\uC871\uBCF4\uB2E4\uB294, \uC804\uC0AC\uC640 \uC0AC\uC81C\uC758 \uC885\uC871\uC73C\uB85C \uD0DC\uC5B4\uB0AC\uB2E4. \uC774\uAC83\uC774 \uB9CC\uBB3C\uC758 \uC774\uCE58\uC774\uC9C0\uB9CC, \uC544\uBCF4\uB77C\uC774\uD2B8 \uC218\uC815\uC774 \uC6B0\uB9AC\uC5D0\uAC8C \uC218\uC5EC\uB418\uC790 \uC774\uCE58\uAC00 \uC601\uC6D0\uD788 \uBC14\uB00C\uC5C8\uB2E4.
+  "op": "replace",
+  "path": "/contentPages/0",
+  "value": "기계를 이해하는 것은 아비안 종족에게 쉽게 와닿지 않았다. 우리는 공학자의 종족보다는, 전사와 사제의 종족으로 태어났다. 이것이 만물의 이치이지만, 아보라이트 수정이 우리에게 수여되자 이치가 영원히 바뀌었다.
 
-\uC544\uBCF4\uB77C\uC774\uD2B8 \uC218\uC815\uC740 \uC2EC\uB839\uB860\uACFC \uACFC\uD559 \uC0AC\uC774\uC758 \uACF5\uBC31\uC744 \uBA54\uC6E0\uACE0, \uD604\uB300\uC5D0 \uC6B0\uB9AC \uBB38\uBA85\uC774 \uBC88\uC601\uD560 \uC218 \uC788\uAC8C \uD588\uB2E4."
+아보라이트 수정은 심령론과 과학 사이의 공백을 메웠고, 현대에 우리 문명이 번영할 수 있게 했다."
  }
 ]

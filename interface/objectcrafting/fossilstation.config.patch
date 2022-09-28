@@ -3,41 +3,41 @@
 	{
 		"op":"replace",
 		"path":"/paneLayout/windowtitle/title",
-		"value":"\ud654\uc11d \uc2a4\ud14c\uc774\uc158"
+		"value":"화석 스테이션"
 	},
 	{
 		"op":"replace",
 		"path":"/paneLayout/windowtitle/subtitle",
-		"value":"\ud654\uc11d \ub9dd\uce58\uc640 \uc9c4\uc5f4\ub300."
+		"value":"화석 망치와 진열대."
 	},
 	{
 		"op":"replace",
 		"path":"/paneLayout/lblSchematics/value",
-		"value":"\uccad\uc0ac\uc9c4"
+		"value":"청사진"
 	},
 	{
 		"op":"replace",
 		"path":"/paneLayout/lblProducttitle/value",
-		"value":"\uc644\uc131\ud488"
+		"value":"완성품"
 	},
 	{
 		"op":"replace",
 		"path":"/paneLayout/btnCraft/caption",
-		"value":"\uc81c\uc791"
+		"value":"제작"
 	},
 	{
 		"op":"replace",
 		"path":"/paneLayout/btnStopCraft/caption",
-		"value":"\uc911\ub2e8"
+		"value":"중단"
 	},
 	{
 		"op":"replace",
 		"path":"/paneLayout/lblProduct/value",
-		"value":"\uc7ac\ub8cc \uc788\uc74c"
+		"value":"재료 있음"
 	},
 	{
 		"op":"replace",
 		"path":"/paneLayout/filter/hint",
-		"value":"\uac80\uc0c9"
+		"value":"검색"
 	}
 ]

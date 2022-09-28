@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "\uB808\uC774\uC800 \uCC44\uAD74 \uB3C4\uAD6C"}, {"op": "replace", "path": "/description", "value": "\uACE1\uAC31\uC774\uB294 \uB108\uBB34 \uAD6C\uC2DD\uC774\uB2E4! \uD558\uC9C0\uB9CC \uB808\uC774\uC800\uB294 \uBBF8\uB798\uB97C \uC0C1\uC9D5\uD558\uC9C0."}]
+[
+  {
+    "op":"replace",
+    "path":"/shortdescription",
+    "value":"레이저 채굴 도구"
+  },
+  {
+    "op":"replace",
+    "path":"/description",
+    "value":"곡갱이는 너무 구식이다! 하지만 레이저는 미래를 상징하지."
+  }
+]

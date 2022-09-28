@@ -1,21 +1,21 @@
 [
  {
-  "op": "replace", 
-  "path": "/title", 
-  "value": "\uAD11\uAE30\uC758 \uC804\uC5FC\uBCD1"
- }, 
+  "op": "replace",
+  "path": "/title",
+  "value": "광기의 전염병"
+ },
  {
-  "op": "replace", 
-  "path": "/description", 
-  "value": "\uAE00\uB9AC\uCE58 \uC2DC\uC7A5\uC774 \uB9C8\uC744 \uC0AC\uB78C\uB4E4\uC5D0\uAC8C \uACBD\uACE0\uD558\uB294 \uAE00\uC774\uB2E4."
- }, 
+  "op": "replace",
+  "path": "/description",
+  "value": "글리치 시장이 마을 사람들에게 경고하는 글이다."
+ },
  {
-  "op": "replace", 
-  "path": "/contentPages/0", 
-  "value": "^orange;\uB9C8\uC744\uC758 \uC2DC\uBBFC\uB4E4\uC774\uC5EC, \uB4E4\uC73C\uB77C!^white;
+  "op": "replace",
+  "path": "/contentPages/0",
+  "value": "^orange;마을의 시민들이여, 들으라!^white;
 
-\uC774\uAC83\uC740 \uCE5C\uC560\uD558\uB294 \uC2DC\uC7A5\uB2D8\uC774 \uB0B4\uB9AC\uB294 \uCE59\uB839\uC774\uB2E4. \uB300\uC911 \uC0AC\uC774\uC5D0\uC11C \uD37C\uC9C0\uB294 \uAD11\uAE30\uAC00 \uC788\uB2E4. \uC6B0\uB9AC \uD615\uC81C\uC790\uB9E4 \uC911 \uBA87\uBA87\uC774 \uC790\uC2E0\uB4E4\uC740 \uC790\uAC01\uD588\uC73C\uBA70 \uC6B0\uB9AC \uC911 \uB098\uBA38\uC9C0\uB294 \uBAA8\uC885\uC758 \"\uBAA8\uC758\uC2E4\uD5D8\"\uC5D0\uC11C \uC0B4\uACE0 \uC788\uB2E4\uB294 \"\uC9C4\uC2E4\"\uC774\uB77C\uB294 \uAC83\uC744 \uB9D0\uD55C\uB2E4. 
+이것은 친애하는 시장님이 내리는 칙령이다. 대중 사이에서 퍼지는 광기가 있다. 우리 형제자매 중 몇몇이 자신들은 자각했으며 우리 중 나머지는 모종의 \"모의실험\"에서 살고 있다는 \"진실\"이라는 것을 말한다.
 
-\uC774\uAC83\uC740 \uC758\uC2EC\uC758 \uC5EC\uC9C0 \uC5C6\uC774 \uC804\uC5FC\uBCD1\uC774\uBA70, \uAD11\uAE30\uC5D0 \uBE60\uC9C4 \uC790\uB4E4\uC744 \uC790\uAE30 \uC790\uC2E0\uC744 \uC704\uD574 \uD53C\uD574\uC57C \uD55C\uB2E4. "
+이것은 의심의 여지 없이 전염병이며, 광기에 빠진 자들을 자기 자신을 위해 피해야 한다. "
  }
 ]

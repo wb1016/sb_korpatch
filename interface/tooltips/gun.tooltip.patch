@@ -2,16 +2,16 @@
   {
     "op":"replace",
     "path":"/speedTitleLabel/value",
-    "value":"\uc5f0\uc0ac \uc18d\ub3c4:"
+    "value":"연사 속도:"
   },
   {
     "op":"replace",
     "path":"/damagePerShotTitleLabel/value",
-    "value":"\ud55c \ubc1c\ub2f9 \ud53c\ud574\ub7c9:"
+    "value":"한 발당 피해량:"
   },
   {
     "op":"replace",
     "path":"/energyPerShotTitleLabel/value",
-    "value":"\ud55c \ubc1c\ub2f9 \uc5d0\ub108\uc9c0:"
+    "value":"한 발당 에너지:"
   }
 ]

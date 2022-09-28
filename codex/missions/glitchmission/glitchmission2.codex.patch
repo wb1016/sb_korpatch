@@ -1,19 +1,19 @@
 [
  {
-  "op": "replace", 
-  "path": "/title", 
-  "value": "\uBAA8\uD5D8\uAC00 \uB300\uC0AC\uC804"
- }, 
+  "op": "replace",
+  "path": "/title",
+  "value": "모험가 대사전"
+ },
  {
-  "op": "replace", 
-  "path": "/description", 
-  "value": "\uC720\uBA85\uD55C \uBAA8\uD5D8\uAC00\uB4E4\uC758 \uC704\uC5C5\uB4E4\uC744 \uB2F4\uC740 \uAC1C\uC694\uC11C\uC774\uB2E4."
- }, 
+  "op": "replace",
+  "path": "/description",
+  "value": "유명한 모험가들의 위업들을 담은 개요서이다."
+ },
  {
-  "op": "replace", 
-  "path": "/contentPages/0", 
-  "value": "\uB0A8\uC791(\uAE00\uB9AC\uCE58): \uC0B4\uC544\uC788\uC74C, \uC740\uD1F4\uD568.
+  "op": "replace",
+  "path": "/contentPages/0",
+  "value": "남작(글리치): 살아있음, 은퇴함.
 
-\uB0A8\uC791\uC758 \uC704\uC5C5\uB4E4\uC740 \uC218\uC2ED \uB144, \uC218\uBC31 \uAC1C\uC758 \uD589\uC131\uC5D0 \uAC78\uCCD0 \uC774\uC5B4\uC84C\uB2E4. \uADF8\uB294 \uC544\uD3EC\uD06C\uC758 \uB9C8\uADF8\uB9C8 \uC9C0\uB300\uC5D0\uC11C \uC774\uADF8\uB188 \uB5BC\uC640 \uC2F8\uC6E0\uC73C\uBA70, \uD55C\uB54C \uC704\uB300\uD588\uB358 \uBB38\uBA85\uB4E4\uC758 \uC720\uC801\uB4E4\uB85C\uBD80\uD130 \uBCF4\uBB3C\uC744 \uC57D\uD0C8\uD588\uB2E4. \uC2DC\uC544\uB2CC\uC758 \uAC70\uCE5C \uBC14\uB2E4\uB97C \uD56D\uD574\uD588\uACE0, \uC678\uC9C4 \uC5D0\uB819 \uC232\uC758 \uAC00\uC7A5 \uC5B4\uB461\uACE0 \uAE4A\uC740 \uACF3\uC744 \uD0D0\uD5D8\uD588\uB2E4. \uC774 \uBAA8\uB4E0 \uB178\uB825 \uC911\uC5D0\uB294 \uADF8\uC758 \uCD5C\uAC15\uC758 \uC219\uC801\uC774\uC790 \uACE0\uB300\uC758 \uAC15\uB825\uD55C \uB7A8\uD30C\uC774\uC5B4, 01 \uBC31\uC791\uC5D0\uAC8C \uCD94\uC801\uC744 \uB2F9\uD588\uB2E4. \uC815\uB9D0\uB85C, \uB0A8\uC791\uC740 \uC5ED\uC0AC\uC0C1 \uAC00\uC7A5 \uC704\uB300\uD55C \uBAA8\uD5D8\uAC00 \uC911 \uD55C \uBA85\uC774\uB2E4."
+남작의 위업들은 수십 년, 수백 개의 행성에 걸쳐 이어졌다. 그는 아포크의 마그마 지대에서 이그놈 떼와 싸웠으며, 한때 위대했던 문명들의 유적들로부터 보물을 약탈했다. 시아닌의 거친 바다를 항해했고, 외진 에렙 숲의 가장 어둡고 깊은 곳을 탐험했다. 이 모든 노력 중에는 그의 최강의 숙적이자 고대의 강력한 램파이어, 01 백작에게 추적을 당했다. 정말로, 남작은 역사상 가장 위대한 모험가 중 한 명이다."
  }
 ]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "\uace1\uac31\uc774\ub294 \uad6c\uc2dd \ubb3c\uac74\uc5d0 \ubd88\uacfc\ud574!"}, {"op": "replace", "path": "/shortdescription", "value": "\uace1\uac31\uc774"}]
+[
+  {
+    "op":"replace",
+    "path":"/description",
+    "value":"곡갱이는 구식 물건에 불과해!"
+  },
+  {
+    "op":"replace",
+    "path":"/shortdescription",
+    "value":"곡갱이"
+  }
+]

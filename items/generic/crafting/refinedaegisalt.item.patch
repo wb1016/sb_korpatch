@@ -1,5 +1,5 @@
 [
-{"op": "replace", "path": "/shortdescription", "value": "\uc815\uc81c\ub41c \uc5d0\uc9c0\uc194\ud2b8 (Refined Aegisalt)"}, 
-{"op": "replace", "path": "/description", "value": 
-"\uC815\uC81C\uB41C \uC5D0\uC9C0\uC194\uD2B8\uB97C \uB9CC\uB4DC\uB294\uB370 \uC4F0\uC774\uB294 \uAD11\uC11D\uC740 \uB300\uBD80\uBD84 \uC5BC\uC5B4\uBD99\uC740 \uD56D\uC131\uC744 \uACF5\uC804\uD558\uB294 \uD589\uC131\uC5D0\uC11C \uBC1C\uACAC\uB41C\uB2E4."}
+{"op": "replace", "path": "/shortdescription", "value": "정제된 에지솔트 (Refined Aegisalt)"},
+{"op": "replace", "path": "/description", "value":
+"정제된 에지솔트를 만드는데 쓰이는 광석은 대부분 얼어붙은 항성을 공전하는 행성에서 발견된다."}
 ]

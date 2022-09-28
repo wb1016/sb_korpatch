@@ -2,346 +2,346 @@
   {
     "op":"replace",
     "path":"/gui/windowtitle/title",
-    "value":"\uD56D\uBC95 \uCF58\uC194"
+    "value":"항법 콘솔"
   },
   {
     "op":"replace",
     "path":"/gui/windowtitle/subtitle",
-    "value":"\uBAA9\uC801\uC9C0\uB97C \uC120\uD0DD\uD558\uC138\uC694"
+    "value":"목적지를 선택하세요"
   },
   {
     "op":"replace",
     "path":"/gui/bookmarksFrame/children/bookmarkList/children/bookmarkItemList/schema/listTemplate/name/value",
-    "value":"\uBD81\uB9C8\uD06C \uC774\uB984"
+    "value":"북마크 이름"
   },
   {
     "op":"replace",
     "path":"/gui/bookmarksFrame/children/bookmarkList/children/bookmarkItemList/schema/listTemplate/planetName/value",
-    "value":"\uD589\uC131 \uC774\uB984"
+    "value":"행성 이름"
   },
   {
     "op":"replace",
     "path":"/gui/editBookmarkFrame/children/ok/caption",
-    "value":"\uD655\uC778"
+    "value":"확인"
   },
   {
     "op":"replace",
     "path":"/gui/editBookmarkFrame/children/remove/caption",
-    "value":"\uC0AD\uC81C"
+    "value":"삭제"
   },
   {
     "op":"replace",
     "path":"/gui/editBookmarkFrame/children/close/caption",
-    "value":"\uCDE8\uC18C"
+    "value":"취소"
   },
   {
     "op":"replace",
     "path":"/gui/editBookmarkFrame/children/title/value",
-    "value":"\uC0C8 \uBD81\uB9C8\uD06C"
+    "value":"새 북마크"
   },
   {
     "op":"replace",
     "path":"/gui/jumpDialog/children/jump/caption",
-    "value":"\uC810\uD504"
+    "value":"점프"
   },
   {
     "op":"replace",
     "path":"/gui/jumpDialog/children/cancel/caption",
-    "value":"\uCDE8\uC18C"
+    "value":"취소"
   },
   {
     "op":"replace",
     "path":"/gui/jumpDialog/children/title/value",
-    "value":"FTL \uD56D\uD574 \uD655\uC778"
+    "value":"FTL 항해 확인"
   },
   {
     "op":"replace",
     "path":"/gui/jumpDialog/children/text/value",
-    "value":"FTL \uD56D\uD574\uB294 ^green;%s \uC5F0\uB8CC^reset;\uB97C \uC0AC\uC6A9\uD560 \uAC83\uC785\uB2C8\uB2E4. \n\uACC4\uC18D\uD560 \uAC83\uC778\uC9C0 \uD655\uC778\uD574\uC8FC\uC138\uC694."
+    "value":"FTL 항해는 ^green;%s 연료^reset;를 사용할 것입니다. \n계속할 것인지 확인해주세요."
   },
   {
     "op":"replace",
     "path":"/gui/clusterinfo/children/inner/children/view/caption",
-    "value":"\uC544\uC9C1 \uD0D0\uD5D8\uB418\uC9C0 \uC54A\uC74C"
+    "value":"아직 탐험되지 않음"
   },
   {
     "op":"replace",
     "path":"/gui/objectinfo/children/inner/children/threat/value",
-    "value":"\uBA54\uD06C \uD544\uC694"
+    "value":"메크 필요"
   },
   {
     "op":"replace",
     "path":"/gui/systeminfo/children/inner/children/view/caption",
-    "value":"\uC544\uC9C1 \uD0D0\uD5D8\uB418\uC9C0 \uC54A\uC74C"
+    "value":"아직 탐험되지 않음"
   },
   {
     "op":"replace",
     "path":"/gui/planetinfo/children/inner/children/threatLabel/value",
-    "value":"\uC704\uD611 : "
+    "value":"위협 : "
   },
   {
     "op":"replace",
     "path":"/gui/planetinfo/children/inner/children/threatValue/value",
-    "value":"\uC704\uD5D8\uD568"
+    "value":"위험함"
   },
   {
     "op":"replace",
     "path":"/gui/planetinfo/children/inner/children/ores/value",
-    "value":"\uC9C0\uC9C8\uD559\uC801 \uBD84\uC11D"
+    "value":"지질학적 분석"
   },
   {
     "op":"replace",
     "path":"/gui/planetinfo/children/inner/children/weather/value",
-    "value":"\uAE30\uD6C4"
+    "value":"기후"
   },
   {
     "op":"replace",
     "path":"/gui/planetinfo/children/inner/children/bookmark/caption",
-    "value":"\uBD81\uB9C8\uD06C \uC774\uB984"
+    "value":"북마크 이름"
   },
   {
     "op":"replace",
     "path":"/gui/disabledLabel/value",
-    "value":"\uB0B4\uBE44\uAC8C\uC774\uC158 \uC0AC\uC6A9 \uBD88\uAC00"
+    "value":"내비게이션 사용 불가"
   },
   {
     "op":"replace",
     "path":"/gui/transitLabel/value",
-    "value":"\uD568\uC120 \uC774\uB3D9\uC911"
+    "value":"함선 이동중"
   },
   {
     "op":"replace",
     "path":"/gui/remoteTitle/value",
-    "value":"\uC6D0\uACA9 \uD56D\uC131\uACC4 \uBCF4\uAE30"
+    "value":"원격 항성계 보기"
   },
   {
     "op":"replace",
     "path":"/gui/remoteDescription/value",
-    "value":"\uBD84\uC11D\uB418\uC9C0 \uC54A\uC740 \uCC9C\uCCB4 \uC0AC\uC6A9 \uBD88\uAC00"
+    "value":"분석되지 않은 천체 사용 불가"
   },
   {
     "op":"replace",
     "path":"/planetInfoBox/bookmarkButtonCaption/add",
-    "value":"\uBD81\uB9C8\uD06C \uCD94\uAC00"
+    "value":"북마크 추가"
   },
   {
     "op":"replace",
     "path":"/planetInfoBox/bookmarkButtonCaption/edit",
-    "value":"\uBD81\uB9C8\uD06C \uD3B8\uC9D1"
+    "value":"북마크 편집"
   },
   {
     "op":"replace",
     "path":"/planetInfoBox/bookmarkButtonCaption/disabled",
-    "value":"\uBD81\uB9C8\uD06C \uC0AC\uC6A9 \uBD88\uAC00"
+    "value":"북마크 사용 불가"
   },
   {
     "op":"replace",
     "path":"/clusterInfoBox/viewButtonCaption/enabled",
-    "value":"\uBCF4\uAE30"
+    "value":"보기"
   },
   {
     "op":"replace",
     "path":"/clusterInfoBox/viewButtonCaption/disabled",
-    "value":"\uBBF8\uD0D0\uD5D8"
+    "value":"미탐험"
   },
   {
     "op":"replace",
     "path":"/visitableTypeDescription/garden",
     "value":[
-      "\uCC29\uB959\uC9C0\uC810\uC5D0 ^#76fe68;\uC6B8\uCC3D\uD55C \uC218\uD480^white;\uACFC \uC5B8\uB355\uC774 \uAC10\uC9C0\uB429\uB2C8\uB2E4. \uC774\uACF3\uC5D0\uC11C \uC2DD\uBB3C\uACFC \uB3D9\uBB3C \uBAA8\uB450 \uD48D\uBD80\uD558\uAC8C \uC11C\uC2DD\uD558\uACE0 \uC788\uC2B5\uB2C8\uB2E4. \uC804\uC1A1 \uC9C0\uC810\uC740 \uB9E4\uC6B0 \uC548\uC804\uD569\uB2C8\uB2E4.",
-      "\uC804\uC1A1 \uC9C0\uC810\uC740 \uC0DD\uBB3C \uB2E4\uC591\uC131\uC774 \uB192\uC740 \uD3C9\uC628\uD55C \uACF3\uC785\uB2C8\uB2E4. \uB2F9\uC2E0\uC774 \uC0AC\uC6A9\uD560 \uC218 \uC788\uB294 \uC790\uC6D0\uC774 \uC788\uC2B5\uB2C8\uB2E4.",
-      "\uCC29\uB959 \uC9C0\uC810\uC758 \uCE21\uC815 \uACB0\uACFC\uB294 \uAE0D\uC815\uC801\uC785\uB2C8\uB2E4. \uC774 \uC9C0\uC5ED\uC740 \uC548\uC804\uD558\uBA70 \uB3D9\uC2DD\uBB3C\uAD70\uC774 \uD48D\uBD80\uD558\uAC8C \uC11C\uC2DD\uD558\uACE0 \uC788\uC2B5\uB2C8\uB2E4. \uC548\uC804\uD55C ^#76fe68;\uC218\uD480^white; \uC9C0\uB300\uC785\uB2C8\uB2E4."
+      "착륙지점에 ^#76fe68;울창한 수풀^white;과 언덕이 감지됩니다. 이곳에서 식물과 동물 모두 풍부하게 서식하고 있습니다. 전송 지점은 매우 안전합니다.",
+      "전송 지점은 생물 다양성이 높은 평온한 곳입니다. 당신이 사용할 수 있는 자원이 있습니다.",
+      "착륙 지점의 측정 결과는 긍정적입니다. 이 지역은 안전하며 동식물군이 풍부하게 서식하고 있습니다. 안전한 ^#76fe68;수풀^white; 지대입니다."
     ]
   },
   {
     "op":"replace",
     "path":"/visitableTypeDescription/forest",
     "value":[
-      "\uB098\uBB34\uC640 \uB2E4\uB978 \uB3D9\uC2DD\uBB3C\uC774 \uBC00\uC9D1\uB418\uC5B4 \uC788\uB294 \uCC29\uB959 \uC9C0\uC810\uC740 \uB2F9\uC2E0\uC744 \uD3EC\uD568\uD55C \uB9CE\uC740 \uC0DD\uBA85\uC744 \uB3D5\uB294 ^#15ce02;\uC0BC\uB9BC^white; \uC9C0\uB300\uC785\uB2C8\uB2E4.",
-      "\uC774 ^#15ce02;\uC232^white;\uC5D0\uB294 \uC78E\uC774 \uBB34\uC131\uD55C \uB098\uBB34\uB4E4\uC774 \uB9CE\uC2B5\uB2C8\uB2E4. \uC774 \uC9C0\uC5ED\uC740 \uC0DD\uBA85\uCCB4\uAC00 \uC0B4\uAE30\uC5D0 \uCF8C\uC801\uD569\uB2C8\uB2E4. \uC81C \uB370\uC774\uD130\uBCA0\uC774\uC2A4\uC5D0 \uB530\uB974\uBA74 \uB2F9\uC2E0\uC774 \uC0BC\uB9BC\uC9C0\uB300\uC758 \uC0DD\uBB3C\uB4E4\uC744 \uB9CC\uB0A0 \uC218 \uC788\uC2B5\uB2C8\uB2E4.",
-      "\uC774 \uD589\uC131\uC758 \uC804\uC1A1 \uC9C0\uC810\uC740 ^#15ce02;\uC232^white;\uC5D0 \uC788\uC2B5\uB2C8\uB2E4. \uCE21\uC815 \uACB0\uACFC\uC5D0 \uB530\uB974\uBA74 \uC774 \uC0BC\uB9BC \uC9C0\uC5ED\uC740 \uBE44\uAD50\uC801 \uD3C9\uC628\uD569\uB2C8\uB2E4."
+      "나무와 다른 동식물이 밀집되어 있는 착륙 지점은 당신을 포함한 많은 생명을 돕는 ^#15ce02;삼림^white; 지대입니다.",
+      "이 ^#15ce02;숲^white;에는 잎이 무성한 나무들이 많습니다. 이 지역은 생명체가 살기에 쾌적합니다. 제 데이터베이스에 따르면 당신이 삼림지대의 생물들을 만날 수 있습니다.",
+      "이 행성의 전송 지점은 ^#15ce02;숲^white;에 있습니다. 측정 결과에 따르면 이 삼림 지역은 비교적 평온합니다."
     ]
   },
   {
     "op":"replace",
     "path":"/visitableTypeDescription/desert",
     "value":[
-      "\uC774\uACF3\uC5D0\uC11C \uC2DD\uBB3C\uAD70 \uC11C\uC2DD\uC740 \uC81C\uD55C\uB418\uC5B4 \uC788\uC2B5\uB2C8\uB2E4. \uD558\uC9C0\uB9CC \uC0DD\uBA85 \uD65C\uB3D9\uC744 \uC720\uC9C0\uD558\uAE30\uC5D0\uB294 \uCDA9\uBD84\uD569\uB2C8\uB2E4. \uBAA8\uB798\uB3C4 \uD48D\uBD80\uD569\uB2C8\uB2E4. \uAC04\uB2E8\uD788 \uB9D0\uD574\uC11C, \uC774\uACF3\uC740 ^#e6c801;\uC0AC\uB9C9^white;\uC785\uB2C8\uB2E4.",
-      "\uB9CE\uC740 \uC120\uC778\uC7A5\uACFC \uB2E4\uC591\uD55C \uB3D9\uBB3C\uC774 \uC11C\uC2DD\uD558\uACE0 \uC788\uB294 ^#e6c801;\uC0AC\uB9C9^white; \uC9C0\uC5ED\uC785\uB2C8\uB2E4. \uB2F9\uC2E0\uC774 \uBAA8\uB798 \uD3ED\uD48D\uC744 \uD53C\uD560 \uC218 \uC788\uB2E4\uBA74, \uBE44\uAD50\uC801 \uC548\uC804\uD55C \uCC29\uB959 \uC7A5\uC18C\uC785\uB2C8\uB2E4.",
-      "\uBAA8\uB798. \uBAA8\uB798\uAC00 \uAC10\uC9C0\uB429\uB2C8\uB2E4. \uADF8\uB9AC\uACE0 \uC120\uC778\uC7A5\uB3C4... \uD558\uC9C0\uB9CC \uC8FC\uB85C \uBAA8\uB798\uC785\uB2C8\uB2E4. \uC774\uC6A9 \uAC00\uB2A5\uD55C \uC815\uBCF4\uC5D0 \uB530\uB77C, \uC800\uB294 \uCC29\uB959 \uC9C0\uC810\uC774 ^#e6c801;\uC0AC\uB9C9^white;\uC5D0 \uC704\uCE58\uD558\uACE0 \uC788\uB2E4\uACE0 \uCD94\uCE21\uD569\uB2C8\uB2E4."
+      "이곳에서 식물군 서식은 제한되어 있습니다. 하지만 생명 활동을 유지하기에는 충분합니다. 모래도 풍부합니다. 간단히 말해서, 이곳은 ^#e6c801;사막^white;입니다.",
+      "많은 선인장과 다양한 동물이 서식하고 있는 ^#e6c801;사막^white; 지역입니다. 당신이 모래 폭풍을 피할 수 있다면, 비교적 안전한 착륙 장소입니다.",
+      "모래. 모래가 감지됩니다. 그리고 선인장도... 하지만 주로 모래입니다. 이용 가능한 정보에 따라, 저는 착륙 지점이 ^#e6c801;사막^white;에 위치하고 있다고 추측합니다."
     ]
   },
   {
     "op":"replace",
     "path":"/visitableTypeDescription/snow",
     "value":[
-      "\uC774 \uC300\uC300\uD55C \uCC29\uB959 \uC9C0\uC810\uC5D0\uB294 ^#69f1fd;\uB208^white;\uC774 \uAC00\uB4DD\uD569\uB2C8\uB2E4. \uB2E4\uC591\uD55C \uC885\uB958\uC758 \uB098\uBB34\uAC00 \uC774\uACF3\uC5D0\uC11C \uC790\uB77C\uBA70 \uCD94\uC6B4 \uD658\uACBD\uC5D0\uC11C\uB3C4 \uB2E4\uC591\uD55C \uB3D9\uBB3C\uC774 \uBC88\uC131\uD569\uB2C8\uB2E4. \uB208\uB369\uC774\uB97C \uB9CC\uB4E4\uAE30\uC5D0 \uD6CC\uB96D\uD55C \uC7A5\uC18C\uC785\uB2C8\uB2E4.",
-      "\uCC29\uB959 \uC9C0\uC810\uC740 \uCDA5\uC9C0\uB9CC \uC704\uD5D8\uD558\uC9C0\uB294 \uC54A\uC2B5\uB2C8\uB2E4. ^#69f1fd;\uB208^white;\uC774 \uADF8 \uC9C0\uC5ED\uC744 \uB36E\uACE0 \uC788\uC73C\uBA70, \uB208\uBCF4\uB77C\uAC00 \uBC1C\uC0DD\uD560 \uAC00\uB2A5\uC131\uC774 \uC788\uC2B5\uB2C8\uB2E4. \uBAA8\uC790\uC640 \uC7A5\uAC11\uC744 \uCC29\uC6A9\uD558\uB294\uAC83\uC774 \uC88B\uC2B5\uB2C8\uB2E4.",
-      "\uC774\uACF3\uC740 \uBE44\uAD50\uC801 \uC300\uC300\uD558\uACE0, \uB545\uC5D0\uB294 ^#69f1fd;\uB208^white;\uC774 \uB450\uAECD\uAC8C \uC313\uC5EC \uC788\uC2B5\uB2C8\uB2E4. \uD558\uC580 \uB2F4\uC694\uCC98\uB7FC \uB36E\uC778 \uB208 \uC0AC\uC774\uB85C \uB6F0\uC5B4\uB2E4\uB2C8\uB294 \uC791\uC740 \uC0DD\uBA85\uCCB4\uB4E4\uC774 \uAC10\uC9C0\uB429\uB2C8\uB2E4."
+      "이 쌀쌀한 착륙 지점에는 ^#69f1fd;눈^white;이 가득합니다. 다양한 종류의 나무가 이곳에서 자라며 추운 환경에서도 다양한 동물이 번성합니다. 눈덩이를 만들기에 훌륭한 장소입니다.",
+      "착륙 지점은 춥지만 위험하지는 않습니다. ^#69f1fd;눈^white;이 그 지역을 덮고 있으며, 눈보라가 발생할 가능성이 있습니다. 모자와 장갑을 착용하는것이 좋습니다.",
+      "이곳은 비교적 쌀쌀하고, 땅에는 ^#69f1fd;눈^white;이 두껍게 쌓여 있습니다. 하얀 담요처럼 덮인 눈 사이로 뛰어다니는 작은 생명체들이 감지됩니다."
     ]
   },
   {
     "op":"replace",
     "path":"/visitableTypeDescription/savannah",
     "value":[
-      "\uCC29\uB959 \uC9C0\uC810\uC740 \uBA3C\uC9C0 \uD3ED\uD48D\uC774 \uBC1C\uC0DD\uD558\uAE30 \uC26C\uC6B4 \uACE0\uC628 ^#ffe21d;\uAC74\uC870\uD55C \uCD08\uC6D0^white; \uC9C0\uC5ED\uC5D0 \uC704\uCE58\uD574 \uC788\uC2B5\uB2C8\uB2E4. \uD2B9\uBCC4\uD788 \uCF8C\uC801\uD558\uC9C0\uB3C4, \uD2B9\uBCC4\uD788 \uC704\uD5D8\uD558\uC9C0\uB3C4 \uC54A\uC2B5\uB2C8\uB2E4.",
-      "\uC774 ^#ffe21d;\uAC74\uC870\uD55C \uCD08\uC6D0^white;\uC5D0\uB294 \uB098\uBB34\uAC00 \uB4DC\uBB38\uB4DC\uBB38 \uC790\uB77C\uACE0 \uC788\uC2B5\uB2C8\uB2E4. \uC5C4\uCCAD\uB098\uAC8C \uC0B4\uAE30 \uD798\uB4E0 \uACF3\uC740 \uC544\uB2D9\uB2C8\uB2E4. \uAE61\uCDA9\uAE61\uCDA9 \uB6F0\uC5B4\uB2E4\uB2C8\uB294 \uD1A0\uB07C\uAC00 \uAC10\uC9C0\uB418\uC5C8\uC2B5\uB2C8\uB2E4.",
-      "\uCC29\uB959 \uC9C0\uC810\uC740 ^#ffe21d;\uAC74\uC870\uD55C \uCD08\uC6D0^white; \uC9C0\uC5ED\uC5D0 \uC704\uCE58\uD574 \uC788\uC2B5\uB2C8\uB2E4. \uB098\uBB34\uC640 \uAD00\uBAA9\uB4E4\uC740 \uB354\uC704 \uC18D\uC5D0\uC11C \uB4DC\uBB3C\uAC8C \uC790\uB78D\uB2C8\uB2E4. \uB113\uACE0 \uD3C9\uD3C9\uD55C \uBA3C\uC9C0\uD22C\uC131\uC774 \uC9C0\uC5ED\uC785\uB2C8\uB2E4."
+      "착륙 지점은 먼지 폭풍이 발생하기 쉬운 고온 ^#ffe21d;건조한 초원^white; 지역에 위치해 있습니다. 특별히 쾌적하지도, 특별히 위험하지도 않습니다.",
+      "이 ^#ffe21d;건조한 초원^white;에는 나무가 드문드문 자라고 있습니다. 엄청나게 살기 힘든 곳은 아닙니다. 깡충깡충 뛰어다니는 토끼가 감지되었습니다.",
+      "착륙 지점은 ^#ffe21d;건조한 초원^white; 지역에 위치해 있습니다. 나무와 관목들은 더위 속에서 드물게 자랍니다. 넓고 평평한 먼지투성이 지역입니다."
     ]
   },
   {
     "op":"replace",
     "path":"/visitableTypeDescription/ocean",
     "value":[
-      "\uAE4A\uC740 ^#008aff;\uBC14\uB2E4^white;\uC640 \uC791\uC740 \uC12C\uC73C\uB85C \uC774\uB8E8\uC5B4\uC9C4 \uD589\uC131\uC785\uB2C8\uB2E4. \uD48D\uBD80\uD55C \uC218\uC0DD \uC0DD\uBB3C\uB4E4\uACFC \uADF8\uB9BC\uAC19\uC740 \uC12C\uB4E4\uC774 \uAC10\uC9C0\uB429\uB2C8\uB2E4.",
-      "^#008aff;\uBC14\uB2E4^white;\uB85C \uB4A4\uB36E\uC778 \uC774 \uD589\uC131\uC740 \uC12C\uACFC \uC218\uB9CE\uC740 \uC0DD\uBB3C\uB4E4\uC774 \uC788\uC2B5\uB2C8\uB2E4. \uAE4A\uC740 \uBC14\uB2F7\uC18D\uC5D0\uC11C \uB9CE\uC740 \uD65C\uB3D9\uC774 \uAC10\uC9C0\uB429\uB2C8\uB2E4.",
-      "\uB5A0\uB2E4\uB2C8\uB294 \uBB34\uC778\uB3C4\uB4E4\uC774 \uC774 ^#008aff;\uBC14\uB2E4^white; \uD589\uC131\uC758 \uD45C\uBA74\uC5D0 \uD769\uBFCC\uB824\uC838 \uC788\uC2B5\uB2C8\uB2E4. \uC5F4\uB300\uC801 \uBD84\uC704\uAE30\uC758 \uC544\uB984\uB2E4\uC6B4 \uD658\uACBD\uC785\uB2C8\uB2E4."
+      "깊은 ^#008aff;바다^white;와 작은 섬으로 이루어진 행성입니다. 풍부한 수생 생물들과 그림같은 섬들이 감지됩니다.",
+      "^#008aff;바다^white;로 뒤덮인 이 행성은 섬과 수많은 생물들이 있습니다. 깊은 바닷속에서 많은 활동이 감지됩니다.",
+      "떠다니는 무인도들이 이 ^#008aff;바다^white; 행성의 표면에 흩뿌려져 있습니다. 열대적 분위기의 아름다운 환경입니다."
     ]
   },
   {
     "op":"replace",
     "path":"/visitableTypeDescription/toxic",
     "value":[
-      "\uC774 \uD589\uC131\uC740 ^#06ff00;\uB3C5\uC131^white;\uC774 \uC788\uC2B5\uB2C8\uB2E4. \uACF5\uAE30\uB294 \uBD80\uD328\uD558\uC600\uC73C\uBA70, \uBC14\uB2E4\uB294 \uC720\uB3C5\uD569\uB2C8\uB2E4. ^red;\uBC29\uC0AC\uC120^white;\uC740 \uC548\uC804 \uC218\uCE58\uB97C \uC218\uCC9C \uBC30 \uC774\uC0C1 \uCD08\uACFC\uD569\uB2C8\uB2E4.",
-      "^red;\uAC15\uD55C \uBC29\uC0AC\uB2A5^white;\uC744 \uAC00\uC9C0\uACE0 \uC788\uB294 \uC774 \uD589\uC131\uC740 \uBC29\uC0AC\uB2A5\uC5D0 \uC624\uC5FC\uB41C \uC0DD\uBA85\uCCB4\uB4E4\uC774 \uC11C\uC2DD\uD558\uB294 \uC720\uB3C5\uD55C \uD669\uC57C\uC785\uB2C8\uB2E4. \uBC1C\uAD11\uD558\uB294 \uD45C\uBA74\uC740 ^#06ff00;\uB3C5\uC131^white;\uC774 \uC788\uC2B5\uB2C8\uB2E4. \uBC29\uBB38\uD558\uACE0 \uC2F6\uC9C0 \uC54A\uC740 \uBAA9\uC801\uC9C0\uC785\uB2C8\uB2E4.",
-      "^red;\uBC29\uC0AC\uB2A5^white;\uC73C\uB85C \uAC00\uB4DD\uD55C ^#06ff00;\uB3C5\uC131^white; \uD589\uC131\uC785\uB2C8\uB2E4. \uBC14\uB2E4\uB294 \uCE58\uBA85\uC801\uC73C\uB85C \uC720\uB3C5\uD569\uB2C8\uB2E4... \uB2E4\uB978 \uBAA9\uC801\uC9C0\uB97C \uC774\uC6A9\uD560 \uC218 \uC788\uC74C\uC744 \uB9D0\uC500\uB4DC\uB9AC\uACA0\uC2B5\uB2C8\uB2E4."
+      "이 행성은 ^#06ff00;독성^white;이 있습니다. 공기는 부패하였으며, 바다는 유독합니다. ^red;방사선^white;은 안전 수치를 수천 배 이상 초과합니다.",
+      "^red;강한 방사능^white;을 가지고 있는 이 행성은 방사능에 오염된 생명체들이 서식하는 유독한 황야입니다. 발광하는 표면은 ^#06ff00;독성^white;이 있습니다. 방문하고 싶지 않은 목적지입니다.",
+      "^red;방사능^white;으로 가득한 ^#06ff00;독성^white; 행성입니다. 바다는 치명적으로 유독합니다... 다른 목적지를 이용할 수 있음을 말씀드리겠습니다."
     ]
   },
   {
     "op":"replace",
     "path":"/visitableTypeDescription/jungle",
     "value":[
-      "\uCC29\uB959 \uC9C0\uC810\uC740 \uC6B8\uCC3D\uD55C ^#12a003;\uC815\uAE00^white;\uC5D0 \uC788\uC2B5\uB2C8\uB2E4. \uBB34\uC131\uD55C \uC2DD\uBB3C \uC0AC\uC774\uB85C \uB180\uB77C\uC6B4 \uC0DD\uBB3C\uB4E4\uC774 \uC0B4\uACE0 \uC788\uC2B5\uB2C8\uB2E4. ^red;\uCE58\uBA85\uC801\uC73C\uB85C \uB192\uC740 \uC218\uC900\uC758 \uBC29\uC0AC\uC120^white;\uC5D0 \uB300\uD574\uC11C\uB294 \uC544\uC26C\uC6B4 \uC77C\uC785\uB2C8\uB2E4.",
-      "\uCC29\uB959 \uC9C0\uC810\uC740 \uC5EC\uB7EC \uC885\uB958\uC758 \uB3D9\uC2DD\uBB3C\uC774 \uBC00\uC9D1\uD55C ^#12a003;\uC815\uAE00^white;\uC785\uB2C8\uB2E4. \uC774 \uC9C0\uC5ED\uC740 \uC790\uC6D0\uC774 \uD48D\uBD80\uD558\uC9C0\uB9CC ^red;\uBC29\uC0AC\uB2A5^white;\uC774 \uC5C4\uCCAD\uB098\uAC8C \uB192\uC2B5\uB2C8\uB2E4.",
-      "^red;\uB192\uC740 \uC218\uC900\uC758 \uBC29\uC0AC\uB2A5^white;\uC774 \uC774 ^#12a003;\uC815\uAE00^white;\uC744 \uADF9\uB3C4\uB85C \uC801\uB300\uC801\uC778 \uD658\uACBD\uC73C\uB85C \uB9CC\uB4E4\uACE0, \uB3D9\uBB3C\uB4E4\uB3C4 \uB9C8\uCC2C\uAC00\uC9C0\uB85C \uC6B0\uB9AC\uB97C \uBC18\uAC00\uC6CC\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4."
+      "착륙 지점은 울창한 ^#12a003;정글^white;에 있습니다. 무성한 식물 사이로 놀라운 생물들이 살고 있습니다. ^red;치명적으로 높은 수준의 방사선^white;에 대해서는 아쉬운 일입니다.",
+      "착륙 지점은 여러 종류의 동식물이 밀집한 ^#12a003;정글^white;입니다. 이 지역은 자원이 풍부하지만 ^red;방사능^white;이 엄청나게 높습니다.",
+      "^red;높은 수준의 방사능^white;이 이 ^#12a003;정글^white;을 극도로 적대적인 환경으로 만들고, 동물들도 마찬가지로 우리를 반가워하지 않습니다."
     ]
   },
   {
     "op":"replace",
     "path":"/visitableTypeDescription/alien",
     "value":[
-      "\uC774\uACF3\uC740 \uB2E4\uC18C \uC704\uD5D8\uD55C \uCC29\uB959 \uC9C0\uC810\uC785\uB2C8\uB2E4. ^red;\uBC29\uC0AC\uB2A5 \uC218\uCE58\uAC00 \uB9E4\uC6B0 \uB192\uC2B5\uB2C8\uB2E4.^white; ^#7800ff;\uBCC0\uC774\uB41C^white; \uC9C0\uD615\uC740 \uC554\uC6B8\uD558\uAC8C \uBCC0\uB355\uC2A4\uB7EC\uC6B4 \uAC83\uC73C\uB85C \uBCF4\uC785\uB2C8\uB2E4.",
-      "\uC774\uC0C1\uD55C \uC2DD\uBB3C, \uACF5\uACA9\uC801\uC778 \uB3D9\uBB3C, \uC9C0\uAE0B\uC9C0\uAE0B\uD560 \uC815\uB3C4\uB85C ^red;\uB192\uC740 \uC218\uC900\uC758 \uBC29\uC0AC\uB2A5^white;\uC774 \uD2B9\uC9D5\uC778 \uCC29\uB959\uC9C0\uC810\uC785\uB2C8\uB2E4. \uC774\uACF3\uC5D0 \uC11C\uC2DD\uD558\uB294 \uB3D9\uBB3C\uB4E4\uC740 \uC2EC\uD558\uAC8C ^#7800ff;\uBCC0\uC774^white;\uB418\uC5C8\uC2B5\uB2C8\uB2E4.",
-      "\uC804\uC1A1 \uC9C0\uC810\uC740 ^#7800ff;\uBCC0\uC774\uB41C^white; \uC790\uC5F0\uD658\uACBD\uC5D0 \uC704\uCE58\uD574 \uC788\uC2B5\uB2C8\uB2E4. ^red;\uB192\uC740 \uC218\uC900\uC758 \uBC29\uC0AC\uC120^white;\uC774 \uC720\uD574\uD55C \uD658\uACBD\uC744 \uB9CC\uB4E4\uACE0 \uC788\uC2B5\uB2C8\uB2E4. \uC218\uC601\uC740 \uD558\uC9C0 \uC54A\uB294 \uAC83\uC744 \uAD8C\uACE0\uB4DC\uB9BD\uB2C8\uB2E4."
+      "이곳은 다소 위험한 착륙 지점입니다. ^red;방사능 수치가 매우 높습니다.^white; ^#7800ff;변이된^white; 지형은 암울하게 변덕스러운 것으로 보입니다.",
+      "이상한 식물, 공격적인 동물, 지긋지긋할 정도로 ^red;높은 수준의 방사능^white;이 특징인 착륙지점입니다. 이곳에 서식하는 동물들은 심하게 ^#7800ff;변이^white;되었습니다.",
+      "전송 지점은 ^#7800ff;변이된^white; 자연환경에 위치해 있습니다. ^red;높은 수준의 방사선^white;이 유해한 환경을 만들고 있습니다. 수영은 하지 않는 것을 권고드립니다."
     ]
   },
   {
     "op":"replace",
     "path":"/visitableTypeDescription/arctic",
     "value":[
-      "^red;\uCC29\uB959 \uC9C0\uC810\uC758 \uC628\uB3C4\uB294 \uC704\uD5D8\uD560 \uC815\uB3C4\uB85C \uB0AE\uC2B5\uB2C8\uB2E4.^white; \uB2F9\uC2E0\uC740 ^#00ffe4;\uCC28\uAC00\uC6B4 \uBC14\uB2E4^white;\uB85C \uB458\uB7EC\uC2F8\uC778 \uC791\uC740 \uC12C\uC73C\uB85C \uC804\uC1A1\uB420 \uAC83\uC785\uB2C8\uB2E4. \uC2A4\uCE74\uD504\uB97C \uCC29\uC6A9\uD558\uB294\uAC83\uC744 \uAC15\uB825\uD788 \uAD8C\uACE0\uB4DC\uB9BD\uB2C8\uB2E4.",
-      "\uC804\uC1A1 \uC9C0\uC810\uC740 ^red;\uB9E4\uC6B0 \uCDA5\uC2B5\uB2C8\uB2E4.^white; ^#00ffe4;\uCC28\uAC00\uC6B4 \uBC14\uB2E4^white;\uC758 \uC791\uC740 \uC12C\uC785\uB2C8\uB2E4. 0.025%\uC758 \uD655\uB960\uB85C \uBB3C\uC5D0 \uC798\uBABB \uC804\uC1A1\uB420 \uC218 \uC788\uC73C\uBA70, \uC774 \uB054\uCC0D\uD55C \uCD94\uC704\uC5D0 \uBE60\uB974\uAC8C \uAD74\uBCF5\uD558\uAC8C \uB420 \uC218 \uC788\uC74C\uC744 \uC54C\uB824\uB4DC\uB9BD\uB2C8\uB2E4.",
-      "^red;\uC704\uD5D8\uD560 \uC815\uB3C4\uB85C \uAE30\uC628\uC774 \uB0AE\uC740^white; \uC9C0\uC5ED\uC785\uB2C8\uB2E4. \uC774\uACF3\uC5D0\uB294 \uB3D9\uBB3C\uB3C4 \uAC70\uC758 \uC5C6\uACE0, \uC0B4\uC544\uC788\uB294 \uC2DD\uBB3C\uB3C4 \uC804\uD600 \uC5C6\uC2B5\uB2C8\uB2E4. \uADF8\uC800 ^#00ffe4;\uCC28\uAC00\uC6B4 \uBC14\uB2E4^white;\uC5D0 \uC788\uB294 \uC12C\uB4E4\uB9CC \uC788\uC744 \uBFD0\uC785\uB2C8\uB2E4."
+      "^red;착륙 지점의 온도는 위험할 정도로 낮습니다.^white; 당신은 ^#00ffe4;차가운 바다^white;로 둘러싸인 작은 섬으로 전송될 것입니다. 스카프를 착용하는것을 강력히 권고드립니다.",
+      "전송 지점은 ^red;매우 춥습니다.^white; ^#00ffe4;차가운 바다^white;의 작은 섬입니다. 0.025%의 확률로 물에 잘못 전송될 수 있으며, 이 끔찍한 추위에 빠르게 굴복하게 될 수 있음을 알려드립니다.",
+      "^red;위험할 정도로 기온이 낮은^white; 지역입니다. 이곳에는 동물도 거의 없고, 살아있는 식물도 전혀 없습니다. 그저 ^#00ffe4;차가운 바다^white;에 있는 섬들만 있을 뿐입니다."
     ]
   },
   {
     "op":"replace",
     "path":"/visitableTypeDescription/tundra",
     "value":[
-      "^#61ffe3;\uC5BC\uC5B4\uBD99\uC740^white; \uB545, \uC601\uAD6C \uB3D9\uD1A0\uCE35\uC774 \uAE4A\uAC8C \uD615\uC131\uB418\uC5B4 \uC788\uC2B5\uB2C8\uB2E4. \uB208\uD3ED\uD48D\uC740 \uD754\uD558\uACE0, \uAE30\uC628\uC740 ^red;\uC704\uD5D8\uD560 \uC815\uB3C4\uB85C \uB0AE\uC2B5\uB2C8\uB2E4.^white;",
-      "^red;\uC704\uD5D8\uD560 \uC815\uB3C4\uB85C \uCDA5\uC2B5\uB2C8\uB2E4.^white; \uCC29\uB959 \uC9C0\uC810\uC774 \uB2E8\uB2E8\uD788 ^#61ffe3;\uC5BC\uC5B4\uBD99\uC5C8\uC2B5\uB2C8\uB2E4.^white; \uC758\uB3C4\uCE58 \uC54A\uAC8C \uB3D9\uACB0 \uBCF4\uC874\uB420 \uAC00\uB2A5\uC131\uC774 \uD07D\uB2C8\uB2E4. \uCD94\uC704\uB85C\uBD80\uD130 \uC790\uC2E0\uC744 \uBCF4\uD638\uD558\uC138\uC694.",
-      "\uC804\uC1A1 \uC9C0\uC810\uC758 ^red;\uC628\uB3C4\uB294 \uC704\uD5D8\uD560 \uC815\uB3C4\uB85C \uB0AE\uC2B5\uB2C8\uB2E4.^white; \uC774 \uC9C0\uC5ED\uC740 ^#61ffe3;\uC5BC\uC5B4 \uC788\uACE0,^white; \uCD94\uC704\uC5D0 \uADF9\uB3C4\uB85C \uC800\uD56D\uB825\uC774 \uAC15\uD55C \uB3D9\uC2DD\uBB3C\uB9CC\uC774 \uC0B4\uACE0 \uC788\uC2B5\uB2C8\uB2E4."
+      "^#61ffe3;얼어붙은^white; 땅, 영구 동토층이 깊게 형성되어 있습니다. 눈폭풍은 흔하고, 기온은 ^red;위험할 정도로 낮습니다.^white;",
+      "^red;위험할 정도로 춥습니다.^white; 착륙 지점이 단단히 ^#61ffe3;얼어붙었습니다.^white; 의도치 않게 동결 보존될 가능성이 큽니다. 추위로부터 자신을 보호하세요.",
+      "전송 지점의 ^red;온도는 위험할 정도로 낮습니다.^white; 이 지역은 ^#61ffe3;얼어 있고,^white; 추위에 극도로 저항력이 강한 동식물만이 살고 있습니다."
     ]
   },
   {
     "op":"replace",
     "path":"/visitableTypeDescription/volcanic",
     "value":[
-      "^#e11212;\uD654\uC0B0^white; \uC9C0\uB300\uC5D0 \uC704\uCE58\uD55C \uC774 \uCC29\uB959 \uC9C0\uC810\uC740 ^red;\uCE58\uBA85\uC801\uC73C\uB85C \uB728\uAC81\uC2B5\uB2C8\uB2E4.^white; \uC6D0\uD558\uC2E0\uB2E4\uBA74, \uC804\uC1A1\uB418\uC790\uB9C8\uC790 \uD55C \uC90C\uC758 \uC7AC\uB85C \uD0C0 \uBC84\uB9B4 \uAC00\uB2A5\uC131\uC744 \uACC4\uC0B0\uD574 \uB4DC\uB9B4 \uC218 \uC788\uC2B5\uB2C8\uB2E4...",
-      "^#e11212;\uD654\uC0B0^white; \uD65C\uB3D9\uC774 \uD589\uC131\uC744 \uD669\uD3D0\uD654 \uC2DC\uD0A4\uACE0 \uC788\uC73C\uBA70, \uC804\uC1A1 \uC9C0\uC810\uC5D0\uC11C\uB294 \uD2B9\uD788 \uD65C\uBC1C\uD558\uAC8C \uD65C\uB3D9\uD569\uB2C8\uB2E4. ^red;\uC628\uB3C4\uAC00 \uC815\uC0C1 \uC0DD\uC874 \uAC00\uB2A5\uD55C \uC218\uC900\uC744 \uD6E8\uC52C \uCD08\uACFC\uD569\uB2C8\uB2E4.^white;",
-      "\uC804\uC1A1 \uC9C0\uC810\uC740 ^#e11212;\uD654\uC0B0^white; \uC9C0\uD615\uC5D0 \uC704\uCE58\uD574 \uC788\uACE0 ^red;\uADF9\uB3C4\uB85C \uB728\uAC81\uC2B5\uB2C8\uB2E4^white;. \uC774\uACF3\uC5D0 \uB300\uD55C \uB2F9\uC2E0\uC758 \uAD00\uC2EC\uC740 \uB2F9\uC2E0\uC758 \uB05D\uC5C6\uB294 \uB048\uAE30\uB97C \uD655\uC2E4\uD788 \uBCF4\uC5EC\uC8FC\uACE0 \uC788\uC2B5\uB2C8\uB2E4."
+      "^#e11212;화산^white; 지대에 위치한 이 착륙 지점은 ^red;치명적으로 뜨겁습니다.^white; 원하신다면, 전송되자마자 한 줌의 재로 타 버릴 가능성을 계산해 드릴 수 있습니다...",
+      "^#e11212;화산^white; 활동이 행성을 황폐화 시키고 있으며, 전송 지점에서는 특히 활발하게 활동합니다. ^red;온도가 정상 생존 가능한 수준을 훨씬 초과합니다.^white;",
+      "전송 지점은 ^#e11212;화산^white; 지형에 위치해 있고 ^red;극도로 뜨겁습니다^white;. 이곳에 대한 당신의 관심은 당신의 끝없는 끈기를 확실히 보여주고 있습니다."
     ]
   },
   {
     "op":"replace",
     "path":"/visitableTypeDescription/midnight",
     "value":[
-      "\uC5EC\uAE30\uB294 \uD574\uAC00 \uB728\uC9C0 \uC54A\uB294 ^#e11212;\uC5B4\uB450\uC6B4^white; \uC138\uC0C1\uC785\uB2C8\uB2E4. \uD45C\uBA74\uC740 ^red;\uC704\uD5D8\uD560 \uC815\uB3C4\uB85C \uCC28\uAC11\uC2B5\uB2C8\uB2E4.^white; \uC5EC\uAE30\uC5D0 \uCC29\uB959\uD558\uAE30 \uC804\uC5D0 \uC815\uC2E0\uC801\uC73C\uB85C\uB098 \uC721\uCCB4\uC801\uC73C\uB85C\uB098 \uC900\uBE44\uB418\uC5B4\uC57C\uD569\uB2C8\uB2E4.",
-      "\uC774 ^#e11212;\uC5B4\uB450\uC6B4^white; \uC138\uC0C1\uC740 ^red;\uC704\uD5D8\uD560 \uC815\uB3C4\uB85C \uCDA5\uC2B5\uB2C8\uB2E4.^white; \uB05D\uB098\uC9C0 \uC54A\uB294 \uBC24 \uC18D\uC5D0\uC11C \uB0AF\uC120 \uADF8\uB9BC\uC790\uB4E4\uC774 \uC228\uC5B4 \uC0B4\uACE0 \uC788\uC2B5\uB2C8\uB2E4.",
-      "\uC2A4\uCE94 \uACB0\uACFC, ^#e11212;\uC5B4\uB450\uC6B4^white; \uD45C\uBA74\uC774 \uAC10\uC9C0\uB429\uB2C8\uB2E4. \uC0AC\uC2E4, \uC2A4\uCE94 \uACB0\uACFC\uB294 \uB108\uBB34 \uC5B4\uB450\uC6CC\uC11C \uAC70\uC758 \uBCF4\uC774\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4. \uB2E4\uB9CC \uC800\uB294 \uD589\uC131 \uD45C\uBA74\uC774 ^red;\uC704\uD5D8\uD560 \uC815\uB3C4\uB85C \uCC28\uAC00\uC6B8^white; \uAC83\uC73C\uB85C \uCD94\uCE21\uD569\uB2C8\uB2E4."
+      "여기는 해가 뜨지 않는 ^#e11212;어두운^white; 세상입니다. 표면은 ^red;위험할 정도로 차갑습니다.^white; 여기에 착륙하기 전에 정신적으로나 육체적으로나 준비되어야합니다.",
+      "이 ^#e11212;어두운^white; 세상은 ^red;위험할 정도로 춥습니다.^white; 끝나지 않는 밤 속에서 낯선 그림자들이 숨어 살고 있습니다.",
+      "스캔 결과, ^#e11212;어두운^white; 표면이 감지됩니다. 사실, 스캔 결과는 너무 어두워서 거의 보이지 않습니다. 다만 저는 행성 표면이 ^red;위험할 정도로 차가울^white; 것으로 추측합니다."
     ]
   },
   {
     "op":"replace",
     "path":"/visitableTypeDescription/scorchedcity",
     "value":[
-      "\uCC29\uB959 \uC9C0\uC810\uC740 ^#b24301;\uADF8\uC744\uB9B0^white; \uD669\uBB34\uC9C0\uC785\uB2C8\uB2E4. ^red;\uB300\uAE30\uC758 \uC628\uB3C4\uB294 \uC704\uD5D8\uD560 \uC815\uB3C4\uB85C \uB192\uC2B5\uB2C8\uB2E4.^white; \uB2F9\uC2E0\uC774 \uC774\uACF3\uC744 \uBAA9\uC801\uC9C0\uB85C \uACE0\uB824\uD558\uACE0 \uC788\uB2E4\uB294 \uAC83\uC740 \uB2F9\uC2E0\uC774 \uB9E4\uC6B0 \uC6A9\uAC10\uD558\uB2E4\uB294 \uB73B\uC785\uB2C8\uB2E4.",
-      "\uC804\uC1A1 \uC9C0\uC810\uC740 ^#b24301;\uADF8\uC744\uB9AC\uACE0^white; \uD669\uB7C9\uD55C \uB545\uC785\uB2C8\uB2E4. ^red;\uC628\uB3C4\uAC00 \uCE58\uBA85\uC801\uC73C\uB85C \uB192\uAE30 \uB54C\uBB38\uC5D0,^white; \uC774\uACF3\uC5D0\uC11C \uC0B4\uC544\uB0A8\uAE30\uB294 \uD798\uB4ED\uB2C8\uB2E4.",
-      "\uCC29\uB959 \uC9C0\uC810\uC740 \uD589\uC131 \uD45C\uBA74\uC758 ^red;\uB728\uAC70\uC6B4 \uC5F4^white;\uB85C \uC778\uD574 ^#b24301;\uADF8\uC744\uB9B0^white; \uB545\uC785\uB2C8\uB2E4. \uC18C\uC218\uC758 \uAC15\uC790\uB4E4\uB9CC \uC0B4\uC544\uB0A8\uB294\uB370, \uACE0\uC720\uC801\uC778 \uC0DD\uD65C \uBC29\uC2DD \uB355\uBD84\uC77C \uAC83\uC785\uB2C8\uB2E4."
+      "착륙 지점은 ^#b24301;그을린^white; 황무지입니다. ^red;대기의 온도는 위험할 정도로 높습니다.^white; 당신이 이곳을 목적지로 고려하고 있다는 것은 당신이 매우 용감하다는 뜻입니다.",
+      "전송 지점은 ^#b24301;그을리고^white; 황량한 땅입니다. ^red;온도가 치명적으로 높기 때문에,^white; 이곳에서 살아남기는 힘듭니다.",
+      "착륙 지점은 행성 표면의 ^red;뜨거운 열^white;로 인해 ^#b24301;그을린^white; 땅입니다. 소수의 강자들만 살아남는데, 고유적인 생활 방식 덕분일 것입니다."
     ]
   },
   {
     "op":"replace",
     "path":"/visitableTypeDescription/magma",
     "value":[
-      "^red;\uC704\uD5D8\uD560 \uC815\uB3C4\uB85C \uB728\uAC70\uC6B4^white; \uC774 \uD589\uC131\uC740 \uC8FC\uB85C ^#ff1818;\uB9C8\uADF8\uB9C8^white;\uB85C \uC774\uB8E8\uC5B4\uC838 \uC788\uC2B5\uB2C8\uB2E4. \uAE30\uC5B5\uD558\uC138\uC694, \uB2F9\uC2E0\uC740 \uC815\uC2E0\uB825\uC774 \uAC15\uD55C \uAC83\uC774\uC9C0 \uB0B4\uD654\uC131\uC774 \uAC15\uD55C \uAC83\uC774 \uC544\uB2D9\uB2C8\uB2E4.",
-      "\uD589\uC131 \uD45C\uBA74\uC740 ^red;\uC704\uD5D8\uD560 \uC815\uB3C4\uB85C \uB728\uAC81\uC2B5\uB2C8\uB2E4^white;. \uC774 \uD589\uC131\uC758 \uAD11\uD65C\uD55C ^#ff1818;\uB9C8\uADF8\uB9C8^white; \uBC14\uB2E4 \uC0AC\uC774\uC5D0 \uC874\uC7AC\uD558\uB294 \uC0DD\uBA85\uCCB4\uB294 \uAC70\uC758 \uC5C6\uC2B5\uB2C8\uB2E4.",
-      "\uC804\uC1A1 \uC9C0\uC810\uC740 ^#ff1818;\uB9C8\uADF8\uB9C8^white; \uBC14\uB2E4 \uD55C\uAC00\uC6B4\uB370\uC5D0 \uACE0\uB9BD\uB41C \uC791\uC740 \uC12C\uC785\uB2C8\uB2E4. \uC774 ^red;\uC9C0\uB3C5\uD558\uAC8C \uB728\uAC70\uC6B4^white; \uD589\uC131\uC744 \uBC29\uBB38\uD558\uB294 \uAC83\uC744 \uACE0\uB824\uD55C\uB2E4\uB294 \uAC83\uC740 \uB2F9\uC2E0\uC758 \uAC15\uC778\uD568\uC744 \uB9D0\uD574\uC90D\uB2C8\uB2E4."
+      "^red;위험할 정도로 뜨거운^white; 이 행성은 주로 ^#ff1818;마그마^white;로 이루어져 있습니다. 기억하세요, 당신은 정신력이 강한 것이지 내화성이 강한 것이 아닙니다.",
+      "행성 표면은 ^red;위험할 정도로 뜨겁습니다^white;. 이 행성의 광활한 ^#ff1818;마그마^white; 바다 사이에 존재하는 생명체는 거의 없습니다.",
+      "전송 지점은 ^#ff1818;마그마^white; 바다 한가운데에 고립된 작은 섬입니다. 이 ^red;지독하게 뜨거운^white; 행성을 방문하는 것을 고려한다는 것은 당신의 강인함을 말해줍니다."
     ]
   },
   {
     "op":"replace",
     "path":"/visitableTypeDescription/moon",
     "value":[
-      "^red;\uC228\uC274 \uC218 \uC788\uB294 \uB300\uAE30\uAC00 \uC5C6\uB294^white; \uC678\uB85C\uC6B4 ^#949493;\uB2EC\uC785\uB2C8\uB2E4^white;. \uBCC4\uC744 \uD5A5\uD574 \uD558\uB298\uC774 \uC5F4\uB824 \uC788\uACE0, \uB545 \uBC11\uC5D0 \uC5F0\uB8CC\uAC00 \uC788\uC2B5\uB2C8\uB2E4. \uC678\uB85C\uC6C0\uC774\uB098 \uC801\uB9C9\uD568\uC744 \uB290\uB084 \uAC00\uB2A5\uC131\uC740 92%\uC785\uB2C8\uB2E4.",
-      "\uC774 ^#949493;\uB2EC\uC740^white; \uC0DD\uBA85\uCCB4\uAC00 \uC0B4 \uC218 \uC5C6\uC73C\uBA70 ^red;\uB300\uAE30\uB3C4 \uC5C6\uC2B5\uB2C8\uB2E4^white;. \uADF8\uB7EC\uB098, \uC5F0\uB8CC\uB294 \uD48D\uBD80\uD569\uB2C8\uB2E4. \uC2A4\uCE94 \uACB0\uACFC, \uC5F0\uB8CC\uAC00 \uC9C0\uD45C\uBA74 \uC544\uB798\uC5D0 \uB9E4\uC7A5\uB418\uC5B4 \uC788\uB2E4\uB294 \uAC83\uC744 \uC54C \uC218 \uC788\uC2B5\uB2C8\uB2E4.",
-      "\uC774 \uACF5\uD5C8\uD55C ^#949493;\uB2EC\uC740^white; \uC228\uC274 \uC218 \uC788\uB294 ^red;\uB300\uAE30\uAC00 \uC5C6\uC9C0\uB9CC^white; \uC9C0\uD558\uC5D0\uB294 \uAC70\uB300\uD55C \uC5F0\uB8CC \uB9E4\uC7A5\uCE35\uC744 \uD3EC\uD568\uD558\uB294 \uB3D9\uAD74\uC774 \uC788\uC2B5\uB2C8\uB2E4. \uC694\uC57D\uD558\uC790\uBA74, \uC720\uC6A9\uD558\uC9C0\uB9CC \uC720\uD639\uC801\uC774\uC9C0\uB294 \uC54A\uC2B5\uB2C8\uB2E4."
+      "^red;숨쉴 수 있는 대기가 없는^white; 외로운 ^#949493;달입니다^white;. 별을 향해 하늘이 열려 있고, 땅 밑에 연료가 있습니다. 외로움이나 적막함을 느낄 가능성은 92%입니다.",
+      "이 ^#949493;달은^white; 생명체가 살 수 없으며 ^red;대기도 없습니다^white;. 그러나, 연료는 풍부합니다. 스캔 결과, 연료가 지표면 아래에 매장되어 있다는 것을 알 수 있습니다.",
+      "이 공허한 ^#949493;달은^white; 숨쉴 수 있는 ^red;대기가 없지만^white; 지하에는 거대한 연료 매장층을 포함하는 동굴이 있습니다. 요약하자면, 유용하지만 유혹적이지는 않습니다."
     ]
   },
   {
     "op":"replace",
     "path":"/visitableTypeDescription/asteroids",
     "value":[
-      "\uC18C\uD589\uC131 \uBB34\uB9AC\uC785\uB2C8\uB2E4. \uD310\uB3C5 \uACB0\uACFC \uC5EC\uAE30\uC5D0\uB294 \uB300\uAE30\uB098 \uC0DD\uBA85\uCCB4\uAC00 \uC5C6\uC2B5\uB2C8\uB2E4. \uAC74\uCD95\uD560 \uC218 \uC788\uB294 \uB05D\uC5C6\uB294 \uACF5\uD5C8\uC758 \uACF5\uAC04\uC774 \uCDA9\uBD84\uD569\uB2C8\uB2E4.",
-      "\uB300\uAE30\uC640 \uC0DD\uBA85\uCCB4\uAC00 \uC5C6\uB294 \uC18C\uD589\uC131 \uB760\uC785\uB2C8\uB2E4. \uC6B0\uC8FC\uB97C \uB5A0\uB2E4\uB2C8\uBA70 \uBA38\uB098\uBA3C \uBCC4\uC5D0 \uBB36\uC5EC \uC788\uB294... \uC9D1\uC744 \uC9D3\uAE30\uC5D0 \uC88B\uC740 \uC7A5\uC18C\uC785\uB2C8\uB2E4.",
-      "\uD0C0\uC6D0 \uADA4\uB3C4\uB97C \uB530\uB77C \uD45C\uB958\uD558\uB294 \uC18C\uD589\uC131\uB4E4\uC758 \uBB34\uB9AC\uC785\uB2C8\uB2E4. \uD310\uB3C5 \uACB0\uACFC \uC5EC\uAE30\uC5D0\uB294 \uB300\uAE30\uAC00 \uC5C6\uC2B5\uB2C8\uB2E4."
+      "소행성 무리입니다. 판독 결과 여기에는 대기나 생명체가 없습니다. 건축할 수 있는 끝없는 공허의 공간이 충분합니다.",
+      "대기와 생명체가 없는 소행성 띠입니다. 우주를 떠다니며 머나먼 별에 묶여 있는... 집을 짓기에 좋은 장소입니다.",
+      "타원 궤도를 따라 표류하는 소행성들의 무리입니다. 판독 결과 여기에는 대기가 없습니다."
     ]
   },
   {
     "op":"replace",
     "path":"/visitableTypeDescription/barren",
     "value":[
-      "\uC774\uACF3\uC740 \uC0DD\uBA85\uCCB4\uAC00 \uC0B4\uC9C0 \uC54A\uB294 \uBD88\uBAA8\uC9C0\uC785\uB2C8\uB2E4. \uD310\uB3C5 \uACB0\uACFC \uC5EC\uAE30\uC5D0\uB294 \uC544\uBB34\uAC83\uB3C4 \uC5C6\uC2B5\uB2C8\uB2E4.",
-      "\uC774 \uD589\uC131\uC740 \uC5B4\uB5A4 \uC885\uB958\uC758 \uC0DD\uBA85\uB3C4 \uC0B4\uC9C0 \uBABB\uD558\uB294 \uBD88\uBAA8\uC9C0\uC785\uB2C8\uB2E4. \uC5EC\uAE30\uC5D4 \uC544\uBB34\uAC83\uB3C4 \uC5C6\uC2B5\uB2C8\uB2E4...",
-      "\uCE21\uC815 \uACB0\uACFC \uCC29\uB959\uC9C0\uC810\uC774 \uD754\uCE58 \uC54A\uC740 \uC0C9\uC73C\uB85C \uB418\uC5B4 \uC788\uB2E4\uB294 \uAC83\uC744 \uC54C\uC544\uB0C8\uB2C8\uB2E4.. \uB610\uD55C, \uADF8\uACF3\uC740 \uBD88\uBAA8\uC9C0\uC774\uACE0 \uAC74\uC124\uC5D0 \uC801\uD569\uD560 \uAC83\uC774\uB77C\uB294 \uAC83\uB3C4\uC694."
+      "이곳은 생명체가 살지 않는 불모지입니다. 판독 결과 여기에는 아무것도 없습니다.",
+      "이 행성은 어떤 종류의 생명도 살지 못하는 불모지입니다. 여기엔 아무것도 없습니다...",
+      "측정 결과 착륙지점이 흔치 않은 색으로 되어 있다는 것을 알아냈니다.. 또한, 그곳은 불모지이고 건설에 적합할 것이라는 것도요."
     ]
   },
   {
     "op":"replace",
     "path":"/visitableTypeDescription/ancientgateway",
     "value":[
-      "\uAE30\uC6D0\uC744 \uC54C \uC218 \uC5C6\uB294 \uACE0\uB300 \uAD00\uBB38\uC785\uB2C8\uB2E4. \uAC15\uB825\uD55C \uD798\uACFC \uBBF8\uC9C0\uC758 \uAC74\uCD95\uBB3C\uC785\uB2C8\uB2E4."
+      "기원을 알 수 없는 고대 관문입니다. 강력한 힘과 미지의 건축물입니다."
     ]
   },
   {
     "op":"replace",
     "path":"/terraformedPlanetDescription",
     "value":[
-      "\uC774 \uD589\uC131\uC740 \uAD11\uBC94\uC704\uD55C \uD14C\uB77C\uD3EC\uBC0D\uC5D0 \uC758\uD574 \uC54C\uC544\uBCFC \uC218 \uC5C6\uC744 \uC815\uB3C4\uB85C \uBCC0\uD615\uB418\uC5C8\uC2B5\uB2C8\uB2E4.",
-      "\uD14C\uB77C\uD3EC\uBC0D\uC740 \uC678\uAD00\uC0C1 \uBD80\uC790\uC5F0\uC2A4\uB7FD\uAE30\uB294 \uD558\uC9C0\uB9CC \uC774 \uD589\uC131\uC744 \uAC70\uC8FC\uD558\uAE30\uC5D0 \uC548\uC804\uD55C \uACF3\uC73C\uB85C \uB9CC\uB4E4\uC5C8\uC2B5\uB2C8\uB2E4.",
-      "\uC774 \uD589\uC131\uC758 \uAE30\uD6C4\uC640 \uC0DD\uD0DC\uACC4\uB294 \uD14C\uB77C\uD3EC\uBC0D\uC5D0 \uC758\uD574 \uADF9\uC801\uC73C\uB85C \uBCC0\uD654\uB418\uC5C8\uC2B5\uB2C8\uB2E4."
+      "이 행성은 광범위한 테라포밍에 의해 알아볼 수 없을 정도로 변형되었습니다.",
+      "테라포밍은 외관상 부자연스럽기는 하지만 이 행성을 거주하기에 안전한 곳으로 만들었습니다.",
+      "이 행성의 기후와 생태계는 테라포밍에 의해 극적으로 변화되었습니다."
     ]
   },
   {
     "op":"replace",
     "path":"/worldTypeDescription/GasGiant",
     "value":[
-      "\uAC00\uC2A4\uB85C \uB4A4\uC11E\uC778 \uAC70\uB300\uD55C \uAD6C\uCCB4\uC785\uB2C8\uB2E4. \uADF8\uB0E5 \uCC29\uB959\uD560 \uC218 \uC788\uB294 \uC9C0\uC810\uC774 \uC5C6\uC2B5\uB2C8\uB2E4.",
-      "\uAC00\uC2A4 \uD589\uC131\uC785\uB2C8\uB2E4. \uC774 \uD589\uC131\uC5D0\uB294 \uACE0\uCCB4 \uBB3C\uC9C8\uC774 \uC5C6\uC2B5\uB2C8\uB2E4. \uADF8\uC800 \uD718\uBAB0\uC544\uCE58\uB294 \uAC00\uC2A4\uC758 \uC9D1\uD569\uC77C \uBFD0\uC785\uB2C8\uB2E4.",
-      "\uCC29\uB959\uD560 \uC218 \uC5C6\uC2B5\uB2C8\uB2E4. \uC774 \uAC70\uB300\uD55C \uAC00\uC2A4 \uD589\uC131\uC758 \uC555\uB3C4\uC801\uC778 \uC555\uB825\uACFC \uCC22\uC5B4\uC9C0\uB294 \uBC14\uB78C\uC740 \uC989\uC2DC \uB2F9\uC2E0\uC744 \uC8FD\uC77C \uAC83\uC785\uB2C8\uB2E4."
+      "가스로 뒤섞인 거대한 구체입니다. 그냥 착륙할 수 있는 지점이 없습니다.",
+      "가스 행성입니다. 이 행성에는 고체 물질이 없습니다. 그저 휘몰아치는 가스의 집합일 뿐입니다.",
+      "착륙할 수 없습니다. 이 거대한 가스 행성의 압도적인 압력과 찢어지는 바람은 즉시 당신을 죽일 것입니다."
     ]
   },
   {
     "op":"replace",
     "path":"/threatLevelText/default",
     "value":[
-      "\uB0AE\uC74C (Low)",
-      "\uBCF4\uD1B5 (Moderate)",
-      "\uC704\uD5D8\uD568 (Risky)",
-      "\uB9E4\uC6B0 \uC704\uD5D8\uD568 (Dangerous)",
-      "\uADF9\uB2E8\uC801\uC784 (Extreme)",
-      "\uC0C1\uC0C1 \uD560 \uC218 \uC5C6\uC74C (Inconceivable)",
-      "\uBE44\uD604\uC2E4\uC801 (Unreal)",
+      "낮음 (Low)",
+      "보통 (Moderate)",
+      "위험함 (Risky)",
+      "매우 위험함 (Dangerous)",
+      "극단적임 (Extreme)",
+      "상상 할 수 없음 (Inconceivable)",
+      "비현실적 (Unreal)",
       "***",
       "***",
       "***"
@@ -351,393 +351,393 @@
     "op":"replace",
     "path":"/threatLevelText/moon",
     "value":[
-      "\uC54C \uC218 \uC5C6\uC74C (Unknown)"
+      "알 수 없음 (Unknown)"
     ]
   },
   {
     "op":"replace",
     "path":"/displayOres/copper/displayName",
-    "value":"\uAD6C\uB9AC (Copper)"
+    "value":"구리 (Copper)"
   },
   {
     "op":"replace",
     "path":"/displayOres/silver/displayName",
-    "value":"\uC740 (Silver)"
+    "value":"은 (Silver)"
   },
   {
     "op":"replace",
     "path":"/displayOres/gold/displayName",
-    "value":"\uAE08 (Gold)"
+    "value":"금 (Gold)"
   },
   {
     "op":"replace",
     "path":"/displayOres/iron/displayName",
-    "value":"\uCCA0 (Iron)"
+    "value":"철 (Iron)"
   },
   {
     "op":"replace",
     "path":"/displayOres/tungsten/displayName",
-    "value":"\uD145\uC2A4\uD150 (Tungsten)"
+    "value":"텅스텐 (Tungsten)"
   },
   {
     "op":"replace",
     "path":"/displayOres/titanium/displayName",
-    "value":"\uD2F0\uD0C0\uB284 (Titanium)"
+    "value":"티타늄 (Titanium)"
   },
   {
     "op":"replace",
     "path":"/displayOres/durasteel/displayName",
-    "value":"\uACE0\uAC15\uB3C4\uAC15 (Durasteel)"
+    "value":"고강도강 (Durasteel)"
   },
   {
     "op":"replace",
     "path":"/displayOres/ferozium/displayName",
-    "value":"\uD398\uB85C\uC9C0\uC6C0 (Ferozium)"
+    "value":"페로지움 (Ferozium)"
   },
   {
     "op":"replace",
     "path":"/displayOres/aegisalt/displayName",
-    "value":"\uC5D0\uC9C0\uC194\uD2B8 (Aegisalt)"
+    "value":"에지솔트 (Aegisalt)"
   },
   {
     "op":"replace",
     "path":"/displayOres/violium/displayName",
-    "value":"\uBC14\uC774\uC62C\uB968 (Violium)"
+    "value":"바이올륨 (Violium)"
   },
   {
     "op":"replace",
     "path":"/displayOres/solarium/displayName",
-    "value":"\uC194\uB77C\uB9AC\uC6C0 (Solarium)"
+    "value":"솔라리움 (Solarium)"
   },
   {
     "op":"replace",
     "path":"/displayOres/erchius/displayName",
-    "value":"\uC5D0\uB974\uD0A4\uC6B0\uC2A4 \uACB0\uC815 \uC5F0\uB8CC (Crystal Erchius Fuel)"
+    "value":"에르키우스 결정 연료 (Crystal Erchius Fuel)"
   },
   {
     "op":"replace",
     "path":"/displayWeathers/rain/displayName",
-    "value":"\uBE44 (Rain)"
+    "value":"비 (Rain)"
   },
   {
     "op":"replace",
     "path":"/displayWeathers/drizzle/displayName",
-    "value":"\uC774\uC2AC\uBE44 (Drizzle)"
+    "value":"이슬비 (Drizzle)"
   },
   {
     "op":"replace",
     "path":"/displayWeathers/storm/displayName",
-    "value":"\uD3ED\uD48D (Storms)"
+    "value":"폭풍 (Storms)"
   },
   {
     "op":"replace",
     "path":"/displayWeathers/ember/displayName",
-    "value":"\uC794\uBD88 \uC18C\uB098\uAE30 (Cinder Showers)"
+    "value":"잔불 소나기 (Cinder Showers)"
   },
   {
     "op":"replace",
     "path":"/displayWeathers/snow/displayName",
-    "value":"\uB208 (Snow)"
+    "value":"눈 (Snow)"
   },
   {
     "op":"replace",
     "path":"/displayWeathers/fog/displayName",
-    "value":"\uC548\uAC1C (Fog)"
+    "value":"안개 (Fog)"
   },
   {
     "op":"replace",
     "path":"/displayWeathers/ash/displayName",
-    "value":"\uD654\uC0B0\uC7AC (Ashfall)"
+    "value":"화산재 (Ashfall)"
   },
   {
     "op":"replace",
     "path":"/displayWeathers/lightash/displayName",
-    "value":"\uAC00\uBCBC\uC6B4 \uD654\uC0B0\uC7AC (Light Ashfall)"
+    "value":"가벼운 화산재 (Light Ashfall)"
   },
   {
     "op":"replace",
     "path":"/displayWeathers/meteorshower/displayName",
-    "value":"\uC791\uC740 \uC6B4\uC11D (Small Meteorites)"
+    "value":"작은 운석 (Small Meteorites)"
   },
   {
     "op":"replace",
     "path":"/displayWeathers/largemeteor/displayName",
-    "value":"\uD070 \uC6B4\uC11D (Large Meteorites)"
+    "value":"큰 운석 (Large Meteorites)"
   },
   {
     "op":"replace",
     "path":"/displayWeathers/glowingrain/displayName",
-    "value":"\uBC1C\uAD11\uC131 \uBE44 (Luminous Rain)"
+    "value":"발광성 비 (Luminous Rain)"
   },
   {
     "op":"replace",
     "path":"/displayWeathers/crystalrain/displayName",
-    "value":"\uACB0\uC815 \uBE44 (Crystal Rain)"
+    "value":"결정 비 (Crystal Rain)"
   },
   {
     "op":"replace",
     "path":"/displayWeathers/hailstones/displayName",
-    "value":"\uC6B0\uBC15 (Hail)"
+    "value":"우박 (Hail)"
   },
   {
     "op":"replace",
     "path":"/displayWeathers/groundmist/displayName",
-    "value":"\uC548\uAC1C (Mist)"
+    "value":"안개 (Mist)"
   },
   {
     "op":"replace",
     "path":"/displayWeathers/windstorm/displayName",
-    "value":"\uD3ED\uD48D (Windstorms)"
+    "value":"폭풍 (Windstorms)"
   },
   {
     "op":"replace",
     "path":"/displayWeathers/spacejunk/displayName",
-    "value":"\uADA4\uB3C4 \uC794\uD574 (Orbital Debris)"
+    "value":"궤도 잔해 (Orbital Debris)"
   },
   {
     "op":"replace",
     "path":"/displayWeathers/spacedustshower/displayName",
-    "value":"\uC6B0\uC8FC \uBA3C\uC9C0 (Stardust)"
+    "value":"우주 먼지 (Stardust)"
   },
   {
     "op":"replace",
     "path":"/displayWeathers/snowstorm/displayName",
-    "value":"\uB208\uBCF4\uB77C (Blizzards)"
+    "value":"눈보라 (Blizzards)"
   },
   {
     "op":"replace",
     "path":"/displayWeathers/sandstorm/displayName",
-    "value":"\uBAA8\uB798 \uD3ED\uD48D (Sandstorms)"
+    "value":"모래 폭풍 (Sandstorms)"
   },
   {
     "op":"replace",
     "path":"/displayWeathers/duststorm/displayName",
-    "value":"\uBA3C\uC9C0 \uD3ED\uD48D (Dust Storms)"
+    "value":"먼지 폭풍 (Dust Storms)"
   },
   {
     "op":"replace",
     "path":"/displayWeathers/icestorm/displayName",
-    "value":"\uC5BC\uC74C \uD3ED\uD48D (Ice Storms)"
+    "value":"얼음 폭풍 (Ice Storms)"
   },
   {
     "op":"replace",
     "path":"/displayWeathers/acidrain/displayName",
-    "value":"\uC0B0\uC131\uBE44 (Acid Rain)"
+    "value":"산성비 (Acid Rain)"
   },
   {
     "op":"replace",
     "path":"/clusterMoons/none",
-    "value":"\uACF5\uC804 \uC911\uC778 \uCC9C\uC81C \uC5C6\uC74C"
+    "value":"공전 중인 천제 없음"
   },
   {
     "op":"replace",
     "path":"/clusterMoons/singular",
-    "value":"\uACF5\uC804 \uC911\uC778 \uCC9C\uCCB4 \uD55C \uAC1C"
+    "value":"공전 중인 천체 한 개"
   },
   {
     "op":"replace",
     "path":"/clusterMoons/plural",
-    "value":"\uACF5\uC804 \uC911\uC778 \uCC9C\uCCB4 %s \uAC1C"
+    "value":"공전 중인 천체 %s 개"
   },
   {
     "op":"replace",
     "path":"/planetTypeNames/garden",
-    "value":"\ucd08\uc6d0"
+    "value":"초원"
   },
   {
     "op":"replace",
     "path":"/planetTypeNames/forest",
-    "value":"\uc232"
+    "value":"숲"
   },
   {
     "op":"replace",
     "path":"/planetTypeNames/desert",
-    "value":"\uc0ac\ub9c9"
+    "value":"사막"
   },
   {
     "op":"replace",
     "path":"/planetTypeNames/snow",
-    "value":"\uc124\uc6d0"
+    "value":"설원"
   },
   {
     "op":"replace",
     "path":"/planetTypeNames/savannah",
-    "value":"\uc0ac\ubc14\ub098"
+    "value":"사바나"
   },
   {
     "op":"replace",
     "path":"/planetTypeNames/ocean",
-    "value":"\ubc14\ub2e4"
+    "value":"바다"
   },
   {
     "op":"replace",
     "path":"/planetTypeNames/toxic",
-    "value":"\ub3c5\uc131"
+    "value":"독성"
   },
   {
     "op":"replace",
     "path":"/planetTypeNames/jungle",
-    "value":"\uc815\uae00"
+    "value":"정글"
   },
   {
     "op":"replace",
     "path":"/planetTypeNames/alien",
-    "value":"\ubcc0\uc774\ub428"
+    "value":"변이됨"
   },
   {
     "op":"replace",
     "path":"/planetTypeNames/arctic",
-    "value":"\uc5bc\uc5b4\ubd99\uc740 \ubc14\ub2e4"
+    "value":"얼어붙은 바다"
   },
   {
     "op":"replace",
     "path":"/planetTypeNames/tundra",
-    "value":"\ud230\ub4dc\ub77c"
+    "value":"툰드라"
   },
   {
     "op":"replace",
     "path":"/planetTypeNames/volcanic",
-    "value":"\ud654\uc0b0"
+    "value":"화산"
   },
   {
     "op":"replace",
     "path":"/planetTypeNames/midnight",
-    "value":"\uc554\ud751"
+    "value":"암흑"
   },
   {
     "op":"replace",
     "path":"/planetTypeNames/scorchedcity",
-    "value":"\uadf8\uc744\ub9bc"
+    "value":"그을림"
   },
   {
     "op":"replace",
     "path":"/planetTypeNames/magma",
-    "value":"\uc6a9\uc554"
+    "value":"용암"
   },
   {
     "op":"replace",
     "path":"/planetTypeNames/moon",
-    "value":"\ub2ec"
+    "value":"달"
   },
   {
     "op":"replace",
     "path":"/planetTypeNames/asteroids",
-    "value":"\uc18c\ud589\uc131 \uc9c0\ub300"
+    "value":"소행성 지대"
   },
   {
     "op":"replace",
     "path":"/planetTypeNames/barren",
-    "value":"\ud669\ubb34\uc9c0"
+    "value":"황무지"
   },
   {
     "op":"replace",
     "path":"/planetTypeNames/ancientgateway",
-    "value":"\uace0\ub300 \uad00\ubb38"
+    "value":"고대 관문"
   },
   {
     "op":"replace",
     "path":"/starTypeNames/default",
-    "value":"\uc54c \uc218 \uc5c6\ub294 \ubcc4"
+    "value":"알 수 없는 별"
   },
   {
     "op":"replace",
     "path":"/starTypeNames/whitestar",
-    "value":"\uc628\ud654\ud55c \ubcc4"
+    "value":"온화한 별"
   },
   {
     "op":"replace",
     "path":"/starTypeNames/orangestar",
-    "value":"\ub728\uac70\uc6b4 \ubcc4"
+    "value":"뜨거운 별"
   },
   {
     "op":"replace",
     "path":"/starTypeNames/yellowstar",
-    "value":"\ubc29\uc0ac\uc131 \ubcc4"
+    "value":"방사성 별"
   },
   {
     "op":"replace",
     "path":"/starTypeNames/bluestar",
-    "value":"\uc5bc\uc5b4\ubd99\uc740 \ubcc4"
+    "value":"얼어붙은 별"
   },
   {
     "op":"replace",
     "path":"/starTypeNames/redstar",
-    "value":"\ubd88\ud0c0\ub294 \ubcc4"
+    "value":"불타는 별"
   },
   {
     "op":"replace",
     "path":"/bookmarks/newTitle",
-    "value":"\uC0C8 \uBD81\uB9C8\uD06C"
+    "value":"새 북마크"
   },
   {
     "op":"replace",
     "path":"/bookmarks/editTitle",
-    "value":"\uBD81\uB9C8\uD06C \uD3B8\uC9D1"
+    "value":"북마크 편집"
   },
   {
     "op":"replace",
     "path":"/jumpDialog/valid",
-    "value":"FTL \uD56D\uD574\uB294 ^green;%s \uC5F0\uB8CC^reset;\uB97C \uC0AC\uC6A9\uD560 \uAC83\uC785\uB2C8\uB2E4. \n\uACC4\uC18D\uD560 \uAC83\uC778\uC9C0 \uD655\uC778\uD574\uC8FC\uC138\uC694."
+    "value":"FTL 항해는 ^green;%s 연료^reset;를 사용할 것입니다. \n계속할 것인지 확인해주세요."
   },
   {
     "op":"replace",
     "path":"/jumpDialog/invalid",
-    "value":"FTL \uD56D\uD574\uB294 ^red;%i \uC5F0\uB8CC^reset;\uB97C \uD544\uC694\uB85C \uD569\uB2C8\uB2E4.\n\uC5F0\uB8CC\uAC00 \uBD80\uC871\uD569\uB2C8\uB2E4."
+    "value":"FTL 항해는 ^red;%i 연료^reset;를 필요로 합니다.\n연료가 부족합니다."
   },
   {
     "op":"replace",
     "path":"/topLeftButtonTooltips/showBookmarkList",
-    "value":"\uBD81\uB9C8\uD06C"
+    "value":"북마크"
   },
   {
     "op":"replace",
     "path":"/topLeftButtonTooltips/goToShip",
-    "value":"\uD568\uC120 \uBCF4\uAE30"
+    "value":"함선 보기"
   },
   {
     "op":"replace",
     "path":"/topLeftButtonTooltips/goToQuest",
-    "value":"\uD018\uC2A4\uD2B8 \uC704\uCE58 \uBCF4\uAE30"
+    "value":"퀘스트 위치 보기"
   },
   {
     "op":"replace",
     "path":"/topLeftButtonTooltips/showCoordinates",
-    "value":"\uC88C\uD45C"
+    "value":"좌표"
   },
   {
     "op":"replace",
     "path":"/threatTextPrefix",
-    "value":"^white;\uC704\uD611 :^reset;"
+    "value":"^white;위협 :^reset;"
   },
   {
     "op":"replace",
     "path":"/objectThreatText/unavailable",
-    "value":"\uBA54\uD06C \uD544\uC694"
+    "value":"메크 필요"
   },
   {
     "op":"replace",
     "path":"/objectThreatText/available",
     "value":[
-      "\uC5C6\uC74C (None)",
-      "\uB0AE\uC74C (Low)",
-      "\uBCF4\uD1B5 (Moderate)",
-      "\uC704\uD5D8\uD568 (Dangerous)",
-      "\uADF9\uB2E8\uC801 (Extreme)"
+      "없음 (None)",
+      "낮음 (Low)",
+      "보통 (Moderate)",
+      "위험함 (Dangerous)",
+      "극단적 (Extreme)"
     ]
   },
   {
     "op":"replace",
     "path":"/objectThreatText/friendly",
-    "value":"\uC5C6\uC74C (None)"
+    "value":"없음 (None)"
   },
   {
     "op":"replace",
     "path":"/systemTooltip/exploredLabel/explored",
-    "value":"\uBC29\uBB38\uD568"
+    "value":"방문함"
   },
   {
     "op":"replace",
     "path":"/systemTooltip/exploredLabel/unexplored",
-    "value":"\uBC29\uBB38\uD558\uC9C0 \uC54A\uC74C"
+    "value":"방문하지 않음"
   }
 ]

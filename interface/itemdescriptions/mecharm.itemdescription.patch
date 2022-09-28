@@ -2,11 +2,11 @@
 	{
 		"op":"replace",
 		"path":"/powerStatLabel/value",
-		"value":"\uc704\ub825"
+		"value":"위력"
 	},
 	{
 		"op":"replace",
 		"path":"/energyDrainLabelLabel/value",
-		"value":"\uc5d0\ub108\uc9c0 \uc0ac\uc6a9\ub7c9"
+		"value":"에너지 사용량"
 	}
 ]

@@ -2,41 +2,41 @@
   {
     "op":"replace",
     "path":"/paneLayout/windowtitle/title",
-    "value":"\ud53d\uc140 \ud504\ub9b0\uac70"
+    "value":"픽셀 프린터"
   },
   {
     "op":"replace",
     "path":"/paneLayout/windowtitle/subtitle",
-    "value":"^#b9b5b2;\ub2f9\uc2e0\uc774 \uc2a4\uce94\ud55c \ubb3c\uac74\uc744 \uc778\uc1c4\ud569\ub2c8\ub2e4"
+    "value":"^#b9b5b2;당신이 스캔한 물건을 인쇄합니다"
   },
   {
     "op":"replace",
     "path":"/paneLayout/lblSchematics/value",
-    "value":"^#b9b5b2;\uc124\uacc4\ub3c4"
+    "value":"^#b9b5b2;설계도"
   },
   {
     "op":"replace",
     "path":"/paneLayout/lblProducttitle/value",
-    "value":"^#b9b5b2;\uacb0\uacfc\ubb3c"
+    "value":"^#b9b5b2;결과물"
   },
   {
     "op":"replace",
     "path":"/paneLayout/btnCraft/caption",
-    "value":"\uc81c\uc791"
+    "value":"제작"
   },
   {
     "op":"replace",
     "path":"/paneLayout/btnStopCraft/caption",
-    "value":"\uba48\ucda4"
+    "value":"멈춤"
   },
   {
     "op":"replace",
     "path":"/paneLayout/lblProduct/value",
-    "value":"\uc778\uc1c4 \uac00\ub2a5\ud55c \uac83\ub9cc \ubcf4\uc774\uae30"
+    "value":"인쇄 가능한 것만 보이기"
   },
   {
     "op":"replace",
     "path":"/paneLayout/filter/hint",
-    "value":"\uac80\uc0c9"
+    "value":"검색"
   }
 ]

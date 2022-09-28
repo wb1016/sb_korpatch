@@ -2,11 +2,11 @@
 	{
 		"op":"replace",
 		"path":"/healthTitleLabel/value",
-		"value":"\ubc29\ud328 \uccb4\ub825:"
+		"value":"방패 체력:"
 	},
 	{
 		"op":"replace",
 		"path":"/cooldownTitleLabel/value",
-		"value":"\uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04:"
+		"value":"재사용 대기시간:"
 	}
 ]

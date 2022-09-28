@@ -1,28 +1,28 @@
 [
  {
-  "op": "replace", 
-  "path": "/title", 
-  "value": "\uD50C\uB85C\uB780 \uACE0\uAE30\uCC45"
- }, 
+  "op": "replace",
+  "path": "/title",
+  "value": "플로란 고기책"
+ },
  {
-  "op": "replace", 
-  "path": "/description", 
-  "value": "\uD50C\uB85C\uB780\uC758 \uC694\uB9AC\uCC45 \uBE44\uC2B7\uD55C \uAC83\uC774\uB2E4."
- }, 
+  "op": "replace",
+  "path": "/description",
+  "value": "플로란의 요리책 비슷한 것이다."
+ },
  {
-  "op": "replace", 
-  "path": "/contentPages/0", 
-  "value": "\uD50C\uB85C\uB780 \uACE0\uAE30\uCC45
+  "op": "replace",
+  "path": "/contentPages/0",
+  "value": "플로란 고기책
 
-\uD544\uC694\uD55C \uAC83\uB4E4:
-1 \uC694\uB9AC\uB97C \uD558\uAE30 \uC704\uD55C \uBD88
-1 \uACE0\uAE30\uB4E4
+필요한 것들:
+1 요리를 하기 위한 불
+1 고기들
 
-\uC21C\uC11C 1: \uACE0\uAE30\uB4E4 \uBD88 \uC704\uC5D0 \uB193\uB294\uB2E4
-\uC21C\uC11C \uB458 \u2013 \uACE0\uAE30\uB4E4 \uBD88\uC5D0\uC11C \uAEBC\uB0B8\uB2E4 (\uC190\uC73C\uB85C \uD558\uC9C0 \uB9D0\uACE0)
-3: \uACE0\uAE30\uB4E4 \uBA39\uB294\uB2E4
+순서 1: 고기들 불 위에 놓는다
+순서 둘 – 고기들 불에서 꺼낸다 (손으로 하지 말고)
+3: 고기들 먹는다
 
-\uC870\uC5B8: \uB2E4\uB978 \uD50C\uB85C\uB780 \uC544\uC9C1 \uC0B4\uC544\uC788\uC73C\uBA74 \uBA39\uC9C0 \uB9C8\uB77C.
-\uACE0\uAE30\uB97C \uC694\uB9AC\uD558\uB294 \uAC74 \uADF8\uAC8C \uC5EC\uC804\uD788 \uBE44\uBA85\uC744 \uC9C0\uB974\uACE0 \uC788\uC9C0 \uC54A\uC73C\uBA74 \uB354 \uC27D\uB2E4."
+조언: 다른 플로란 아직 살아있으면 먹지 마라.
+고기를 요리하는 건 그게 여전히 비명을 지르고 있지 않으면 더 쉽다."
  }
 ]

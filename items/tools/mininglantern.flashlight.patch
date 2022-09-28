@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "\uD0D0\uD5D8\uAC00\uC758 \uB4F1\uBD88"}, {"op": "replace", "path": "/description", "value": "\uC774 \uB79C\uD134\uC740 \uD0D0\uD5D8\uAC00\uB4E4\uC774 \uC8FC\uBCC0 \uC9C0\uC5ED\uC744 \uBC1D\uD788\uAE30 \uC704\uD574 \uB4E4\uACE0\uB2E4\uB2CC\uB2E4."}]
+[
+  {
+    "op":"replace",
+    "path":"/shortdescription",
+    "value":"탐험가의 등불"
+  },
+  {
+    "op":"replace",
+    "path":"/description",
+    "value":"이 랜턴은 탐험가들이 주변 지역을 밝히기 위해 들고다닌다."
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "\uD654\uC11D \uCD94\uCD9C\uAE30"}, {"op": "replace", "path": "/description", "value": "\uD654\uC11D\uC744 \uBC1C\uAD74\uD558\uB294\uB370 \uC0AC\uC6A9\uB41C\uB2E4. \uB2E4\uB978 \uAC83\uC740 \uD654\uC11D\uC744 \uC190\uC0C1\uC2DC\uD0A8\uB2E4. \uB0B4\uAD6C\uC131\uC774 \uC57D\uD558\uB2E4."}]
+[
+  {
+    "op":"replace",
+    "path":"/shortdescription",
+    "value":"화석 추출기"
+  },
+  {
+    "op":"replace",
+    "path":"/description",
+    "value":"화석을 발굴하는데 사용된다. 다른 것은 화석을 손상시킨다. 내구성이 약하다."
+  }
+]

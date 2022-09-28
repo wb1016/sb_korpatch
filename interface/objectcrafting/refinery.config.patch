@@ -2,11 +2,11 @@
 	{
 		"op":"replace",
 		"path":"/gui/toggleCrafting/caption",
-		"value":"\uc815\uc81c"
+		"value":"정제"
 	},
 	{
 		"op":"replace",
 		"path":"/gui/lblText/value",
-		"value":"^#b9b5b2;\uc67c\ucabd \uce78\uc5d0 \ud53d\uc140\ub85c \uc815\uc81c\ud560 \uad11\ubb3c\uc744 \ub193\uc73c\uc138\uc694."
+		"value":"^#b9b5b2;왼쪽 칸에 픽셀로 정제할 광물을 놓으세요."
 	}
 ]

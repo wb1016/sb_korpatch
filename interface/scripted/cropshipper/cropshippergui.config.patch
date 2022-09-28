@@ -2,16 +2,16 @@
   {
 		"op":"replace",
 		"path":"/gui/btnShip/caption",
-		"value":"\ubcf4\ub0b4\uae30"
+		"value":"보내기"
 	},
   {
 		"op":"replace",
 		"path":"/gui/lblMoneyLabel/value",
-		"value":"\uac00\uaca9 \ud569\uacc4"
+		"value":"가격 합계"
 	},
 	{
 		"op":"replace",
 		"path":"/gui/count/value",
-		"value":"40 \uce78"
+		"value":"40 칸"
 	}
 ]

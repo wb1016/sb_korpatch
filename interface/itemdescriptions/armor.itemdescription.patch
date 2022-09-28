@@ -2,6 +2,6 @@
 	{
 		"op":"replace",
 		"path":"/armorLabelTitle/value",
-		"value":"\uac11\uc637"
+		"value":"갑옷"
 	}
 ]

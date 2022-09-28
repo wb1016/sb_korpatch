@@ -1,1 +1,1 @@
-[{"op": "replace", "path": "/paneLayout/ok/caption", "value": "\ud655\uc778"}, {"op": "replace", "path": "/paneLayout/cancel/caption", "value": "\ucde8\uc18c"}, {"op": "replace", "path": "/paneLayout/windowtitle/title", "value": "\ud655\uc778"}]
+[{"op": "replace", "path": "/paneLayout/ok/caption", "value": "확인"}, {"op": "replace", "path": "/paneLayout/cancel/caption", "value": "취소"}, {"op": "replace", "path": "/paneLayout/windowtitle/title", "value": "확인"}]

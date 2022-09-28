@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "\uC774 \uAD2D\uC774\uB85C \uB545\uC744 \uAC08 \uC218 \uC788\uB2E4. \uADF8\uB807\uAC8C \uB9CC\uB4E4\uC5B4\uC9C4 \uACBD\uC791\uC9C0\uC5D0\uC11C \uBAA8\uB4E0 \uC885\uB958\uC758 \uC791\uBB3C\uC744 \uC7AC\uBC30 \uD560 \uC218 \uC788\uB2E4!"}, {"op": "replace", "path": "/shortdescription", "value": "^orange;\uAD2D\uC774^white;"}]
+[
+  {
+    "op":"replace",
+    "path":"/description",
+    "value":"이 괭이로 땅을 갈 수 있다. 그렇게 만들어진 경작지에서 모든 종류의 작물을 재배 할 수 있다!"
+  },
+  {
+    "op":"replace",
+    "path":"/shortdescription",
+    "value":"^orange;괭이^white;"
+  }
+]

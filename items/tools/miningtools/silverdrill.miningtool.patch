@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "\uc740 \ub4dc\ub9b4"}, {"op": "replace", "path": "/description", "value": "\uBE60\uB974\uAC8C \uAD6C\uBA4D\uC744 \uB6AB\uC744 \uC218 \uC788\uC9C0\uB9CC \uACE0\uC7A5\uB098\uB294 \uC18D\uB3C4\uB3C4 \uBE60\uB974\uB2E4. \uBB3C\uC9C8 \uC870\uC791\uAE30\uC758 \uC77C\uC2DC\uC801\uC778 \uB300\uCCB4\uD488\uC774\uB2E4."}]
+[
+  {
+    "op":"replace",
+    "path":"/shortdescription",
+    "value":"은 드릴"
+  },
+  {
+    "op":"replace",
+    "path":"/description",
+    "value":"빠르게 구멍을 뚫을 수 있지만 고장나는 속도도 빠르다. 물질 조작기의 일시적인 대체품이다."
+  }
+]

@@ -2,41 +2,41 @@
   {
     "op":"replace",
     "path":"/paneLayout/windowtitle/title",
-    "value":"\ucea0\ud504\ud30c\uc774\uc5b4"
+    "value":"캠프파이어"
   },
   {
     "op":"replace",
     "path":"/paneLayout/windowtitle/subtitle",
-    "value":"^#b9b5b2;\ucea0\ud551 \uc694\ub9ac"
+    "value":"^#b9b5b2;캠핑 요리"
   },
   {
     "op":"replace",
     "path":"/paneLayout/lblSchematics/value",
-    "value":"^#b9b5b2;\uc694\ub9ac\ubc95"
+    "value":"^#b9b5b2;요리법"
   },
   {
     "op":"replace",
     "path":"/paneLayout/lblProducttitle/value",
-    "value":"^#b9b5b2;\uacb0\uacfc\ubb3c"
+    "value":"^#b9b5b2;결과물"
   },
   {
     "op":"replace",
     "path":"/paneLayout/btnCraft/caption",
-    "value":"\uc694\ub9ac\ud558\uae30"
+    "value":"요리하기"
   },
   {
     "op":"replace",
     "path":"/paneLayout/btnStopCraft/caption",
-    "value":"\uba48\ucda4"
+    "value":"멈춤"
   },
   {
     "op":"replace",
     "path":"/paneLayout/lblProduct/value",
-    "value":"\uc7ac\ub8cc\uac00 \uc788\ub294\uac83\ub9cc \ubcf4\uc774\uae30"
+    "value":"재료가 있는것만 보이기"
   },
   {
     "op":"replace",
     "path":"/paneLayout/filter/hint",
-    "value":"\uac80\uc0c9"
+    "value":"검색"
   }
 ]

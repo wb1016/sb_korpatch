@@ -1,1 +1,32 @@
-[{"op": "replace", "path": "/gui/say/value", "value": "\uCC44\uD305:"}, {"op": "replace", "path": "/gui/filterGroup/buttons/0/text", "value": "\uBAA8\uB450"}, {"op": "replace", "path": "/gui/filterGroup/buttons/1/text", "value": "\uD50C\uB808\uC774\uC5B4"}, {"op": "replace", "path": "/gui/filterGroup/buttons/2/text", "value": "\uAC8C\uC784"}, {"op": "replace", "path": "/gui/filterGroup/buttons/3/text", "value": "\uADF8\uB8F9"}, {"op": "replace", "path": "/gui/filterGroup/buttons/4/text", "value": "\uC9C0\uC5ED"}]
+[
+  {
+    "op":"replace",
+    "path":"/gui/say/value",
+    "value":"채팅:"
+  },
+  {
+    "op":"replace",
+    "path":"/gui/filterGroup/buttons/0/text",
+    "value":"모두"
+  },
+  {
+    "op":"replace",
+    "path":"/gui/filterGroup/buttons/1/text",
+    "value":"플레이어"
+  },
+  {
+    "op":"replace",
+    "path":"/gui/filterGroup/buttons/2/text",
+    "value":"게임"
+  },
+  {
+    "op":"replace",
+    "path":"/gui/filterGroup/buttons/3/text",
+    "value":"그룹"
+  },
+  {
+    "op":"replace",
+    "path":"/gui/filterGroup/buttons/4/text",
+    "value":"지역"
+  }
+]

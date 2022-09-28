@@ -2,21 +2,21 @@
   {
   "op":"replace",
   "path":"/gui/windowtitle/title",
-  "value":"\uc218\uc9d1\ud488"
+  "value":"수집품"
   },
 	{
 		"op":"replace",
 		"path":"/gui/windowtitle/subtitle",
-		"value":"\ub2f9\uc2e0\uc774 \ubcf8 \ubaa8\ub4e0 \uac83\uacfc \ub2f9\uc2e0\uc774 \ud55c \ubaa8\ub4e0 \ud589\ub3d9\uc744 \ubaa9\ub85d\uc73c\ub85c \ub9cc\ub4dc\uc138\uc694!"
+		"value":"당신이 본 모든 것과 당신이 한 모든 행동을 목록으로 만드세요!"
 	},
 	{
 		"op":"replace",
 		"path":"/gui/selectLabel/value",
-		"value":"\uc218\uc9d1\ud488"
+		"value":"수집품"
 	},
 	{
 		"op":"replace",
 		"path":"/gui/emptyLabel/value",
-		"value":"\uc67c\ucabd\uc5d0\uc11c \uc218\uc9d1\ud488 \uc720\ud615\uc744 \uc120\ud0dd"
+		"value":"왼쪽에서 수집품 유형을 선택"
 	}
 ]

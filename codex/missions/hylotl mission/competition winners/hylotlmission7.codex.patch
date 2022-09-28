@@ -1,34 +1,34 @@
 [
  {
-  "op": "replace", 
-  "path": "/title", 
-  "value": "\uC790\uC720"
- }, 
- {
-  "op": "replace", 
-  "path": "/description", 
-  "value": "\uD544\uC988\uAC00 \uBE44\uD504\uC81C\uD504\uC758 \uC2DC\uC9D1\uC5D0\uC11C \uBC1C\uCDCC\uD55C \uAE00\uC774\uB2E4."
- }, 
- {
-  "op": "replace", 
-  "path": "/contentPages/0", 
-  "value": "\uD568\uC120\uC740 \uC900\uBE44\uB418\uC5C8\uACE0, \uADF8 \uC18C\uB9AC\uAC00 \uB0B4 \uADC0\uC5D0 \uC6B8\uB9AC\uBA70,
-\uB9E5\uBC15\uC774 \uACE0\uB3D9\uCE58\uACE0, \uC2EC\uC7A5\uC774 \uC6B8\uB9B0\uB2E4. 
-\uC9C0\uC815\uBD80\uC758 \uACBD\uBE44\uBCD1\uB4E4\uC774 \uBC14\uB85C \uB4A4\uC5D0 \uBAB0\uB824\uC624\uACE0,
-\uACF5\uD3EC\uC640 \uACF5\uD669\uC774 \uB0B4 \uBA38\uB9AC\uC5D0 \uBC00\uB824\uB4E0\uB2E4. 
-\uBE5B\uC740 \uB179\uC0C9\uC73C\uB85C \uBE5B\uB098\uACE0, \uB098\uB294 \uC2DC\uAC04\uC744 \uB0AD\uBE44\uD558\uC9C0 \uC54A\uC73C\uBA70
-\uCD9C\uB825\uC744 \uCD5C\uB300\uB85C \uB192\uC774\uACE0, \uBC94\uD589\uC744 \uC800\uC9C0\uB978\uB2E4. 
-\uB124\uC628\uC0AC\uC778\uB4E4\uC774 \uBE60\uB974\uAC8C \uC9C0\uB098\uAC00 \uBC84\uB9AC\uACE0 \uC788\uB2E4.
-\"\uBE45 \uC5D0\uC774\uD504\uC5D0 \uBCF5\uC885\uD558\uB77C, \uC544\uB2C8\uBA74 \uBC84\uB824\uC9C0\uB9AC\uB77C!\""
+  "op": "replace",
+  "path": "/title",
+  "value": "자유"
  },
  {
-  "op": "add", 
-  "path": "/contentPages/1", 
-  "value": "\uB098\uB294 \uB0B4\uAC00 \uB2E4\uC2DC\uB294 \uB3CC\uC544\uAC08 \uC218 \uC5C6\uC74C\uC744 \uC54C\uC9C0\uB9CC,
-\uC6CC\uD504 \uB4DC\uB77C\uC774\uBE0C\uAC00 \uB3CC\uC544\uAC00\uAE30 \uC2DC\uC791\uD588\uAE30\uC5D0
-\uB098\uB294 \uB0B4 \uC0AC\uB78C\uB4E4\uC744 \uC790\uC720\uB86D\uAC8C \uD558\uAE30\uB85C \uB9F9\uC138\uD55C\uB2E4
-\uADF8\uB4E4\uC758 \uB178\uC608\uB85C\uC11C\uC758 \uC0B6\uC73C\uB85C\uBD80\uD130.
-\uB098\uB294 \uADF8\uB4E4\uC744 \uCCA0\uCC3D \uC548\uC5D0 \uB0A8\uACA8\uB450\uACE0 \uB5A0\uB0A0 \uC218\uB294 \uC5C6\uB2E4
-\uB0B4\uAC00 \uC790\uC720\uB86D\uACE0, \uBCC4\uB4E4 \uD5A5\uD574 \uB5A0\uB098\uB294 \uB3D9\uC548."
+  "op": "replace",
+  "path": "/description",
+  "value": "필즈가 비프제프의 시집에서 발췌한 글이다."
+ },
+ {
+  "op": "replace",
+  "path": "/contentPages/0",
+  "value": "함선은 준비되었고, 그 소리가 내 귀에 울리며,
+맥박이 고동치고, 심장이 울린다.
+지정부의 경비병들이 바로 뒤에 몰려오고,
+공포와 공황이 내 머리에 밀려든다.
+빛은 녹색으로 빛나고, 나는 시간을 낭비하지 않으며
+출력을 최대로 높이고, 범행을 저지른다.
+네온사인들이 빠르게 지나가 버리고 있다.
+\"빅 에이프에 복종하라, 아니면 버려지리라!\""
+ },
+ {
+  "op": "add",
+  "path": "/contentPages/1",
+  "value": "나는 내가 다시는 돌아갈 수 없음을 알지만,
+워프 드라이브가 돌아가기 시작했기에
+나는 내 사람들을 자유롭게 하기로 맹세한다
+그들의 노예로서의 삶으로부터.
+나는 그들을 철창 안에 남겨두고 떠날 수는 없다
+내가 자유롭고, 별들 향해 떠나는 동안."
  }
 ]

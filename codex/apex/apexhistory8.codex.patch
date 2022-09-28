@@ -1,25 +1,25 @@
 [
  {
-  "op": "replace", 
-  "path": "/title", 
-  "value": "\uC5D0\uC774\uD399\uC2A4 \uBC30\uAE09 \uC7A5\uBD80"
- }, 
+  "op": "replace",
+  "path": "/title",
+  "value": "에이펙스 배급 장부"
+ },
  {
-  "op": "replace", 
-  "path": "/description", 
-  "value": "\uC9C0\uC815\uBD80 \uADDC\uC815\uC5D0 \uB530\uB978 \uC5D0\uC774\uD399\uC2A4 \uBC30\uAE09 \uC7A5\uBD80\uC774\uB2E4."
- }, 
+  "op": "replace",
+  "path": "/description",
+  "value": "지정부 규정에 따른 에이펙스 배급 장부이다."
+ },
  {
-  "op": "replace", 
-  "path": "/contentPages/0", 
-  "value": "\uC9C0\uC815\uBD80 \uC77C\uC77C \uC2DC\uBBFC \uBC30\uAE09 \uD488\uBAA9
+  "op": "replace",
+  "path": "/contentPages/0",
+  "value": "지정부 일일 시민 배급 품목
 
-\uACF5\uC778\uB41C \uC601\uC591 \uD398\uC774\uC2A4\uD2B8 1 \uAC1C
-\uACF5\uC778\uB41C \uBB3C 1 \uBCD1
-\uC77C\uAC04\uC9C0 \uB370\uC77C\uB9AC \uD544 1 \uBD80
+공인된 영양 페이스트 1 개
+공인된 물 1 병
+일간지 데일리 필 1 부
 
-\uBC18\uB780\uAD70 \uD65C\uB3D9\uC5D0 \uAD00\uD55C \uC815\uBCF4\uB97C \uB300\uAC00\uB85C \uCD94\uAC00 \uC0AC\uCE58\uD488\uC774 \uC81C\uACF5\uB420 \uC218 \uC788\uB2E4.
+반란군 활동에 관한 정보를 대가로 추가 사치품이 제공될 수 있다.
 
-\uBE45 \uC5D0\uC774\uD504\uAC00 \uB2F9\uC2E0\uC744 \uC9C0\uCF1C\uBCF4\uACE0 \uC788\uB2E4!"
+빅 에이프가 당신을 지켜보고 있다!"
  }
 ]

@@ -2,11 +2,11 @@
 	{
 		"op":"replace",
 		"path":"/shortdescription",
-		"value":"\ud50c\ub85c\ub780 \ub2e4\ub9ac \ud654\uc11d (Floran Legs)"
+		"value":"플로란 다리 화석 (Floran Legs)"
 	},
 	{
 		"op":"replace",
 		"path":"/description",
-		"value":"\ud654\uc11d\uc774 \ub41c \ud50c\ub85c\ub780\uc758 \ub2e4\ub9ac \ud55c \uc30d\uc774\ub2e4."
+		"value":"화석이 된 플로란의 다리 한 쌍이다."
 	}
 ]

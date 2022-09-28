@@ -1,19 +1,19 @@
 [
  {
-  "op": "replace", 
-  "path": "/title", 
-  "value": "\uC778\uC591 \uACC4\uD68D"
- }, 
+  "op": "replace",
+  "path": "/title",
+  "value": "인양 계획"
+ },
  {
-  "op": "replace", 
-  "path": "/description", 
-  "value": "\uB300 \uC0AC\uCC30 \uB3C4\uC11C\uAD00\uC744 \uBCF5\uAD6C\uD558\uAE30 \uC704\uD55C \uACC4\uD68D\uC758 \uAE30\uB85D\uBB38\uC11C\uC774\uB2E4."
- }, 
+  "op": "replace",
+  "path": "/description",
+  "value": "대 사찰 도서관을 복구하기 위한 계획의 기록문서이다."
+ },
  {
-  "op": "replace", 
-  "path": "/contentPages/0", 
-  "value": "\uB300 \uC0AC\uCC30 \uB3C4\uC11C\uAD00\uC5D0 \uAD00\uD558\uC5EC:
+  "op": "replace",
+  "path": "/contentPages/0",
+  "value": "대 사찰 도서관에 관하여:
 
-\uAD6C\uC870 \uBB34\uACB0\uC131\uC740 \uB300\uCCB4\uB85C \uAD1C\uCC2E\uB2E4. \uC190\uC0C1\uC73C\uB85C \uC77C\uBD80 \uC548\uC804\uC7A5\uCE58\uB4E4\uC774 \uC791\uB3D9\uB418\uC5C8\uC9C0\uB9CC, \uB3C4\uC11C\uAD00\uACFC \uB0B4\uBD80 \uC2DC\uC124\uC758 \uB300\uBD80\uBD84\uC740 \uC628\uC804\uD558\uB2E4. \uC6B0\uB9AC\uAC00 \uB0B4\uB9B0 \uCD94\uC815\uC740 \uB3C4\uC11C\uAD00\uC758 60%\uAC00 '\uC88B\uC740' \uC0C1\uD0DC\uC774\uACE0, \uBC18\uBA74 25%\uB294 '\uB098\uC05C', \uADF8\uB9AC\uACE0 \uC624\uC9C1 15%\uB9CC\uC774 '\uC2EC\uAC01\uD558\uAC8C \uB098\uC05C' \uC784\uC744 \uC2DC\uC0AC\uD55C\uB2E4. \uC6B0\uB9AC\uAC00 \uC774\uC6A9 \uAC00\uB2A5\uD55C \uD604\uB300 \uAE30\uC220\uB4E4\uC744 \uC0AC\uC6A9\uD574\uC11C, \uC218\uB9AC\uC640 \uC7AC\uAC74\uCD95\uC740 \uC2DC\uAC04\uC774 \uC5BC\uB9C8 \uAC78\uB9AC\uC9C0 \uC54A\uC544\uC57C \uD55C\uB2E4. \uADF8\uB7EC\uBA74 \uC6B0\uB9AC\uB294 \uC81C\uBCF8 \uC804\uBB38\uAC00\uB4E4\uACFC \uBCF5\uC6D0 \uC804\uBB38\uAC00\uB4E4\uC744 \uB4E4\uC5EC\uBCF4\uB0BC \uC218 \uC788\uC744 \uAC83\uC774\uBA70, \uACE7 \uC0C8\uB85C\uC6B4 \uC0AC\uC11C\uB97C \uACE0\uC6A9\uD560 \uC218 \uC788\uC744 \uAC83\uC774\uB2E4." 
+구조 무결성은 대체로 괜찮다. 손상으로 일부 안전장치들이 작동되었지만, 도서관과 내부 시설의 대부분은 온전하다. 우리가 내린 추정은 도서관의 60%가 '좋은' 상태이고, 반면 25%는 '나쁜', 그리고 오직 15%만이 '심각하게 나쁜' 임을 시사한다. 우리가 이용 가능한 현대 기술들을 사용해서, 수리와 재건축은 시간이 얼마 걸리지 않아야 한다. 그러면 우리는 제본 전문가들과 복원 전문가들을 들여보낼 수 있을 것이며, 곧 새로운 사서를 고용할 수 있을 것이다."
  }
 ]

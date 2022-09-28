@@ -2,41 +2,41 @@
   {
     "op":"replace",
     "path":"/paneLayout/windowtitle/title",
-    "value":"\ub18d\uc5c5 \uc791\uc5c5\ub300"
+    "value":"농업 작업대"
   },
   {
     "op":"replace",
     "path":"/paneLayout/windowtitle/subtitle",
-    "value":"^#b9b5b2;\uc0ac\ub0e5\ud558\uace0, \ub18d\uc0ac\ud558\uace0, \ucc44\uc9d1\ud558\uae30"
+    "value":"^#b9b5b2;사냥하고, 농사하고, 채집하기"
   },
   {
     "op":"replace",
     "path":"/paneLayout/lblSchematics/value",
-    "value":"^#b9b5b2;\uc124\uacc4\ub3c4"
+    "value":"^#b9b5b2;설계도"
   },
   {
     "op":"replace",
     "path":"/paneLayout/lblProducttitle/value",
-    "value":"^#b9b5b2;\uacb0\uacfc\ubb3c"
+    "value":"^#b9b5b2;결과물"
   },
   {
     "op":"replace",
     "path":"/paneLayout/btnCraft/caption",
-    "value":"\uc81c\uc791"
+    "value":"제작"
   },
   {
     "op":"replace",
     "path":"/paneLayout/btnStopCraft/caption",
-    "value":"\uba48\ucda4"
+    "value":"멈춤"
   },
   {
     "op":"replace",
     "path":"/paneLayout/lblProduct/value",
-    "value":"\uc7ac\ub8cc\uac00 \uc788\ub294 \uac83\ub9cc \ubcf4\uc774\uae30"
+    "value":"재료가 있는 것만 보이기"
   },
   {
     "op":"replace",
     "path":"/paneLayout/filter/hint",
-    "value":"\uac80\uc0c9"
+    "value":"검색"
   }
 ]

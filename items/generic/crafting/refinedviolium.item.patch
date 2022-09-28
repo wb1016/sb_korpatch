@@ -1,4 +1,4 @@
-[{"op": "replace", "path": "/shortdescription", "value": "\uc815\uc81c\ub41c \ubc14\uc774\uc62c\ub968 (Refined Violium)"}, 
-{"op": "replace", "path": "/description", "value": 
-"\uC815\uC81C\uB41C \uBC14\uC774\uC62C\uB968\uC744 \uB9CC\uB4DC\uB294\uB370 \uC4F0\uC774\uB294 \uAD11\uC11D\uC740 \uB300\uBD80\uBD84 \uC5BC\uC5B4\uBD99\uC740 \uD56D\uC131\uC744 \uACF5\uC804\uD558\uB294 \uD589\uC131\uC5D0\uC11C \uBC1C\uACAC\uB41C\uB2E4."}
+[{"op": "replace", "path": "/shortdescription", "value": "정제된 바이올륨 (Refined Violium)"},
+{"op": "replace", "path": "/description", "value":
+"정제된 바이올륨을 만드는데 쓰이는 광석은 대부분 얼어붙은 항성을 공전하는 행성에서 발견된다."}
 ]

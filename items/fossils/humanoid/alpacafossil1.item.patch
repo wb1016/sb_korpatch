@@ -2,21 +2,21 @@
   {
 		"op":"replace",
 		"path":"/shortdescription",
-		"value":"\uc54c\ud30c\uce74 \uba38\ub9ac\ubf08 \ud654\uc11d (Alpaca Skull)"
+		"value":"알파카 머리뼈 화석 (Alpaca Skull)"
 	},
   {
 		"op":"replace",
 		"path":"/description",
-		"value":"\ud654\uc11d\uc774 \ub41c \uc54c\ud30c\uce74\uc758 \uba38\ub9ac\ubf08\ub2e4."
+		"value":"화석이 된 알파카의 머리뼈다."
 	},
   {
 		"op":"replace",
 		"path":"/completeSetDescriptions/shortdescription",
-		"value":"\uc54c\ud30c\uce74 \ud654\uc11d"
+		"value":"알파카 화석"
 	},
   {
     "op":"replace",
   	"path":"/completeSetDescriptions/description",
-  	"value":"\uc624\ub798\uc804\uc5d0 \uc8fd\uc740 \uc54c\ud30c\uce74\uc758 \ube7d\ube7d\ud558\uace0 \ub2e8\ub2e8\ud55c \ubf08\ub4e4\uc774\ub2e4."
+  	"value":"오래전에 죽은 알파카의 빽빽하고 단단한 뼈들이다."
 	}
 ]

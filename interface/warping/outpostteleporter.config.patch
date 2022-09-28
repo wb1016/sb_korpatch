@@ -2,11 +2,11 @@
   {
     "op":"replace",
     "path":"/destinations/0/name",
-    "value":"\ud568\uc120\uc73c\ub85c \ub3cc\uc544\uac00\uae30"
+    "value":"함선으로 돌아가기"
   },
 	{
 		"op":"replace",
 		"path":"/destinations/1/name",
-		"value":"\ucf54\uc774\uce58\uc758 \ubc15\ubb3c\uad00"
+		"value":"코이치의 박물관"
 	}
 ]

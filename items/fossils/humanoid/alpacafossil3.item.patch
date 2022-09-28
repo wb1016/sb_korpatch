@@ -2,11 +2,11 @@
 	{
 		"op":"replace",
 		"path":"/shortdescription",
-		"value":"\uc54c\ud30c\uce74 \ub2e4\ub9ac \ud654\uc11d (Alpaca Legs)"
+		"value":"알파카 다리 화석 (Alpaca Legs)"
 	},
 	{
 		"op":"replace",
 		"path":"/description",
-		"value":"\ud654\uc11d\uc774 \ub41c \uc54c\ud30c\uce74\uc758 \ub2e4\ub9ac \ub450 \uc30d\uc774\ub2e4."
+		"value":"화석이 된 알파카의 다리 두 쌍이다."
 	}
 ]

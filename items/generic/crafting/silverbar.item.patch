@@ -1,4 +1,4 @@
-[{"op": "replace", "path": "/shortdescription", "value": "\uc740 \uc8fc\uad34 (Silver Bar)"}, 
-{"op": "replace", "path": "/description", "value": 
-"\uC740 \uC8FC\uAD34\uB97C \uB9CC\uB4DC\uB294\uB370 \uC4F0\uC774\uB294 \uAD11\uC11D\uC740 \uBAA8\uB4E0 \uD56D\uC131 \uC8FC\uC704\uC758 \uD589\uC131\uC758 \uC911\uAC04 \uAE4A\uC774\uC5D0\uC11C \uBC1C\uACAC\uB41C\uB2E4."}
+[{"op": "replace", "path": "/shortdescription", "value": "은 주괴 (Silver Bar)"},
+{"op": "replace", "path": "/description", "value":
+"은 주괴를 만드는데 쓰이는 광석은 모든 항성 주위의 행성의 중간 깊이에서 발견된다."}
 ]

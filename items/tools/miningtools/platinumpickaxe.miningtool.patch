@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "\ubc31\uae08 \uace1\uad2d\uc774"}, {"op": "replace", "path": "/description", "value": "\uC624\uB798 \uAC00\uC9C4 \uC54A\uACA0\uC9C0\uB9CC, \uB545\uC744 \uBE60\uB974\uAC8C \uD314 \uC218 \uC788\uB2E4."}]
+[
+  {
+    "op":"replace",
+    "path":"/shortdescription",
+    "value":"백금 곡괭이"
+  },
+  {
+    "op":"replace",
+    "path":"/description",
+    "value":"오래 가진 않겠지만, 땅을 빠르게 팔 수 있다."
+  }
+]

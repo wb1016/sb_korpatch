@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "\uCC44\uC0C9 \uBAA8\uB4DC"}, {"op": "replace", "path": "/description", "value": "\uC67C\uCABD \uD074\uB9AD\uC740 \uC0C9\uC744 \uCE60\uD558\uACE0, \uC624\uB978\uCABD \uD074\uB9AD\uC740 \uC0C9\uC744 \uBCC0\uACBD\uD55C\uB2E4. ^green;[Y] \uD0A4\uB85C \uBE60\uB974\uAC8C \uC120\uD0DD\uD560 \uC218 \uC788\uB2E4."}]
+[
+  {
+    "op":"replace",
+    "path":"/shortdescription",
+    "value":"채색 모드"
+  },
+  {
+    "op":"replace",
+    "path":"/description",
+    "value":"왼쪽 클릭은 색을 칠하고, 오른쪽 클릭은 색을 변경한다. ^green;[Y] 키로 빠르게 선택할 수 있다."
+  }
+]

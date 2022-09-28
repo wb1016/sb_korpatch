@@ -2,41 +2,41 @@
   {
     "op":"replace",
     "path":"/paneLayout/windowtitle/title",
-    "value":"\ubaa8\ub8e8"
+    "value":"모루"
   },
   {
     "op":"replace",
     "path":"/paneLayout/windowtitle/subtitle",
-    "value":"\ubfb0\uc871\ud55c \ubb3c\uac74\ub4e4\uc744 \ub9cc\ub4ed\ub2c8\ub2e4."
+    "value":"뾰족한 물건들을 만듭니다."
   },
   {
     "op":"replace",
     "path":"/paneLayout/lblSchematics/value",
-    "value":"^#b9b5b2;\uc124\uacc4\ub3c4"
+    "value":"^#b9b5b2;설계도"
   },
   {
     "op":"replace",
     "path":"/paneLayout/lblProducttitle/value",
-    "value":"^#b9b5b2;\uacb0\uacfc\ubb3c"
+    "value":"^#b9b5b2;결과물"
   },
   {
     "op":"replace",
     "path":"/paneLayout/filter/hint",
-    "value":"\uac80\uc0c9"
+    "value":"검색"
   },
   {
     "op":"replace",
     "path":"/paneLayout/btnCraft/caption",
-    "value":"\uc81c\uc791"
+    "value":"제작"
   },
   {
     "op":"replace",
     "path":"/paneLayout/btnStopCraft/caption",
-    "value":"\uba48\ucda4"
+    "value":"멈춤"
   },
   {
     "op":"replace",
     "path":"/paneLayout/lblProduct/value",
-    "value":"\uc7ac\ub8cc\uac00 \uc788\ub294 \uac83\ub9cc \ubcf4\uc774\uae30"
+    "value":"재료가 있는 것만 보이기"
   },
 ]

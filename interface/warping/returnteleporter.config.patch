@@ -2,11 +2,11 @@
 	{
 		"op":"replace",
 		"path":"/destinations/0/name",
-		"value":"\uadc0\ud658 \ud154\ub808\ud3ec\ud130"
+		"value":"귀환 텔레포터"
 	},
 	{
 		"op":"replace",
 		"path":"/destinations/0/planetName",
-		"value":"\uadc0\ud658"
+		"value":"귀환"
 	}
 ]

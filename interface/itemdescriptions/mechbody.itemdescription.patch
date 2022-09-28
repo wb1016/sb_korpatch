@@ -2,11 +2,11 @@
 	{
 		"op":"replace",
 		"path":"/energyStatLabel/value",
-		"value":"\ucd5c\ub300 \uc5d0\ub108\uc9c0"
+		"value":"최대 에너지"
 	},
 	{
 		"op":"replace",
 		"path":"/protectionStatLabel/value",
-		"value":"\ubc29\uc5b4\ub825"
+		"value":"방어력"
 	}
 ]

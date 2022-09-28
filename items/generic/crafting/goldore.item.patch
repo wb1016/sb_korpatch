@@ -1,4 +1,4 @@
-[{"op": "replace", "path": "/shortdescription", "value": "\uae08 \uad11\uc11d (Gold Ore)"}, 
-{"op": "replace", "path": "/description", "value": 
-"\uAE08 \uAD11\uC11D\uC774\uB2E4. \uC81C\uB828\uD574\uC11C \uC0AC\uC6A9\uD560 \uC218 \uC788\uB2E4."}
+[{"op": "replace", "path": "/shortdescription", "value": "금 광석 (Gold Ore)"},
+{"op": "replace", "path": "/description", "value":
+"금 광석이다. 제련해서 사용할 수 있다."}
 ]

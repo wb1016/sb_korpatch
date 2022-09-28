@@ -2,11 +2,11 @@
 	{
 		"op":"replace",
 		"path":"/gui/windowtitle/title",
-		"value":"FTL \uB4DC\uB77C\uC774\uBE0C \uC5F0\uB8CC \uC8FC\uC785\uAD6C"
+		"value":"FTL 드라이브 연료 주입구"
 	},
 	{
 		"op":"replace",
 		"path":"/gui/windowtitle/subtitle",
-		"value":"\uC5D0\uB974\uD0A4\uC6B0\uC2A4 \uC5F0\uB8CC \uC800\uC7A5\uC18C"
+		"value":"에르키우스 연료 저장소"
 	}
 ]

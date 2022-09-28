@@ -2,16 +2,16 @@
   {
 		"op":"replace",
 		"path":"/gui/windowtitle/title",
-		"value":"\uace0\ub300 \uad00\ubb38 \uc870\uc791\uae30"
+		"value":"고대 관문 조작기"
 	},
   {
 		"op":"replace",
 		"path":"/gui/windowtitle/subtitle",
-		"value":"\ud589\uc131 \ud575 \ud30c\ud3b8\uc73c\ub85c \ud65c\uc131\ud654"
+		"value":"행성 핵 파편으로 활성화"
 	},
 	{
 		"op":"replace",
 		"path":"/gui/costDescription/value",
-		"value":"\ud544\uc694\ud55c \ud30c\ud3b8"
+		"value":"필요한 파편"
 	}
 ]

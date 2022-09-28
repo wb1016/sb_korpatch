@@ -2,11 +2,11 @@
 	{
 		"op":"replace",
 		"path":"/gui/lblText/value",
-		"value":"^#b9b5b2;\ucea1\uccd0 \ud3ec\ub4dc\ub97c \uc67c\ucabd \uce78\uc5d0 \ub193\uc73c\uc138\uc694."
+		"value":"^#b9b5b2;캡쳐 포드를 왼쪽 칸에 놓으세요."
 	},
 	{
 		"op":"replace",
 		"path":"/gui/toggleCrafting/caption",
-		"value":"\ud68c\ubcf5"
+		"value":"회복"
 	}
 ]

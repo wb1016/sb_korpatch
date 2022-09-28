@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/message", "value": "^yellow;1 \uae08\ud654^white;\ub97c \ub300\uac00\ub85c <name>\ub97c \ud568\uc120\uc758 \uc120\uc6d0\uc73c\ub85c \ubc1b\uc744\uae4c\uc694?^gray;\n\n^white;\uc9c1\uc5c5:^gray; <role>\n^white;\ub7ad\ud06c:^gray; <rank>\n^white;\uc0c1\ud0dc:^gray; <status> "}, {"op": "replace", "path": "/subtitle", "value": "\uD3AD\uADC4 \uD574\uC801\uB2E8\uB3C4 \uAC00\uB2A5\uD558\uB2E4!"}, {"op": "replace", "path": "/title", "value": "\ub2f9\uc2e0\uc758 \uc120\uc6d0\uc744 \ub298\ub9ac\uae30"}]
+[
+  {
+    "op":"replace",
+    "path":"/message",
+    "value":"^yellow;1 금화^white;를 대가로 <name>를 함선의 선원으로 받을까요?^gray;\n\n^white;직업:^gray; <role>\n^white;랭크:^gray; <rank>\n^white;상태:^gray; <status> "
+  },
+  {
+    "op":"replace",
+    "path":"/subtitle",
+    "value":"펭귄 해적단도 가능하다!"
+  },
+  {
+    "op":"replace",
+    "path":"/title",
+    "value":"당신의 선원을 늘리기"
+  }
+]

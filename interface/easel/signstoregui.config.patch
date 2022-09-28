@@ -1,4 +1,7 @@
 [
-{"op": "replace", "path": "/gui/windowtitle/subtitle", "value": 
-	"^#b9b5b2;\uC6B0\uC544\uD55C \uC790\uB3D9 \uD45C\uC9C0\uD310 \uC778\uC1C4 \uC124\uACC4 \uC7A5\uCE58"
-}]
+  {
+    "op":"replace",
+    "path":"/gui/windowtitle/subtitle",
+    "value":"^#b9b5b2;우아한 자동 표지판 인쇄 설계 장치"
+  }
+]

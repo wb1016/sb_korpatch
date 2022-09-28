@@ -1,26 +1,26 @@
 [
  {
-  "op": "replace", 
-  "path": "/title", 
-  "value": "\uD1B5\uC744 \uAC00\uB4DD \uCC44\uC6B0\uAE30"
- }, 
- {
-  "op": "replace", 
-  "path": "/description", 
-  "value": "\uD558\uC774\uB85C\uD2C0 \uBC15\uC0AC K. \uC0AC\uCE74\uB098 \uAC00 \uC800\uC220\uD55C \uAE00\uB9AC\uCE58\uC758 \uC2DD\uC0DD\uD65C\uC5D0 \uAD00\uD55C \uB17C\uD3C9\uC774\uB2E4."
- }, 
- {
-  "op": "replace", 
-  "path": "/contentPages/0", 
-  "value": "\uAE00\uB9AC\uCE58\uB294 \uBA39\uB294\uB2E4. \uC6B0\uB9AC\uAC00 \uADF8\uB7EC\uB4EF \uBA39\uB294\uB2E4. \uADF8\uB807\uC9C0\uB9CC, \uB2F9\uC5F0\uD558\uAC8C\uB3C4 \uAE00\uB9AC\uCE58\uC758 \uC18C\uD654 \uACFC\uC815\uC740 \uC544\uC8FC \uB2E4\uB974\uB2E4.
-
-\uAE00\uB9AC\uCE58\uAC00 \uBA39\uC744 \uB54C, \uC74C\uC2DD\uC740 \uBAB8 \uC548\uC5D0 \uC313\uC774\uACE0 \uBC15\uD14C\uB9AC\uC544\uC5D0 \uC758\uD574 \uBD84\uD574\uB41C\uB2E4. \uC74C\uC2DD\uC774 \uBC1C\uD6A8\uB428\uC5D0 \uB530\uB77C, \uBA54\uD0C4\uAC00\uC2A4\uAC00 \uBC29\uCD9C\uB418\uC5B4 \uC313\uC778\uB2E4. 
-
-\uADF8 \uD6C4 \uBA54\uD0C4\uAC00\uC2A4\uAC00 \uC5F0\uC18C\uD558\uACE0, \uB9CC\uB4E4\uC5B4\uC9C4 \uC5F4\uC774 \uAC00\uC2A4 \uD130\uBE48\uC5D0 \uB3D9\uB825\uC744 \uACF5\uAE09\uD558\uAE30 \uC704\uD574 \uC0AC\uC6A9\uB41C\uB2E4. \uADF8\uB9AC\uD558\uC5EC, \uAC01 \uAE00\uB9AC\uCE58\uB294 \uC790\uC2E0\uB9CC\uC758 \uC5F0\uC18C \uC5D4\uC9C4\uC744 \uAC00\uC9C4\uB2E4."
+  "op": "replace",
+  "path": "/title",
+  "value": "통을 가득 채우기"
  },
  {
-  "op": "replace", 
-  "path": "/contentPages/1", 
-  "value": "\uBB3C\uB860, \uBAA8\uB4E0 \uC74C\uC2DD\uC758 \uC870\uAC01\uC774 \uBD84\uD574\uB418\uC9C0\uB294 \uC54A\uC9C0\uB9CC, \uB0A8\uC544\uC788\uB294 \uAC83\uC774 \uB9E4\uC6B0 \uACE0\uC6B4 \uD1F4\uBE44\uB97C \uB9CC\uB4E0\uB2E4. \uC774\uB7F0 \uB0A8\uC740 \uAC83\uB4E4\uC740... \uBAB8\uC5D0\uC11C '\uBC30\uCD9C'\uB41C\uB2E4."
+  "op": "replace",
+  "path": "/description",
+  "value": "하이로틀 박사 K. 사카나 가 저술한 글리치의 식생활에 관한 논평이다."
+ },
+ {
+  "op": "replace",
+  "path": "/contentPages/0",
+  "value": "글리치는 먹는다. 우리가 그러듯 먹는다. 그렇지만, 당연하게도 글리치의 소화 과정은 아주 다르다.
+
+글리치가 먹을 때, 음식은 몸 안에 쌓이고 박테리아에 의해 분해된다. 음식이 발효됨에 따라, 메탄가스가 방출되어 쌓인다.
+
+그 후 메탄가스가 연소하고, 만들어진 열이 가스 터빈에 동력을 공급하기 위해 사용된다. 그리하여, 각 글리치는 자신만의 연소 엔진을 가진다."
+ },
+ {
+  "op": "replace",
+  "path": "/contentPages/1",
+  "value": "물론, 모든 음식의 조각이 분해되지는 않지만, 남아있는 것이 매우 고운 퇴비를 만든다. 이런 남은 것들은... 몸에서 '배출'된다."
  }
 ]

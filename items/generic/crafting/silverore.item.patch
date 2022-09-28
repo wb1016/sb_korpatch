@@ -1,4 +1,4 @@
-[{"op": "replace", "path": "/shortdescription", "value": "\uc740 \uad11\uc11d (Silver Ore)"}, 
-{"op": "replace", "path": "/description", "value": 
-"\uC740 \uAD11\uC11D\uC774\uB2E4. \uC81C\uB828\uD574\uC11C \uC0AC\uC6A9\uD560 \uC218 \uC788\uB2E4."}
+[{"op": "replace", "path": "/shortdescription", "value": "은 광석 (Silver Ore)"},
+{"op": "replace", "path": "/description", "value":
+"은 광석이다. 제련해서 사용할 수 있다."}
 ]

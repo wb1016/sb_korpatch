@@ -1,17 +1,17 @@
 [
  {
-  "op": "replace", 
-  "path": "/title", 
-  "value": "\uBCC4\uAD00\uCE21\uC790\uC758 \uC5ED\uC0AC"
- }, 
+  "op": "replace",
+  "path": "/title",
+  "value": "별관측자의 역사"
+ },
  {
-  "op": "replace", 
-  "path": "/description", 
-  "value": "\uC790\uC2E0\uB4E4\uC758 \uC804\uD1B5\uACFC \uBB38\uD654\uC5D0 \uB300\uD55C \uC544\uBE44\uC548\uC758 \uAD50\uACFC\uC11C\uC774\uB2E4."
- }, 
+  "op": "replace",
+  "path": "/description",
+  "value": "자신들의 전통과 문화에 대한 아비안의 교과서이다."
+ },
  {
-  "op": "replace", 
-  "path": "/contentPages/0", 
-  "value": "\uC544\uBE44\uC548 \uC0AC\uD68C\uB294 \uD558\uB098\uC758 \uC9C4\uC815\uD55C \uC2E0, \uD074\uB8E8\uC5D1\uC2A4\uC5D0 \uB300\uD55C \uBCC0\uD568\uC5C6\uB294 \uD5CC\uC2E0\uC744 \uC911\uC2EC\uC5D0 \uB450\uBA70, \uB530\uB77C\uC11C \uBCC4\uAD00\uCE21\uC790\uB77C\uB294 \uACE0\uC704 \uC0AC\uC81C\uB4E4\uC774 \uC6B0\uB9AC \uD1B5\uCE58 \uAD6C\uC870\uC758 \uAC00\uC7A5 \uB192\uC740 \uACC4\uAE09\uC774\uB2E4. \uBCC4\uAD00\uCE21\uC790\uB4E4\uC774 \uC6B0\uB9AC \uBAA8\uB450\uB97C \uC5F0\uD569\uC2DC\uCF1C \uADF8 \uAC08\uB4F1\uC5D0 \uB05D\uC744 \uAC00\uC838\uC624\uAE30 \uC804\uAE4C\uC9C0 \uC544\uC8FC \uC624\uB79C \uC138\uC6D4 \uB3D9\uC548 \uC6B0\uB9AC \uC120\uC870\uB4E4\uC740 \uC5EC\uB7EC \uD30C\uBC8C\uB85C \uB098\uB258\uC5B4 \uC790\uC2E0\uB4E4\uB07C\uB9AC \uC2F8\uC6E0\uB2E4. \uADF8\uB4E4\uC758 \uD1B5\uCE58 \uC544\uB798\uC5D0\uC11C \uC6B0\uB9AC\uB294 \uD074\uB8E8\uC5D1\uC2A4\uC758 \uB0A0\uAC1C \uC544\uB798\uC5D0 \uC788\uB294 \uD798\uC744 \uBC1C\uACAC\uD588\uB2E4."
+  "op": "replace",
+  "path": "/contentPages/0",
+  "value": "아비안 사회는 하나의 진정한 신, 클루엑스에 대한 변함없는 헌신을 중심에 두며, 따라서 별관측자라는 고위 사제들이 우리 통치 구조의 가장 높은 계급이다. 별관측자들이 우리 모두를 연합시켜 그 갈등에 끝을 가져오기 전까지 아주 오랜 세월 동안 우리 선조들은 여러 파벌로 나뉘어 자신들끼리 싸웠다. 그들의 통치 아래에서 우리는 클루엑스의 날개 아래에 있는 힘을 발견했다."
  }
 ]

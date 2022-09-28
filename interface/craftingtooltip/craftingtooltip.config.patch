@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/title/value", "value": "\uc7ac\ub8cc"}]
+[
+  {
+    "op":"replace",
+    "path":"/title/value",
+    "value":"재료"
+  }
+]

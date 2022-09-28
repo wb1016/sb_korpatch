@@ -2,57 +2,57 @@
 	{
 		"op":"replace",
 		"path":"/paneLayout/volumeLabel/value",
-		"value":"\uc74c\ub7c9"
+		"value":"음량"
 	},
 	{
 		"op":"replace",
 		"path":"/paneLayout/sfxLabel/value",
-		"value":"\ud6a8\uacfc\uc74c"
+		"value":"효과음"
 	},
   	{
 		"op":"replace",
 		"path":"/paneLayout/musicLabel/value",
-		"value":"\uc74c\uc545"
+		"value":"음악"
 	},
 	{
 		"op":"replace",
 		"path":"/paneLayout/tutorialMessagesLabel/value",
-		"value":"\ud29c\ud1a0\ub9ac\uc5bc \uba54\uc138\uc9c0"
+		"value":"튜토리얼 메세지"
 	},
 
 	{
 		"op":"replace",
 		"path":"/paneLayout/allowAssetsMismatchLabel/value",
-		"value":"\uac8c\uc784 \uc5d0\uc14b \ubd88\uc77c\uce58 \ud5c8\uc6a9"
+		"value":"게임 에셋 불일치 허용"
 	},
   {
 		"op":"replace",
 		"path":"/paneLayout/clientIPJoinableLabel/value",
-		"value":"IP \ub85c \uc811\uc18d \ud5c8\uc6a9"
+		"value":"IP 로 접속 허용"
 	},
 	{
 		"op":"replace",
 		"path":"/paneLayout/clientP2PJoinableLabel/value",
-		"value":"Steam \ub610\ub294 Discord \ub97c \ud1b5\ud55c \uc811\uc18d \ud600\uc6a9"
+		"value":"Steam 또는 Discord 를 통한 접속 허용"
 	},
 	{
 		"op":"replace",
 		"path":"/paneLayout/showKeybindings/caption",
-		"value":"\uc870\uc791"
+		"value":"조작"
 	},
 	{
 		"op":"replace",
 		"path":"/paneLayout/backButton/caption",
-		"value":"\ub4a4\ub85c"
+		"value":"뒤로"
 	},
 	{
 		"op":"replace",
 		"path":"/paneLayout/acceptButton/caption",
-		"value":"\ud655\uc778"
+		"value":"확인"
 	},
 	{
 		"op":"replace",
 		"path":"/paneLayout/showGraphics/caption",
-		"value":"\uadf8\ub798\ud53d"
+		"value":"그래픽"
 	}
 ]

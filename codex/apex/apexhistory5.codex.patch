@@ -1,25 +1,25 @@
 [
  {
-  "op": "replace", 
-  "path": "/title", 
-  "value": "\uC6B0\uB9AC \uC911\uC5D0 \uBC18\uB300\uC790\uAC00 \uC788\uB2E4!"
- }, 
+  "op": "replace",
+  "path": "/title",
+  "value": "우리 중에 반대자가 있다!"
+ },
  {
-  "op": "replace", 
-  "path": "/description", 
-  "value": "\uC5D0\uC774\uD399\uC2A4 \uC8FC\uBBFC\uC744 \uC704\uD55C \uC9C0\uC815\uBD80\uC758 \uACF5\uC775 \uAD11\uACE0\uC774\uB2E4."
- }, 
+  "op": "replace",
+  "path": "/description",
+  "value": "에이펙스 주민을 위한 지정부의 공익 광고이다."
+ },
  {
-  "op": "replace", 
-  "path": "/contentPages/0", 
-  "value": "^red;\uBC18\uC5ED\uC790\uC758 \uAC70\uC9D3\uB9D0\uC744 \uACE0\uBC1C\uD55C\uB2E4!^white;
+  "op": "replace",
+  "path": "/contentPages/0",
+  "value": "^red;반역자의 거짓말을 고발한다!^white;
 
-\uC740\uBC00\uD558\uAC8C \uD37C\uC838\uB098\uAC00\uB294 \uBC18 \uC9C0\uC815\uBD80 \uBC18\uB780\uC758 \uC874\uC7AC\uB294 ^red;\uC6B0\uB9AC\uC758 \uC0DD\uD65C \uBC29\uC2DD\uC744 \uD30C\uAD34\uD560 \uC148\uC774\uB2E4!^white;
+은밀하게 퍼져나가는 반 지정부 반란의 존재는 ^red;우리의 생활 방식을 파괴할 셈이다!^white;
 
-\uB2F9\uC2E0\uC758 \uB3D9\uB8CC, \uCE5C\uAD6C \uD639\uC740 \uAC00\uC871\uC774 \uBC18\uC5ED\uC790\uC778 \uAC83\uC73C\uB85C \uC758\uC2EC\uB41C\uB2E4\uBA74, ^red;\uC989\uC2DC \uB2F9\uC2E0 \uC9C0\uC5ED\uC758 \uC9C0\uC815\uBD80 \uB300\uD45C\uC5D0\uAC8C \uC54C\uB824\uB77C!^white;
+당신의 동료, 친구 혹은 가족이 반역자인 것으로 의심된다면, ^red;즉시 당신 지역의 지정부 대표에게 알려라!^white;
 
-\uBC18\uB780\uC740 ^red;\uC8FD\uC74C\uC73C\uB85C \uCC98\uBC8C\uBC1B\uC544 \uB9C8\uB545\uD558\uB2E4!^white;
+반란은 ^red;죽음으로 처벌받아 마땅하다!^white;
 
-\uD56D\uC0C1 \uAE30\uC5B5\uD558\uB77C, ^red;\uBE45 \uC5D0\uC774\uD504\uAC00 \uB2F9\uC2E0\uC744 \uC9C0\uCF1C\uBCF4\uACE0 \uC788\uB2E4!^white;"
+항상 기억하라, ^red;빅 에이프가 당신을 지켜보고 있다!^white;"
  }
 ]

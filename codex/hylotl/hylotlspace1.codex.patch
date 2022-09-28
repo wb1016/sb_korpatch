@@ -2,42 +2,42 @@
  {
   "op": "replace",
   "path": "/title",
-  "value": "\uB808\uD14C\uC774\uC544 \uD68C\uC0AC \uCC45\uC790"
- }, 
+  "value": "레테이아 회사 책자"
+ },
  {
-  "op": "replace", 
-  "path": "/description", 
-  "value": "\uB808\uD14C\uC774\uC544 \uD68C\uC0AC\uC758 \uAD11\uACE0 \uCC45\uC790\uB2E4."
- }, 
+  "op": "replace",
+  "path": "/description",
+  "value": "레테이아 회사의 광고 책자다."
+ },
  {
-  "op": "replace", 
-  "path": "/contentPages/0", 
-  "value": "^yellow;\uB808\uD14C\uC774\uC544 \uD68C\uC0AC^white;\uB294 \uC0B6\uC758 \uBAA8\uB4E0 \uBA74\uC5D0\uC11C \uB2F9\uC2E0\uC744 \uB3D5\uAE30 \uC704\uD574 \uC774\uACF3\uC5D0 \uC788\uC2B5\uB2C8\uB2E4. \uC6B0\uB9AC \uD68C\uC0AC\uC758 \uC88C\uC6B0\uBA85\uC778 \"\uC65C \uB808\uD14C\uC774\uC544 \uC5C6\uC774 \uC0AC\uC2ED\uB2C8\uAE4C?\"\uB294 \uC774\uC81C \uC5EC\uB290 \uB54C\uBCF4\uB2E4\uB3C4 \uB354 \uB2EC\uC131\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4! \uC6B0\uB9AC \uD68C\uC0AC\uC758 \uB180\uB78D\uB3C4\uB85D \uD0C4\uD0C4\uD55C \uBC94\uC704\uC758 \uC81C\uD488\uACFC \uC11C\uBE44\uC2A4\uB97C \uD55C\uBC88 \uC0B4\uD3B4\uBD05\uC2DC\uB2E4:
+  "op": "replace",
+  "path": "/contentPages/0",
+  "value": "^yellow;레테이아 회사^white;는 삶의 모든 면에서 당신을 돕기 위해 이곳에 있습니다. 우리 회사의 좌우명인 \"왜 레테이아 없이 사십니까?\"는 이제 여느 때보다도 더 달성할 수 있습니다! 우리 회사의 놀랍도록 탄탄한 범위의 제품과 서비스를 한번 살펴봅시다:
 
-^orange;\uC6B0\uC8FC \uD56D\uD574^white;
+^orange;우주 항해^white;
 
-\uC6B0\uB9AC \uD68C\uC0AC\uC758 \uB514\uB7ED\uC2A4\uAE09 \uD568\uC120\uC740 \uC0B0\uC5C5 \uD654\uBB3C\uC120\uBD80\uD130 \uBE44\uC988\uB2C8\uC2A4\uAE09 \uBBFC\uAC04 \uC218\uC1A1\uAE30\uAE4C\uC9C0 \uC5B4\uB290 \uB54C\uBCF4\uB2E4 \uB354 \uD3ED\uB113\uC740 \uBC94\uC704\uB85C \uB098\uC635\uB2C8\uB2E4."
- }, 
+우리 회사의 디럭스급 함선은 산업 화물선부터 비즈니스급 민간 수송기까지 어느 때보다 더 폭넓은 범위로 나옵니다."
+ },
  {
-  "op": "replace", 
-  "path": "/contentPages/1", 
-  "value": "^orange;\uC6B0\uC8FC \uC815\uAC70\uC7A5^white;
+  "op": "replace",
+  "path": "/contentPages/1",
+  "value": "^orange;우주 정거장^white;
 
-\uC790\uC2E0\uB9CC\uC758 \uADA4\uB3C4 \uBB34\uC5ED \uC911\uC2EC\uC9C0\uB97C \uC2DC\uC791\uD558\uAE38 \uC6D0\uD558\uC2ED\uB2C8\uAE4C? \uC9C0\uAE08 \uC740\uD558 \uBCC0\uB450\uB9AC\uC5D0 \uC788\uB294 \uBAA8\uB4E0 \uC815\uAC70\uC7A5 \uC911 65%\uB294 \uB808\uD14C\uC774\uC544\uB97C \uD1B5\uD574 \uBC30\uCE58\uB429\uB2C8\uB2E4!
+자신만의 궤도 무역 중심지를 시작하길 원하십니까? 지금 은하 변두리에 있는 모든 정거장 중 65%는 레테이아를 통해 배치됩니다!
 
-^orange;\uC5F0\uB8CC \uCC44\uAD74^white;
+^orange;연료 채굴^white;
 
-\uB808\uD14C\uC774\uC544\uC758 \uC5D0\uB974\uD0A4\uC6B0\uC2A4 \uCC44\uAD74 \uC2DC\uC124\uC740 \uBD88\uAC00\uC0AC\uC758\uD55C \uC0AC\uACE0\uB97C \uADF8\uB2E4\uC74C\uC73C\uB85C \uC801\uAC8C \uACAA\uC740 \uACBD\uC7C1 \uAE30\uC5C5\uBCF4\uB2E4 6% \uB354 \uC801\uAC8C \uACBD\uD5D8\uD558\uACE0 \uC788\uC2B5\uB2C8\uB2E4."
- }, 
+레테이아의 에르키우스 채굴 시설은 불가사의한 사고를 그다음으로 적게 겪은 경쟁 기업보다 6% 더 적게 경험하고 있습니다."
+ },
  {
-  "op": "replace", 
-  "path": "/contentPages/2", 
-  "value": "^orange;\uAC00\uAD6C^white;
+  "op": "replace",
+  "path": "/contentPages/2",
+  "value": "^orange;가구^white;
 
-\uC6B0\uB9AC \uC0AC\uB0B4 \uB514\uC790\uC774\uB108\uB4E4\uC740 \uC804 \uC740\uD558 \uC131\uB2E8\uC5D0\uC11C \uAC00\uC7A5 \uB110\uB9AC \uBCF5\uC81C\uB41C \uC6B0\uC8FC\uC120 \uAC00\uAD6C \uC911 \uC77C\uBD80\uB97C \uC0DD\uC0B0\uD569\uB2C8\uB2E4!
+우리 사내 디자이너들은 전 은하 성단에서 가장 널리 복제된 우주선 가구 중 일부를 생산합니다!
 
-^orange;\uBBF8\uB514\uC5B4^white;
+^orange;미디어^white;
 
-\uB808\uD14C\uC774\uC544 \uC5D4\uD130\uD14C\uC778\uBA3C\uD2B8 \uBE0C\uB79C\uB4DC\uB4E4\uC740 \uD06C\uAC8C \uC131\uACF5\uD55C \uC560\uB2C8\uBA54\uC774\uC158 \uC2DC\uB9AC\uC988 \uB204\uBBF8\uBD80\uD130 \"\uC544\uB984\uB2E4\uC6B4 \uB3C4\uC804!\" \uBE44\uB514\uC624 \uAC8C\uC784 \uD504\uB79C\uCC28\uC774\uC988\uC640 \uAC19\uC740 \uD2C8\uC0C8 \uC81C\uD488\uAD70\uC5D0 \uC774\uB974\uAE30\uAE4C\uC9C0 \uB2E4\uC591\uD569\uB2C8\uB2E4."
+레테이아 엔터테인먼트 브랜드들은 크게 성공한 애니메이션 시리즈 누미부터 \"아름다운 도전!\" 비디오 게임 프랜차이즈와 같은 틈새 제품군에 이르기까지 다양합니다."
  }
 ]

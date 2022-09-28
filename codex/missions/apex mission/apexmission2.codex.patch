@@ -1,20 +1,20 @@
 [
  {
-  "op": "replace", 
-  "path": "/title", 
-  "value": "\uBC29\uC5B4 \uC2DC\uC2A4\uD15C"
- }, 
+  "op": "replace",
+  "path": "/title",
+  "value": "방어 시스템"
+ },
  {
-  "op": "replace", 
-  "path": "/description", 
-  "value": "\uC81C1\uBC88 \uC9C0\uC815\uBD80 \uC694\uC0C8\uC5D0\uC11C \uC9C0\uC815\uBD80 \uBCF8\uBD80\uB85C \uBCF4\uB0B4\uB294 \uD329\uC2A4\uC774\uB2E4."
- }, 
+  "op": "replace",
+  "path": "/description",
+  "value": "제1번 지정부 요새에서 지정부 본부로 보내는 팩스이다."
+ },
  {
-  "op": "replace", 
-  "path": "/contentPages/0", 
-  "value": "\uAE08\uC77C \uBC1C\uC1A1\uD558\uC2DC\uC624
-\uBC1C\uC2E0\uC9C0: \uC81C1\uBC88 \uC9C0\uC815\uBD80 \uC694\uC0C8
-\uC218\uC2E0\uC9C0: \uC9C0\uC815\uBD80 \uBCF8\uBD80
-\uBCF8\uBD80\uC5D0 \uC81C1\uBC88 \uC694\uC0C8\uC5D0 \uC124\uCE58\uB41C \uC0C8\uB85C\uC6B4 \uBC29\uC5B4 \uC2DC\uC2A4\uD15C\uC758 \uC720\uD6A8\uD568\uC744 \uC54C\uB9BD\uB2C8\uB2E4. \uD604\uC7AC \uAC1C\uBC1C \uC911\uC778 \uBB34\uAE30 \uC2DC\uC2A4\uD15C\uC758 \uC131\uACF5 \uB610\uD55C \uC54C\uB824 \uB4DC\uB9BD\uB2C8\uB2E4. \uBAA8\uB4E0 \uAE30\uB300\uCE58\uB97C \uB2A5\uAC00\uD569\uB2C8\uB2E4. \uC81C1\uBC88 \uC694\uC0C8\uB294 \uBCF8\uBD80 \uBD80\uC9C0\uC5D0 \uC5B8\uAE09\uD55C \uC2DC\uC2A4\uD15C\uC744 \uB3C4\uC785\uD558\uB294 \uB370 \uC788\uC5B4\uC11C \uBCF8\uBD80\uC5D0 \uC9C0\uC6D0\uC744 \uC81C\uACF5\uD569\uB2C8\uB2E4. \uAE30\uC220\uC790\uB4E4\uC774 \uC989\uC2DC \uD30C\uACAC\uB418\uC5C8\uC2B5\uB2C8\uB2E4."
+  "op": "replace",
+  "path": "/contentPages/0",
+  "value": "금일 발송하시오
+발신지: 제1번 지정부 요새
+수신지: 지정부 본부
+본부에 제1번 요새에 설치된 새로운 방어 시스템의 유효함을 알립니다. 현재 개발 중인 무기 시스템의 성공 또한 알려 드립니다. 모든 기대치를 능가합니다. 제1번 요새는 본부 부지에 언급한 시스템을 도입하는 데 있어서 본부에 지원을 제공합니다. 기술자들이 즉시 파견되었습니다."
  }
 ]

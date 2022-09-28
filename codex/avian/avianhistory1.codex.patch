@@ -1,23 +1,23 @@
 [
  {
-  "op": "replace", 
-  "path": "/title", 
-  "value": "\uC544\uBCF4\uC2A4\uD06C\uB9BD\uD2B8 1:1:1"
- }, 
+  "op": "replace",
+  "path": "/title",
+  "value": "아보스크립트 1:1:1"
+ },
  {
-  "op": "replace", 
-  "path": "/description", 
-  "value": "\uC544\uBE44\uC548\uC758 \uC131\uC11C\uC5D0\uC11C \uBC1C\uCDCC\uD55C \uAE00\uC774\uB2E4."
- }, 
+  "op": "replace",
+  "path": "/description",
+  "value": "아비안의 성서에서 발췌한 글이다."
+ },
  {
-  "op": "replace", 
-  "path": "/contentPages/0", 
-  "value": "\uC544\uBCF4\uC2A4\uB294 \uD55C\uB54C \uBCC4\uB4E4 \uC800\uD3B8\uC5D0 \uBB36\uC600\uC5C8\uC73C\uB2C8 \uC774\uAC83\uB9CC\uC740 \uC54C\uB824\uC838 \uC788\uB290\uB2C8\uB77C
+  "op": "replace",
+  "path": "/contentPages/0",
+  "value": "아보스는 한때 별들 저편에 묶였었으니 이것만은 알려져 있느니라
 
-\uD0DC\uCD08\uB294 \uC5C6\uC5C8\uC73C\uB2C8 \uC774\uB294 \uC544\uBE44\uC548 \uC885\uC871\uC774 \uD544\uBA78\uC758 \uC601\uC5ED\uC744 \uB118\uC5B4 \uC601\uC6D0\uD788 \uC0B4\uC544\uC654\uAE30 \uB54C\uBB38\uC774\uB77C
+태초는 없었으니 이는 아비안 종족이 필멸의 영역을 넘어 영원히 살아왔기 때문이라
 
-\uADF8 \uCC9C\uC0C1\uC5D0\uC11C \uADF8\uB4E4\uC740 \uBAA8\uB4E0 \uAC83 \uC704\uC5D0 \uB0A0\uAC1C \uB2EC\uB9AC\uC2E0 \uBD84, \uD074\uB8E8\uC5D1\uC2A4\uC758 \uD488\uC18D\uC5D0\uC11C \uC0B4\uC558\uACE0 
+그 천상에서 그들은 모든 것 위에 날개 달리신 분, 클루엑스의 품속에서 살았고
 
-\uD074\uB8E8\uC5D1\uC2A4\uAED8\uC11C \uADF8\uB4E4\uC5D0\uAC8C \uC9C4\uC815\uD55C \uB0A0\uAC1C\uB97C \uC120\uBB3C\uB85C \uC8FC\uC168\uC73C\uB2C8 \uADF8\uB4E4\uC774 \uB3D9\uC77C\uD558\uAC8C \uACBD\uBC30\uD588\uB290\uB2C8\uB77C"
+클루엑스께서 그들에게 진정한 날개를 선물로 주셨으니 그들이 동일하게 경배했느니라"
  }
 ]
