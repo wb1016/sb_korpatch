@@ -1,0 +1,570 @@
+[
+ // Erchius mission &&&찾기
+ {
+  "op": "replace", 
+  "path": "/lunarbase01/text", 
+  "value": "모든 생명 표시 값이 표면 아래 아주 깊은 곳에서 나옵니다. 그 값은... 정의하기 어렵습니다. 미리 수호자님의 용기에 경의를 표합니다."
+ },  
+ {
+  "op": "replace", 
+  "path": "/lunarbase02/text", 
+  "value": "봉쇄가 실시된 것 같습니다. 전기를 완전히 복구하기 위해서 차단기를 찾아야 합니다. 어두운 환경에선 조심히 나아가세요."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/lunarbase03/text", 
+  "value": "이 개체들에게서 에르키우스의 화학적 특징들과 인간의 DNA가 함께 발견됩니다. 높은 확률로 변덕스러운 행동 양상이 예측됩니다."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/lunarbase04/text", 
+  "value": "에르키우스 측정값이 94 래드에 달했습니다. 심각한 위험에 빠지셨습니다. 현재 위험 수준은 14,507 모트입니다."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/lunarbase04a/senderName",
+  "value": "에스더 브라이트"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/lunarbase04a/text", 
+  "value": "그 AI에 대해선 유감이구나, 얘야."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/lunarbase05/senderName",
+  "value": "에스더 브라이트"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/lunarbase05/text", 
+  "value": "저들을 보렴! 에르키우스 수정과의 장기적인 접촉이 그들의 존재 자체를 변질시킨 것 같구나! 저 불쌍한 사람들은 완전히 자기 자신을 잃어버렸어."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/lunarbase06/text", 
+  "value": "에르키우스 측정값이 101 래드에 달했습니다. 현재 위험 수준은 18,472 모트입니다..."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/lunarbase06a/senderName",
+  "value": "에스더 브라이트"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/lunarbase06a/text", 
+  "value": "쉿! 도움이 안 되는구나."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/lunarbase07/text", 
+  "value": "재래식 무기들은 저 에르키우스 수정에게 피해를 줄 확률이 0%로 추정됩니다. 다른 공격 수단을 궁리하는 것이 요구됩니다." 
+ }, 
+ {
+  "op": "replace", 
+  "path": "/lunarbase08/senderName", 
+  "value": "에스더 브라이트"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/lunarbase08/text", 
+  "value": "잘했구나!"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/lunarbase08a/text", 
+  "value": "함선을 완전히 고칠만큼 에르키우스 수정이 이곳에 충분히 있습니다." 
+ },
+ // Floran mission
+ {
+  "op": "replace", 
+  "path": "/floranmission101/text", 
+  "value": "이 유적들은 고대의 것이며 플로란들에게 신성시되는 것으로 보입니다. 측정 결과 유적들은 또한 어둡고 불길합니다."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/floranmission102/text", 
+  "value": "생체 측정값에 따르면 많은 생체 신호가 이 터널들 안에 있습니다. 그중 97%는 적대적입니다. 수호자님의 용기를 칭찬해드립니다." 
+ }, 
+ {
+  "op": "replace", 
+  "path": "/floranmission103/senderName", 
+  "value": "에스더 브라이트"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/floranmission103/text", 
+  "value": "정말 혈기 왕성한 플로란이구나! 내가 젊었을 때를 떠올리게 해. 이파리가 달려 있지는 않았지만 말이다."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/floranmission104/senderName", 
+  "value": "에스더 브라이트"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/floranmission104/text", 
+  "value": "이 플로란들이 추적하고 있는 것이 무엇이든 간에 분명히 그들에게 대단히 중요한 것이로구나. 저들은 곤충 채집을 할 때의 나보다도 더 심각해! 조심하렴, 얘야."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/floranmission105/text", 
+  "value": "이 물질은 유기체에서 나왔습니다. 분석 결과가 나오지는 않았지만, 이 만큼의 물질을 생산하려 한다면 상당히 커다란 생물이 있어야 할 겁니다."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/floranmission106/text", 
+  "value": "흔적을 보면 이 개체들은 아직 완전히 자란 것이 아닙니다. 높은 확률로 그것들은 겨우 막 부화했습니다. 우연히 둥지로 들어가셨나 봅니다." 
+ }, 
+ // Apex mission
+ {
+  "op": "replace", 
+  "path": "/apexmission01/senderName", 
+  "value": "에스더 브라이트"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/apexmission01/text", 
+  "value": "우리가 우연히 지정부에 대한 반란군의 공격과 같은 날에 왔나 보구나. 난 이게 저들과 우리 모두에게 유리하게 작용할 거로 생각한단다, 얘야."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/apexmission02/text", 
+  "value": "스캔 결과 이 시설은 모든 층에 순찰을 도는 중무장한 경비들로 빈틈없이 방어되고 있습니다." 
+ }, 
+ {
+  "op": "replace", 
+  "path": "/apexmission02a/text", 
+  "value": "제 감지기가 막 또 다른 경비 한 명을 감지했습니다... 그리고 한 명 더요."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/apexmission03/text", 
+  "value": "이건 연결된 회로입니다. 이 보안 문을 연 것이 그에 상응하는 지상의 다른 보안 문을 열었습니다."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/apexmission03a/senderName", 
+  "value": "에스더 브라이트"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/apexmission03a/text", 
+  "value": "우리가 압제에 저항하는 반란에 긍정적인 영향을 끼칠 수 있는 것으로 보이는구나! 훌륭해. 티끌 모아 태산이란다."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/apexmission04/text", 
+  "value": "지상에 이 보호 장치가 달린 발전기로 유지되는 또 다른 보안 문이 있습니다. 보호 장치를 정지시킨다면 발전기를 무력화시켜 그 보안 문을 열 수 있습니다."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/apexmission04a/text", 
+  "value": "복잡한 목표를 추구하는 수호자님의 집요한 투지에 갈채를 보내드립니다."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/apexmission05/text", 
+  "value": "이곳 아래 연구실의 깊은 곳에 이상한 생명 신호가 있습니다."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/apexmission06/senderName", 
+  "value": "에스더 브라이트"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/apexmission06/text", 
+  "value": "이건 견고한 지정부의 요새로구나... 얘야, 네가 항상 눈에 띌 정도로 조심한단 걸 알지만 이번에는 특히 조심해야 할 것 같단다..."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/apexmission06a/senderName", 
+  "value": "에스더 브라이트"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/apexmission06a/text", 
+  "value": "빅 에이프는 대단히 위험한 적이란다."
+ }, 
+ // Avian mission
+ {
+  "op": "replace", 
+  "path": "/avianmission01/senderName", 
+  "value": "에스더 브라이트"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/avianmission01/text", 
+  "value": "얘야, 그가 자고 있는 동안 안으로 가는 길을 찾아 돌아다니는 게 가장 좋겠구나. 우리는 그를 걱정시키고 싶지는 않단다."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/avianmission02/text", 
+  "value": "예전 데이터에 따르면 이 정도로 아주 오래된 사원은 이 정도로 치명적인 보안 체계를 가질 수 없습니다... 데이터의 표시 한도를 재조정합니다."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/avianmission03/text", 
+  "value": "갈림길을 발견했습니다. 오른쪽 길도 왼쪽 길도 택하지 않는 것을 충고해 드립니다. 애석하게도, 이건 선택지에 없군요."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/avianmission04/senderName", 
+  "value": "누루"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/avianmission04/text", 
+  "value": "나는. 불이. 싫어."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/avianmission05/senderName", 
+  "value": "누루"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/avianmission05/text", 
+  "value": "꼭 피해야 해! 불은 찌르을 수 없어! 쏴버릴 수도 없어! 그저 숨어 다니면서 불한테 들키지 않기를 바라야 해."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/avianmission06/senderName", 
+  "value": "코이치"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/avianmission06/text", 
+  "value": "이 공간은 약간 아늑하네요... 당연히 꺼림칙한 가시들은 빼고요. 그렇고 말고요..." 
+ }, 
+ // Hylotl mission
+ {
+  "op": "replace", 
+  "path": "/hylotlmission01/text", 
+  "value": "이 섬에는 \"대 파고다 도서관\"의 입구가 있습니다."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/hylotlmission02/text", 
+  "value": "현재 외부 압력은 15 쿼시 입니다. 스캔 결과 이 구조물은 80 쿼시 이상을 견뎌낼 수 있습니다. 생존 확률은 놀라울 정도로 높습니다."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/hylotlmission03/text", 
+  "value": "지금 지하층으로 접근하고 계십니다. 측정값이 왜곡되었지만 원하신다면야 위험 정도를 추정해 드릴 수 있습니다..."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/hylotlmission03a/senderName", 
+  "value": "에스더 브라이트"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/hylotlmission03a/text", 
+  "value": "이 광신도들에 대해 들어는 보았지만, 거의 아는 게 없단다... 혹시...? 누가 알겠냐마는." 
+ }, 
+ {
+  "op": "replace", 
+  "path": "/hylotlmission03b/senderName", 
+  "value": "누루"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/hylotlmission03b/text", 
+  "value": "걱정하지 마! 사람을 죽이려드는 이방인은 완전히 너의 즈언문분야잖아."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/hylotlmission04/senderName", 
+  "value": "에스더 브라이트"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/hylotlmission04/text", 
+  "value": "저 여자... 그녀의 목소리... 이렇게나 시간이 흘렀는데, 설마?"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/hylotlmission05/text", 
+  "value": "데이터 분석 결과 이 방에 살아서 도달하기는 불가능이었어야 했습니다. 이성을 놓은 고집스러운 인내심에 축하를 드립니다!" 
+ }, 
+ // Glitch mission
+ {
+  "op": "replace", 
+  "path": "/glitchmission01/senderName", 
+  "value": "에스더 브라이트"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/glitchmission01/text", 
+  "value": "이 요새는 남작으로 알려진 한 글리치의 소유란다. 그는 은퇴한 영웅인데, 모든 사람들이 말하기를 조금... 유별나다고 하더구나..."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/glitchmission01a/senderName", 
+  "value": "에스더 브라이트"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/glitchmission01a/text", 
+  "value": "얘야, 남작이 나사가 조금 풀렸을지는 몰라도 위험한 사람은 아니란다."
+ }, 
+ // Ruin mission
+ {
+  "op": "replace", 
+  "path": "/tentaclemission-arrived/text", 
+  "value": "측정 결과 이 구조물은 하나의 행성인 것으로 보이지만, 실제로는 하나의 살아있는 거대한 유기체입니다."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/tentaclemission-arrived2/senderName", 
+  "value": "에스더 브라이트"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/tentaclemission-arrived2/text", 
+  "value": "너는 파멸 위에 서있단다, 얘야. 파멸의 표면에서는 많은 피해를 줄 수 없으니 파멸 속으로 파고들어 가야 할 거란다."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/tentaclemission-arrived3/senderName", 
+  "value": "라나 블레이크"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/tentaclemission-arrived3/text", 
+  "value": "아래에서 조심하도록. 자네가 마주치는 모든 생물과 물질은 반드시 적대적일 거다..."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/tentaclemission-bottom/text", 
+  "value": "측정 결과 발밑에 깊은 곳까지 이어지는 광대한 골짜기가 있습니다."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/tentaclemission-bottom2/senderName", 
+  "value": "코이치"
+ },
+ {
+  "op": "replace", 
+  "path": "/tentaclemission-bottom2/text", 
+  "value": "SAIL의 말이 맞아요, 발밑에 바로 커다란 빈 공간이 있습니다. 당신과 파멸의 중심 구조 사이의 거대한 틈이요. 내려가는 안전한 길을 생각해 내야 할겁니다."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/tentaclemission-bossroom/senderName", 
+  "value": "에스더 브라이트"
+ },
+ {
+  "op": "replace", 
+  "path": "/tentaclemission-bossroom/text", 
+  "value": "파멸의 심장에 도착했구나. 반드시 그것을 부숴야 한단다."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/tentaclemission-bossroom2/senderName", 
+  "value": "토나우악"
+ },
+ {
+  "op": "replace", 
+  "path": "/tentaclemission-bossroom2/text", 
+  "value": "클루엑스께서 당신을 인도하시기를."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/tentaclemission-destruction1/senderName", 
+  "value": "에스더 브라이트"
+ },
+ {
+  "op": "replace", 
+  "path": "/tentaclemission-destruction1/text", 
+  "value": "해냈구나! ...하지만 뭔가 이상하구나. 파멸... 파멸의 구조가 불안정해!"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/tentaclemission-destruction2/senderName", 
+  "value": "코이치"
+ },
+ {
+  "op": "replace", 
+  "path": "/tentaclemission-destruction2/text", 
+  "value": "폭발할겁니다! 나가세요!"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/tentaclemission-destruction3/senderName", 
+  "value": "누루"
+ },
+ {
+  "op": "replace", 
+  "path": "/tentaclemission-destruction3/text", 
+  "value": "훈수두지마, 이 생선대가리! 걔는 이전에 이것보다 훨씬 더 나쁜 상황들도 처리했다고!"
+ }, 
+ // Cultist mission
+ {
+  "op": "replace", 
+  "path": "/cultistmission01a/senderName", 
+  "value": "에스더 브라이트"
+ },
+ {
+  "op": "replace", 
+  "path": "/cultistmission01a/text", 
+  "value": "그녀를 발견했구나... 아스라를 찾았어."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/cultistmission01b/senderName", 
+  "value": "캡틴 노블"
+ },
+ {
+  "op": "replace", 
+  "path": "/cultistmission01b/text", 
+  "value": "그 전설의 에스더 브라이트가 네 통신 회선에 있는거야, 파트너? 여사님, 만나 뵙게 되어 영광입니다!"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/cultistmission01c/senderName", 
+  "value": "에스더 브라이트"
+ },
+ {
+  "op": "replace", 
+  "path": "/cultistmission01c/text", 
+  "value": "내가 더 영광이구나, 얘야."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/cultistmission02/senderName", 
+  "value": "코이치"
+ },
+ {
+  "op": "replace", 
+  "path": "/cultistmission02/text", 
+  "value": "이 플랫폼으로, 음, 메크를 호출할 수 있는 것 같아 보입니다. 지금 이동하는 데에 유용할 겁니다."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/cultistmission03a/senderName", 
+  "value": "라나 블레이크"
+ },
+ {
+  "op": "replace", 
+  "path": "/cultistmission03a/text", 
+  "value": "적의 비행 요새가 그렇게 취약한 보안 프로토콜을 가졌다니 운이 좋군."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/cultistmission03b/senderName", 
+  "value": "캡틴 노블"
+ },
+ {
+  "op": "replace", 
+  "path": "/cultistmission03b/text", 
+  "value": "끝내주는 해킹 실력 좀 보자고, 파트너!"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/cultistmission03c/senderName", 
+  "value": "남작"
+ },
+ {
+  "op": "replace", 
+  "path": "/cultistmission03c/text", 
+  "value": "인상 깊음. 저들의 행위에도 불구하고, 이 혐오스러운 광신도들은 적어도 개인적인 용무를 보는 방을 티끌 하나 없도록 유지하는 법은 알고 있으니."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/cultistmission04a/senderName", 
+  "value": "누루"
+ },
+ {
+  "op": "replace", 
+  "path": "/cultistmission04a/text", 
+  "value": "냉장고다! 나쁜 놈드른 아침으로 뭘 먹는지 궁금한걸?"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/cultistmission04b/senderName", 
+  "value": "남작"
+ },
+ {
+  "op": "replace", 
+  "path": "/cultistmission04b/text", 
+  "value": "즐거움. 아마도... 골탕을 먹는가? 허허! 내 재치는 흠잡을 데 없네!"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/cultistmission05a/senderName", 
+  "value": "캡틴 노블"
+ },
+ {
+  "op": "replace", 
+  "path": "/cultistmission05a/text", 
+  "value": "순조롭게 나아가고 있어, 파트너. 이 함선 참 거대하구만, 안그래?"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/cultistmission05b/senderName", 
+  "value": "토나우악"
+ },
+ {
+  "op": "replace", 
+  "path": "/cultistmission05b/text", 
+  "value": "이야, 클루엑스님의 신성한 사원들 중 가장 거대한 것에 비할 만큼 커다랗네요!"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/cultistmission06a/text", 
+  "value": "이건 누구의 통신 채널이지?! 너흰 왜 단탈리온에 승선해 있는거냐?!"
+ },
+ {
+  "op": "replace", 
+  "path": "/cultistmission06b/senderName", 
+  "value": "에스더 브라이트"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/cultistmission06b/text", 
+  "value": "이런. ^orange;너^white;로구나."
+ },
+ {
+  "op": "replace", 
+  "path": "/cultistmission07/senderName", 
+  "value": "에스더 브라이트"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/cultistmission07/text", 
+  "value": "오 아스라, 네가 파멸에 집착하는 건 언제 끝나게 되겠니?"
+ },
+ {
+  "op": "replace", 
+  "path": "/cultistmission08/senderName", 
+  "value": "캡틴 노블"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/cultistmission08/text", 
+  "value": "난 이것의 어떤 면도 마음에 들지 않아, 파트너."
+ },
+ {
+  "op": "replace", 
+  "path": "/cultistmission09a/senderName", 
+  "value": "아스라 녹스"
+ }, 
+ {
+  "op": "replace", 
+  "path": "/cultistmission09a/text", 
+  "value": "날 기다리게 하지마라, \"수호자\"."
+ }, 
+ {
+  "op": "replace", 
+  "path": "/cultistmission09b/senderName", 
+  "value": "에스더 브라이트"
+ },
+ {
+  "op": "replace", 
+  "path": "/cultistmission09b/text", 
+  "value": "이게 맞는 것 같구나, 얘야. 준비가 되었길 바란다..."
+ }
+]
