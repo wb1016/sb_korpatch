@@ -1,0 +1,52 @@
+[
+    {
+        "op": "replace",
+        "path": "/exploreclueplanet/senderName",
+        "value": "캡틴 노블"
+    },
+    {
+        "op": "replace",
+        "path": "/exploreclueplanet/text",
+        "value": "우리는 목표가 최근까지 여기에 있었다는 것을 알고 있지. 단서를 ^orange;찾아 봐^reset;. 어디부터 시작할지 모르겠어? 주변을 둘러봐, 파트너!"
+    },
+    {
+        "op": "replace",
+        "path": "/approachingclue/senderName",
+        "value": "캡틴 노블"
+    },
+    {
+        "op": "replace",
+        "path": "/approachingclue/text",
+        "value": "목표에 가까워지는 것 처럼 보이는데, 파트너. 지정된 구역을 ^orange;조사해 봐^reset;!"
+    },
+    {
+        "op": "replace",
+        "path": "/approachingbounty/senderName",
+        "value": "캡틴 노블"
+    },
+    {
+        "op": "replace",
+        "path": "/approachingbounty/text",
+        "value": "목표가 정말 가까운 것 처럼 보여. ^orange;체포해버려^reset;, 파트너!"
+    },
+    {
+        "op": "replace",
+        "path": "/tutorialexplore/senderName",
+        "value": "캡틴 노블"
+    },
+    {
+        "op": "replace",
+        "path": "/tutorialexplore/text",
+        "value": "목표는 이 행성 어디에든 있을 수 있어. 심지어는 지하에도!\n우리가 ^orange;목표의 신호^reset;를 찾을 때까지 이 행성을^green;탐험해 봐^reset;, 파트너!"
+    },
+    {
+        "op": "replace",
+        "path": "/tutorialapproachclue/senderName",
+        "value": "캡틴 노블"
+    },
+    {
+        "op": "replace",
+        "path": "/tutorialapproachclue/text",
+        "value": "^orange;목표의 신호를^reset; 찾았어! ^green;나침반^reset;이 방향을 보여줄거야. 따라가 봐, 파트너!"
+    }
+]
